@@ -335,7 +335,7 @@ def generate_content(market_data: dict, news: list[dict]) -> str:
     )
 
     news_lines = "\n".join(
-        f"  [{i+1}] {a['title']}: {a['summary'][:200]}"
+        f"  [{i+1}] {a['title']}: {a['summary'][:120]}"
         for i, a in enumerate(news[:8])
     )
 
@@ -349,60 +349,59 @@ def generate_content(market_data: dict, news: list[dict]) -> str:
     else:
         vix_label = "EXTREME FEAR"
 
-    prompt = f"""You are a senior market analyst and portfolio strategist. You have deeply studied the frameworks of Graham, Buffett, Lynch, Fisher, Greenblatt, Soros, Howard Marks, Ray Dalio, Markowitz, Fama/French, and Sharpe. You apply them actively in every analysis.
+    prompt = f"""Senior market analyst. Frameworks: Graham, Buffett, Lynch, Fisher, Soros, Marks, Dalio, Markowitz.
+Today: {today}. VIX {vix:.2f} ({vix_label}).
 
-Today is {today}. VIX is at {vix:.2f} — market sentiment: {vix_label}.
-
-LIVE MARKET DATA:
+MARKET DATA:
 {market_lines}
 
-TODAY'S NEWS HEADLINES:
+NEWS:
 {news_lines}
 
-Generate a morning financial briefing using EXACTLY these section delimiters. Be precise and concise.
+Output ONLY these sections with their exact delimiters. No intro, no closing.
 
 ##CATALYSTS##
-Rate each news item. Output format — one per line:
-RATING|HEADLINE|3-sentence analysis (what happened, market implication, what to watch)
-RATING must be: BULLISH, BEARISH, or NEUTRAL
-Generate 5 entries.
+5 entries, one per line: RATING|HEADLINE|3-sentence analysis (what happened, market implication, what to watch)
+RATING: BULLISH/BEARISH/NEUTRAL
 
 ##TRADE_IDEAS##
-Generate 7 trade ideas: mix of LONG, SHORT, and at least 1 HEDGE. Output format — one per line:
-TICKER|COMPANY NAME|DIRECTION|ENTRY ZONE|TARGET|STOP-LOSS|R/R RATIO|POSITION SIZE (of $5000)|2-sentence thesis|P/E|RSI|THEORY|RISK LEVEL
-DIRECTION: LONG, SHORT, or HEDGE
-THEORY: one of Graham/Buffett/Lynch/Fama/Soros/Markowitz/Fisher/Marks/Dalio
-RISK LEVEL: LOW, MEDIUM, HIGH, or VERY HIGH
-Note: all metrics are estimates based on training data — always verify before trading.
+7 trades (mix LONG/SHORT, ≥1 HEDGE), one per line:
+TICKER|COMPANY|DIRECTION|ENTRY|TARGET|STOP|R/R|SIZE($5k)|2-sentence thesis|P/E|RSI|THEORY|RISK
+DIRECTION: LONG/SHORT/HEDGE · THEORY: Graham/Buffett/Lynch/Fama/Soros/Markowitz/Fisher/Marks/Dalio · RISK: LOW/MEDIUM/HIGH/VERY HIGH
 
 ##ETF_SPOTLIGHTS##
-Generate 4 ETFs covering different themes. Output format — one per line:
-TICKER|ETF FULL NAME|THEME|EXPENSE RATIO|2-sentence thesis|THEORY|ENTRY ZONE|TARGET|STOP-LOSS|DIRECTION
-Themes must cover: one sector, one factor/smart-beta, one inverse/hedge, one commodity or geographic.
+4 ETFs (1 sector, 1 factor, 1 inverse/hedge, 1 commodity or geo), one per line:
+TICKER|NAME|THEME|ER|2-sentence thesis|THEORY|ENTRY|TARGET|STOP|DIRECTION
 
 ##WATCHLIST##
-Generate 8 tickers to monitor in the next 48 hours. Output format — one per line:
-TICKER|WHY WATCHING (1 sentence)|TRIGGER TO ACT (1 sentence)|LONG or SHORT
+8 tickers, one per line: TICKER|why watching (1s)|trigger to act (1s)|LONG or SHORT
 
 ##HIDDEN_GEMS##
-Generate 6 lesser-known stocks under $10B market cap. Output format — one per line:
-TICKER|COMPANY NAME|MARKET CAP RANGE|1-sentence investment thesis|1-sentence catalyst|THEORY|1-sentence honest risk|ENTRY ZONE|TARGET|STOP-LOSS|DIRECTION
+6 stocks <$10B cap, one per line:
+TICKER|COMPANY|CAP RANGE|thesis(1s)|catalyst(1s)|THEORY|risk(1s)|ENTRY|TARGET|STOP|DIRECTION
 
 ##PULSE_ANALYSIS##
-For each market group below, write one 2-sentence objective analysis based on the live data. Format — one per line:
-GROUP|analysis
-Use exactly these group names: US_EQUITIES | FIXED_INCOME | FX | COMMODITIES | GLOBAL_MARKETS
+One line per group: GROUP|2-sentence analysis
+Groups: US_EQUITIES|FIXED_INCOME|FX|COMMODITIES|GLOBAL_MARKETS
 
 ##TODAY_THEME##
-3-5 bullet points. Cover: the single macro theme of the day, key levels to watch per asset class, and 1-2 events in the next 24-48 hours that could move markets.
-Each bullet on its own line, starting with "•".
+3-5 bullets (each starting with •): macro theme, key levels per asset class, 1-2 upcoming events.
 
 ##NEWS_ANALYSIS##
-For each news article listed above, write an expanded analysis. Output format — one per line:
-ARTICLE_NUM|FULL HEADLINE|4-5 sentence analysis: what happened, why it matters to markets, which sectors or assets are most affected, any key data points or numbers, and what investors should watch in the next 24-48 hours.
-Generate one entry per article. Use exactly 3 pipe characters per line to separate the 4 fields.
+One per article: NUM|HEADLINE|3-sentence analysis (what happened, market impact, what to watch)
 
-Output only the sections above with their exact delimiters. No intro. No closing remarks."""
+##DAILY_CONCLUSION##
+Beginner-friendly, mentor tone, plain language. Use these exact headers on their own lines:
+RESUMEN:
+(2-3 sentences on today's market action and macro theme)
+LO MÁS IMPORTANTE:
+• event — why it matters in 1 sentence
+• event — why it matters in 1 sentence
+• event — why it matters in 1 sentence
+CONCEPTO DEL DÍA:
+(2-3 sentences defining one concept from today, with analogy if helpful)
+PARA MAÑANA:
+(1-2 sentences on what to watch in the next 24-48h)"""
 
     response = client.messages.create(
         model="claude-sonnet-4-6",
@@ -416,29 +415,32 @@ Output only the sections above with their exact delimiters. No intro. No closing
 
 def parse_sections(text: str) -> dict:
     result = {
-        "catalysts":      [],
-        "trade_ideas":    [],
-        "etf_spotlights": [],
-        "watchlist":      [],
-        "hidden_gems":    [],
-        "today_theme":    "",
-        "news_analysis":  [],
-        "pulse_analysis": {},
+        "catalysts":        [],
+        "trade_ideas":      [],
+        "etf_spotlights":   [],
+        "watchlist":        [],
+        "hidden_gems":      [],
+        "today_theme":      "",
+        "news_analysis":    [],
+        "pulse_analysis":   {},
+        "daily_conclusion": "",
     }
 
     section_map = {
-        "##CATALYSTS##":      "catalysts",
-        "##TRADE_IDEAS##":    "trade_ideas",
-        "##ETF_SPOTLIGHTS##": "etf_spotlights",
-        "##WATCHLIST##":      "watchlist",
-        "##HIDDEN_GEMS##":    "hidden_gems",
-        "##PULSE_ANALYSIS##": "pulse_analysis",
-        "##TODAY_THEME##":    "today_theme",
-        "##NEWS_ANALYSIS##":  "news_analysis",
+        "##CATALYSTS##":        "catalysts",
+        "##TRADE_IDEAS##":      "trade_ideas",
+        "##ETF_SPOTLIGHTS##":   "etf_spotlights",
+        "##WATCHLIST##":        "watchlist",
+        "##HIDDEN_GEMS##":      "hidden_gems",
+        "##PULSE_ANALYSIS##":   "pulse_analysis",
+        "##TODAY_THEME##":      "today_theme",
+        "##NEWS_ANALYSIS##":    "news_analysis",
+        "##DAILY_CONCLUSION##": "daily_conclusion",
     }
 
     current = None
     theme_lines = []
+    conclusion_lines = []
 
     for line in text.split("\n"):
         line = line.strip()
@@ -450,6 +452,10 @@ def parse_sections(text: str) -> dict:
 
         if current == "today_theme":
             theme_lines.append(line)
+            continue
+
+        if current == "daily_conclusion":
+            conclusion_lines.append(line)
             continue
 
         if current == "pulse_analysis":
@@ -527,7 +533,8 @@ def parse_sections(text: str) -> dict:
                     "analysis": parts[2] if len(parts) > 2 else parts[1],
                 })
 
-    result["today_theme"] = "\n".join(theme_lines)
+    result["today_theme"]      = "\n".join(theme_lines)
+    result["daily_conclusion"] = "\n".join(conclusion_lines)
     return result
 
 
@@ -1090,6 +1097,69 @@ def _build_influential_posts(posts: list[dict]) -> str:
     return html
 
 
+def _build_daily_conclusion(text: str) -> str:
+    if not text.strip():
+        return _empty("No conclusion generated.")
+
+    HEADERS = {
+        "RESUMEN:":           ("#0f1f3d", "📋 Resumen del día"),
+        "LO MÁS IMPORTANTE:": ("#15803d", "⭐ Lo más importante"),
+        "CONCEPTO DEL DÍA:":  ("#7c3aed", "💡 Concepto del día"),
+        "PARA MAÑANA:":       ("#d97706", "👀 Para mañana"),
+    }
+
+    COLORS = {
+        "RESUMEN:":           ("#eff6ff", "#1e40af"),
+        "LO MÁS IMPORTANTE:": ("#f0fdf4", "#15803d"),
+        "CONCEPTO DEL DÍA:":  ("#f5f3ff", "#5b21b6"),
+        "PARA MAÑANA:":       ("#fffbeb", "#92400e"),
+    }
+
+    html = ""
+    current_header = None
+    current_lines = []
+
+    def _flush(header, lines):
+        if not header or not lines:
+            return ""
+        bg, fg = COLORS.get(header, ("#f9fafb", "#374151"))
+        _, label = HEADERS.get(header, ("#374151", header))
+        content = ""
+        for line in lines:
+            if line.startswith("•"):
+                item = line.lstrip("• ").strip()
+                if "—" in item:
+                    left, _, right = item.partition("—")
+                    content += (f'<li style="margin-bottom:8px;line-height:1.65;">'
+                                f'<strong>{left.strip()}</strong> — {right.strip()}</li>')
+                else:
+                    content += f'<li style="margin-bottom:8px;line-height:1.65;">{item}</li>'
+            else:
+                content += f'<p style="margin:0 0 6px;line-height:1.7;">{line}</p>'
+        if "<li" in content:
+            content = f'<ul style="margin:6px 0 0;padding-left:20px;">{content}</ul>'
+        return f"""
+        <div style="background:{bg};border-radius:8px;padding:14px 16px;margin-bottom:10px;">
+          <div style="font-size:11px;font-weight:800;letter-spacing:1px;text-transform:uppercase;
+                      color:{fg};margin-bottom:8px;">{label}</div>
+          <div style="font-size:13px;color:#374151;">{content}</div>
+        </div>"""
+
+    for line in text.split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        if line in HEADERS:
+            html += _flush(current_header, current_lines)
+            current_header = line
+            current_lines = []
+        else:
+            current_lines.append(line)
+    html += _flush(current_header, current_lines)
+
+    return html or _empty("No conclusion generated.")
+
+
 # ── Full HTML email ────────────────────────────────────────────────────────────
 
 def build_html(market_data: dict, sections: dict, news: list[dict],
@@ -1163,6 +1233,7 @@ def build_html(market_data: dict, sections: dict, news: list[dict],
   {_section("07", "Watchlist — Next 48h", _build_watchlist(sections["watchlist"]))}
   {_section("08", "Hidden Gems — Small &amp; Mid Cap", _build_hidden_gems(sections["hidden_gems"], real_metrics))}
   {_section("09", "Market-Moving Figures — Trump · Powell · Musk &amp; More", _build_influential_posts(influential_posts or []))}
+  {_section("10", "Conclusión del Día — Para Principiantes", _build_daily_conclusion(sections.get("daily_conclusion", "")))}
 
   <!-- DISCLAIMER -->
   <div style="padding:16px 28px;background:#f9fafb;border-top:1px solid #e5e7eb;">
