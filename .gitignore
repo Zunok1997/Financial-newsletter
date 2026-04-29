@@ -1,0 +1,5 @@
+.env
+_preview_cache.json
+preview.html
+__pycache__/
+*.pyc

@@ -1,0 +1,47 @@
+name: Daily Financial Newsletter
+
+on:
+  schedule:
+    # 7:00 AM Argentina time (UTC-3) = 10:00 UTC, Monday–Friday
+    - cron: '0 10 * * 1-5'
+  workflow_dispatch:
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate and send newsletter
+        env:
+          ANTHROPIC_API_KEY:   ${{ secrets.ANTHROPIC_API_KEY }}
+          GMAIL_USER:          ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD:  ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL:     ${{ secrets.RECIPIENT_EMAIL }}
+          PAGES_URL:           https://zunok1997.github.io/Financial-newsletter/
+        run: python newsletter.py
+
+      - name: Publish to GitHub Pages
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          touch docs/.nojekyll
+          git add docs/index.html docs/.nojekyll
+          git diff --cached --quiet || git commit -m "Newsletter $(date +%Y-%m-%d)"
+          git push
+
+permissions:
+  contents: write
