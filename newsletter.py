@@ -44,6 +44,13 @@ TICKERS = {
     "Nikkei 225":   "^N225",
     "Hang Seng":    "^HSI",
     "S&P IPSA":     "^IPSA",
+    # Crypto
+    "Bitcoin":      "BTC-USD",
+    "Ethereum":     "ETH-USD",
+    "Solana":       "SOL-USD",
+    "XRP":          "XRP-USD",
+    "BNB":          "BNB-USD",
+    "Dogecoin":     "DOGE-USD",
 }
 
 TICKER_GROUPS = [
@@ -52,6 +59,7 @@ TICKER_GROUPS = [
     ("FX",                       ["DXY", "EUR/USD", "USD/JPY"]),
     ("Commodities",              ["WTI Crude", "Brent Crude", "Gold", "Silver", "Copper"]),
     ("Global Markets",           ["DAX", "FTSE 100", "CAC 40", "Nikkei 225", "Hang Seng", "S&P IPSA"]),
+    ("Crypto",                   ["Bitcoin", "Ethereum", "Solana", "XRP", "BNB", "Dogecoin"]),
 ]
 
 RSS_FEEDS = [
@@ -113,6 +121,40 @@ THEORY_COLORS = {
     "Fisher":    "#db2777",
     "Marks":     "#ea580c",
     "Dalio":     "#6366f1",
+}
+
+COMPANY_NAMES = {
+    "AAPL":  "Apple Inc.",
+    "MSFT":  "Microsoft Corporation",
+    "NVDA":  "NVIDIA Corporation",
+    "AMZN":  "Amazon.com Inc.",
+    "GOOGL": "Alphabet Inc.",
+    "META":  "Meta Platforms Inc.",
+    "TSLA":  "Tesla Inc.",
+    "JPM":   "JPMorgan Chase & Co.",
+    "V":     "Visa Inc.",
+    "MA":    "Mastercard Inc.",
+    "UNH":   "UnitedHealth Group",
+    "XOM":   "Exxon Mobil Corporation",
+    "JNJ":   "Johnson & Johnson",
+    "PG":    "Procter & Gamble Co.",
+    "HD":    "The Home Depot Inc.",
+    "NFLX":  "Netflix Inc.",
+    "AMD":   "Advanced Micro Devices",
+    "BAC":   "Bank of America Corp.",
+    "WFC":   "Wells Fargo & Company",
+    "GS":    "Goldman Sachs Group Inc.",
+    "C":     "Citigroup Inc.",
+    "DIS":   "The Walt Disney Company",
+    "BA":    "Boeing Company",
+    "CAT":   "Caterpillar Inc.",
+    "F":     "Ford Motor Company",
+    "INTC":  "Intel Corporation",
+    "CRM":   "Salesforce Inc.",
+    "ADBE":  "Adobe Inc.",
+    "COST":  "Costco Wholesale Corp.",
+    "ORCL":  "Oracle Corporation",
+    "SBUX":  "Starbucks Corporation",
 }
 
 
@@ -382,10 +424,10 @@ TICKER|COMPANY|CAP RANGE|thesis(1s)|catalyst(1s)|THEORY|risk(1s)|ENTRY|TARGET|ST
 
 ##PULSE_ANALYSIS##
 One line per group: GROUP|2-sentence analysis
-Groups: US_EQUITIES|FIXED_INCOME|FX|COMMODITIES|GLOBAL_MARKETS
+Groups: US_EQUITIES|FIXED_INCOME|FX|COMMODITIES|GLOBAL_MARKETS|CRYPTO
 
 ##TODAY_THEME##
-3-5 bullets (each starting with •): macro theme, key levels per asset class, 1-2 upcoming events.
+3-5 bullets (each starting with •). Format each as: • LABEL: punchy insight (max 10 words after colon). LABEL in ALL CAPS. Cover: dominant macro theme, key level to watch, risk event today/tomorrow.
 
 ##NEWS_ANALYSIS##
 One per article: NUM|HEADLINE|3-sentence analysis (what happened, market impact, what to watch)
@@ -588,11 +630,13 @@ def _risk_badge(risk: str) -> str:
 
 def _finviz_chart(ticker: str) -> str:
     url = f"https://finviz.com/chart.ashx?t={ticker}&ty=c&ta=1&p=d"
+    onerror = ("if(!this._r){this._r=1;this.src=this.src.split('?')[0]"
+               "+'?t='+Date.now();}else{this.parentElement.style.display='none';}")
     return (f'<div style="margin-top:12px;border-top:1px solid #f1f5f9;padding-top:10px;">'
             f'<p style="margin:0 0 6px;font-size:10px;color:#9ca3af;font-weight:700;'
             f'letter-spacing:1px;text-transform:uppercase;">Chart (Finviz · Daily)</p>'
             f'<img src="{url}" style="width:100%;border-radius:6px;display:block;" '
-            f'alt="{ticker} chart" onerror="this.parentElement.style.display=\'none\'">'
+            f'alt="{ticker} chart" onerror="{onerror}">'
             f'</div>')
 
 def _section(number: str, title: str, content: str) -> str:
@@ -624,6 +668,7 @@ _PULSE_GROUP_KEYS = {
     "FX":                       "FX",
     "Commodities":              "COMMODITIES",
     "Global Markets":           "GLOBAL_MARKETS",
+    "Crypto":                   "CRYPTO",
 }
 
 def _build_market_pulse(market_data: dict, pulse_analysis: dict = None) -> str:
@@ -1027,12 +1072,16 @@ def _build_economic_calendar(earnings: list) -> str:
 
     rows = ""
     for d, tickers in sorted(by_date.items()):
-        chips = "".join(
-            f'<span style="display:inline-block;background:#eff6ff;color:#2563eb;'
-            f'font-family:monospace;font-size:11px;font-weight:700;'
-            f'padding:3px 9px;border-radius:20px;margin:2px;">{t}</span>'
-            for t in tickers
-        )
+        chips = ""
+        for t in tickers:
+            name = COMPANY_NAMES.get(t, t)
+            name_js = name.replace("'", "\\'")
+            chips += (
+                f'<span onclick="alert(\'{t}: {name_js}\')" title="{name}" '
+                f'style="display:inline-block;background:#eff6ff;color:#2563eb;'
+                f'font-family:monospace;font-size:11px;font-weight:700;'
+                f'padding:3px 9px;border-radius:20px;margin:2px;cursor:pointer;">{t}</span>'
+            )
         rows += f"""
         <tr>
           <td style="padding:9px 12px;font-weight:700;font-size:12px;color:#374151;
@@ -1169,12 +1218,17 @@ def build_html(market_data: dict, sections: dict, news: list[dict],
 
     legend = "".join(_theory_badge(t) for t in THEORY_COLORS)
 
-    theme_items = "".join(
-        f'<li style="margin-bottom:9px;line-height:1.65;">{line.lstrip("•- ").strip()}</li>'
-        for line in sections["today_theme"].split("\n")
-        if line.strip()
-    )
-    theme_html = f'<ul style="margin:0;padding-left:18px;">{theme_items}</ul>'
+    theme_items = ""
+    for line in sections["today_theme"].split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        text = line.lstrip("•- ").strip()
+        if ":" in text:
+            label, _, rest = text.partition(":")
+            text = f'<strong style="color:#111827;">{label.strip()}:</strong> {rest.strip()}'
+        theme_items += f'<li style="margin-bottom:10px;line-height:1.6;font-size:13px;color:#374151;">{text}</li>'
+    theme_html = f'<ul style="margin:0;padding-left:20px;">{theme_items}</ul>'
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -1211,8 +1265,8 @@ def build_html(market_data: dict, sections: dict, news: list[dict],
   <div style="padding:20px 28px;border-bottom:1px solid #f1f5f9;">
     <div style="font-size:10px;font-weight:700;letter-spacing:1.8px;text-transform:uppercase;
                 color:#9ca3af;margin-bottom:12px;">Today's Macro Theme</div>
-    <div style="background:#f0fdf4;border:1px solid #86efac;border-radius:8px;
-                padding:16px 18px;color:#166534;font-size:14px;line-height:1.75;">
+    <div style="background:#f8fafc;border-left:4px solid #2563eb;border-radius:0 8px 8px 0;
+                padding:14px 18px;">
       {theme_html}
     </div>
   </div>
