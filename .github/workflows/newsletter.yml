@@ -1,9 +1,6 @@
 name: Daily Financial Newsletter
 
 on:
-  schedule:
-    # 7:00 AM Argentina time (UTC-3) = 10:00 UTC, Monday–Friday
-    - cron: '0 10 * * 1-5'
   workflow_dispatch:
 
 jobs:
