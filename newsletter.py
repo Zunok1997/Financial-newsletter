@@ -1,3 +1,4 @@
+import json
 import os
 import re
 import smtplib
@@ -1308,6 +1309,199 @@ def build_html(market_data: dict, sections: dict, news: list[dict],
 </html>"""
 
 
+# ── Weekly summary ────────────────────────────────────────────────────────────
+
+def save_daily_summary(sections: dict, market_data: dict) -> None:
+    today_str = date.today().isoformat()
+    summary = {
+        "date": today_str,
+        "today_theme": sections.get("today_theme", ""),
+        "catalysts": sections.get("catalysts", [])[:5],
+        "trade_ideas": [
+            {"ticker": t["ticker"], "company": t["company"],
+             "direction": t["direction"], "thesis": t["thesis"]}
+            for t in sections.get("trade_ideas", [])[:3]
+        ],
+        "daily_conclusion": sections.get("daily_conclusion", ""),
+        "market_snapshot": {
+            name: {"price": info["price"], "pct_change": info["pct_change"]}
+            for name, info in market_data.items()
+            if name in ["S&P 500", "Nasdaq", "Bitcoin", "Gold", "DXY", "10Y Treasury"]
+        },
+    }
+    os.makedirs("docs/daily", exist_ok=True)
+    with open(f"docs/daily/{today_str}.json", "w", encoding="utf-8") as f:
+        json.dump(summary, f, ensure_ascii=False, indent=2)
+    print(f"Daily summary saved → docs/daily/{today_str}.json")
+
+
+def generate_weekly_summary() -> str | None:
+    today = date.today()
+    week_start = today - timedelta(days=today.weekday())
+    days = []
+    for i in range(5):
+        d = week_start + timedelta(days=i)
+        if d > today:
+            break
+        path = f"docs/daily/{d.isoformat()}.json"
+        if os.path.exists(path):
+            with open(path, encoding="utf-8") as f:
+                days.append(json.load(f))
+
+    if len(days) < 2:
+        print("Not enough daily summaries for weekly recap.")
+        return None
+
+    days_text = ""
+    for d in days:
+        days_text += f"\n--- {d['date']} ---\n"
+        days_text += f"Theme: {d.get('today_theme', '')[:300]}\n"
+        days_text += f"Conclusion: {d.get('daily_conclusion', '')[:400]}\n"
+        catalysts = d.get("catalysts", [])
+        if catalysts:
+            days_text += "Catalysts: " + " | ".join(c["headline"] for c in catalysts[:3]) + "\n"
+        trades = d.get("trade_ideas", [])
+        if trades:
+            days_text += "Trades: " + ", ".join(f"{t['ticker']} ({t['direction']})" for t in trades) + "\n"
+        snap = d.get("market_snapshot", {})
+        if snap:
+            days_text += "Markets: " + " | ".join(
+                f"{k} {v['pct_change']:+.1f}%" for k, v in snap.items()
+            ) + "\n"
+
+    prompt = f"""Weekly financial newsletter recap. Beginner-friendly, mentor tone.
+
+WEEK DATA:
+{days_text}
+
+Write a weekly summary using these exact headers on their own lines:
+
+##WEEKLY_THEME##
+(2-3 sentences on the dominant macro theme of the week)
+
+##KEY_EVENTS##
+• EVENT — why it mattered (1 sentence, 3-4 bullets)
+
+##TOP_TRADES##
+• TICKER (DIRECTION) — thesis in 1 sentence (2-3 best ideas of the week)
+
+##NEXT_WEEK##
+(2-3 sentences on what to watch next week)
+
+##WEEKLY_CONCLUSION##
+(3-4 sentences, mentor tone, beginner-friendly, what this week taught us about markets)"""
+
+    client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    response = client.messages.create(
+        model="claude-sonnet-4-6",
+        max_tokens=2000,
+        messages=[{"role": "user", "content": prompt}],
+    )
+    return response.content[0].text
+
+
+def build_weekly_html(weekly_text: str, week_dates: str) -> str:
+    section_map = {
+        "##WEEKLY_THEME##":    "weekly_theme",
+        "##KEY_EVENTS##":      "key_events",
+        "##TOP_TRADES##":      "top_trades",
+        "##NEXT_WEEK##":       "next_week",
+        "##WEEKLY_CONCLUSION##": "weekly_conclusion",
+    }
+    sections: dict = {}
+    current = None
+    lines: list = []
+    for line in weekly_text.split("\n"):
+        line = line.strip()
+        if line in section_map:
+            if current and lines:
+                sections[current] = "\n".join(lines)
+            current = section_map[line]
+            lines = []
+        elif line and current:
+            lines.append(line)
+    if current and lines:
+        sections[current] = "\n".join(lines)
+
+    def _bullets(text: str) -> str:
+        items = ""
+        for ln in text.split("\n"):
+            ln = ln.strip()
+            if not ln:
+                continue
+            item = ln.lstrip("•- ").strip()
+            if "—" in item:
+                left, _, right = item.partition("—")
+                items += (f'<li style="margin-bottom:10px;line-height:1.65;">'
+                          f'<strong>{left.strip()}</strong> — {right.strip()}</li>')
+            else:
+                items += f'<li style="margin-bottom:10px;line-height:1.65;">{item}</li>'
+        return f'<ul style="margin:0;padding-left:20px;">{items}</ul>'
+
+    def _block(title: str, content: str, bg: str, border: str) -> str:
+        return (f'<div style="background:{bg};border-left:4px solid {border};'
+                f'border-radius:0 8px 8px 0;padding:16px 18px;margin-bottom:16px;">'
+                f'<div style="font-size:10px;font-weight:800;letter-spacing:1.2px;'
+                f'text-transform:uppercase;color:{border};margin-bottom:10px;">{title}</div>'
+                f'<div style="font-size:13px;color:#374151;line-height:1.7;">{content}</div>'
+                f'</div>')
+
+    body = ""
+    if sections.get("weekly_theme"):
+        body += _block("📊 Tema de la Semana",
+                       f'<p style="margin:0;">{sections["weekly_theme"]}</p>',
+                       "#eff6ff", "#2563eb")
+    if sections.get("key_events"):
+        body += _block("⚡ Eventos Clave", _bullets(sections["key_events"]), "#f0fdf4", "#16a34a")
+    if sections.get("top_trades"):
+        body += _block("💼 Mejores Ideas de la Semana", _bullets(sections["top_trades"]), "#f5f3ff", "#7c3aed")
+    if sections.get("next_week"):
+        body += _block("👀 Qué Mirar la Próxima Semana",
+                       f'<p style="margin:0;">{sections["next_week"]}</p>',
+                       "#fffbeb", "#d97706")
+    if sections.get("weekly_conclusion"):
+        body += _block("🎓 Conclusión Semanal",
+                       f'<p style="margin:0;">{sections["weekly_conclusion"]}</p>',
+                       "#fef2f2", "#dc2626")
+
+    today_str = date.today().strftime("%A, %B %d, %Y")
+    return f"""<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>Resumen Semanal — {week_dates}</title>
+<style>
+  body{{margin:0;padding:0;background:#f3f4f6;
+       font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;}}
+  .wrap{{max-width:700px;margin:24px auto;background:#fff;border-radius:12px;
+         overflow:hidden;box-shadow:0 4px 24px rgba(0,0,0,0.09);}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div style="background:linear-gradient(135deg,#1e1b4b 0%,#3730a3 50%,#6366f1 100%);
+              padding:28px 32px 24px;">
+    <div style="font-size:10px;font-weight:700;letter-spacing:2.5px;text-transform:uppercase;
+                color:#c7d2fe;margin-bottom:8px;">Resumen Semanal</div>
+    <h1 style="margin:0;color:white;font-size:24px;font-weight:800;letter-spacing:-0.5px;">
+      {week_dates}
+    </h1>
+    <p style="margin:8px 0 0;color:#e0e7ff;font-size:12px;">
+      Lo más importante de la semana en los mercados financieros
+    </p>
+  </div>
+  <div style="padding:24px 28px;">{body}</div>
+  <div style="padding:16px 28px;background:#f9fafb;border-top:1px solid #e5e7eb;">
+    <p style="margin:0;font-size:11px;color:#9ca3af;text-align:center;">
+      Resumen Semanal Automatizado · {today_str} · Claude Sonnet 4.6
+    </p>
+  </div>
+</div>
+</body>
+</html>"""
+
+
 # ── Email sending ──────────────────────────────────────────────────────────────
 
 def send_email(pages_url: str, subject: str) -> None:
@@ -1342,6 +1536,24 @@ def send_email(pages_url: str, subject: str) -> None:
         srv.sendmail(sender, recipients, msg.as_string())
 
     print(f"Sent to {', '.join(recipients)}")
+
+
+def send_weekly_email(html: str, subject: str) -> None:
+    sender     = os.environ["GMAIL_USER"]
+    recipients = [r.strip() for r in os.environ["RECIPIENT_EMAIL"].split(",")]
+    password   = os.environ["GMAIL_APP_PASSWORD"]
+
+    msg = MIMEMultipart("alternative")
+    msg["Subject"] = subject
+    msg["From"]    = f"Financial Briefing <{sender}>"
+    msg["To"]      = ", ".join(recipients)
+    msg.attach(MIMEText(html, "html", "utf-8"))
+
+    with smtplib.SMTP_SSL("smtp.gmail.com", 465) as srv:
+        srv.login(sender, password)
+        srv.sendmail(sender, recipients, msg.as_string())
+
+    print(f"Weekly summary sent to {', '.join(recipients)}")
 
 
 # ── Entry point ────────────────────────────────────────────────────────────────
@@ -1387,12 +1599,25 @@ def main() -> None:
     with open("docs/index.html", "w", encoding="utf-8") as f:
         f.write(html)
 
+    print("Saving daily summary...")
+    save_daily_summary(sections, market_data)
+
     today_str = date.today().strftime("%A, %B %d, %Y")
     subject   = f"Morning Financial Briefing — {today_str}"
     pages_url = os.environ.get("PAGES_URL", "")
 
     print("Sending email...")
     send_email(pages_url, subject)
+
+    if date.today().weekday() == 4:  # Friday
+        print("It's Friday — generating weekly summary...")
+        weekly_text = generate_weekly_summary()
+        if weekly_text:
+            week_start  = date.today() - timedelta(days=4)
+            week_dates  = f"{week_start.strftime('%b %d')} – {date.today().strftime('%b %d, %Y')}"
+            weekly_html = build_weekly_html(weekly_text, week_dates)
+            send_weekly_email(weekly_html, f"Resumen Semanal — {week_dates}")
+
     print("Done!")
 
 

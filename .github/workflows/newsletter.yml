@@ -36,7 +36,7 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           touch docs/.nojekyll
-          git add docs/index.html docs/.nojekyll
+          git add docs/index.html docs/.nojekyll docs/daily/
           git diff --cached --quiet || git commit -m "Newsletter $(date +%Y-%m-%d)"
           git push
 
