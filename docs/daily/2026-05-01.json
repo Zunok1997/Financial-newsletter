@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-01",
+  "today_theme": "• GEOPOLITICAL PIVOT: Iran ceasefire reshapes oil and risk asset pricing today.\n• KEY LEVEL: BTC $80K resistance; S&P 7,250 is next technical target.\n• YEN SHOCK: USD/JPY -2.24% — watch for BOJ intervention confirmation.\n• DOLLAR DRIFT: DXY below 98.50 supports gold, commodities, EM assets.\n• RISK EVENT: Weekend ceasefire durability — gap risk Monday if it breaks.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Iran Ceasefire Halts 60-Day War Powers Deadline, Oil Stabilizes",
+      "analysis": "The White House confirmed an Iran ceasefire pausing the 60-day War Powers Resolution clock, reducing near-term military escalation risk in the Persian Gulf. Markets responded positively as geopolitical tail risk receded, supporting risk-on sentiment across equities and softening crude's war premium slightly. Watch whether the ceasefire holds through next week and if Congress challenges the executive's authority under the Resolution."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Exxon and Chevron Earnings Fall as Iran War Disrupts Oil Shipments",
+      "analysis": "Major integrated oil companies reported earnings declines as the U.S.-Israel strike on Iran disrupted tanker routes and supply chains in the first quarter. Despite elevated WTI ($105) and Brent ($111) spot prices, upstream disruption and logistics costs compressed margins significantly. Watch Q2 guidance calls for clarity on whether normalized shipping lanes and current spot prices will restore profitability."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Cathie Wood Buys $18M of Beaten-Down AI Stock",
+      "analysis": "ARK Invest's $18M conviction purchase signals institutional bottom-fishing in AI names that have sold off from 2025 highs. This aligns with improving risk appetite (VIX 17, markets up 1%+) and suggests smart money sees asymmetric upside in AI infrastructure at current levels. Watch which specific ticker ARK purchased—if it is a semiconductor or inference-layer company, the signal is particularly significant given TSM's Harvard endorsement."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Taiwan Semiconductor Highlighted as Harvard University Stock Pick",
+      "analysis": "TSM appearing on Harvard's endowment radar signals long-duration institutional confidence in the AI semiconductor supply chain despite U.S.-China geopolitical friction. With Copper (+1.03%) and equity markets rallying, the broader tech hardware cycle appears to be gaining momentum. Watch for TSM's next earnings revision cycle and any U.S.-Taiwan policy developments that could affect supply chain security premiums."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Fed Rate Pause Prompts Mortgage and Consumer Credit Reassessment",
+      "analysis": "The Fed's decision to hold rates steady keeps the 3M T-Bill at 3.585% and 10Y at 4.39%, creating a steepening dynamic that benefits banks but pressures rate-sensitive consumers. Refinancing volumes may tick up marginally if borrowers expect cuts are approaching, but the 30Y flat at 4.987% suggests mortgage markets are not pricing imminent easing. Watch next week's Fed speakers for any pivot signals that could re-price the front end aggressively."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Mfg",
+      "direction": "LONG",
+      "thesis": "Harvard endowment interest plus Cathie Wood AI buying confirms institutional conviction in the semiconductor cycle; copper's +1% gain signals industrial demand supporting chip fab expansion capex."
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil",
+      "direction": "SHORT",
+      "thesis": "Earnings fell materially as Iran war disrupted tanker routes and compressed margins despite high spot prices; with ceasefire now in place, the geopolitical war premium in crude may unwind, pressuring XOM further."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares (Proxy)",
+      "direction": "HEDGE",
+      "thesis": "Gold at $4,579 pulling back slightly (-0.76%) while VIX 3M remains elevated at 20.08 versus spot VIX 17.11, signaling residual macro uncertainty that warrants portfolio hedging."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market was powered by two major forces: a ceasefire in the Iran conflict reduced the most extreme geopolitical fears, and strong AI-related institutional buying (from Harvard to Cathie Wood) renewed confidence in the technology sector. All three major U.S. indices finished solidly higher, with the Dow leading at +1.62%, as investors rotated into both value and growth simultaneously — a sign of broad-based optimism rather than a narrow rally.\nLO MÁS IMPORTANTE:\n• Iran Ceasefire — this reduces the risk of a wider Middle East war, which had been the single biggest threat to global markets and oil supply chains all year.\n• Fed Rate Pause — the Federal Reserve held rates steady, meaning your savings accounts still earn good yields, but loans and credit cards remain expensive; the next move matters enormously for mortgages and consumer spending.\n• USD/JPY dropped -2.24% — this dramatic yen strengthening suggests Japan's central bank may be intervening in currency markets, which is a global signal that currency wars are quietly intensifying alongside the geopolitical ones.\nCONCEPTO DEL DÍA:\n**The VIX Term Structure** — Today the spot VIX (measuring fear RIGHT NOW) is 17.11, but the 3-Month VIX is 20.08, meaning the options market is more worried about the next 90 days than about today. Think of it like weather: today is sunny (VIX 17), but the 3-month forecast shows storms ahead (VIX 20). When this \"term structure\" is upward sloping like this, smart investors maintain portfolio hedges even when today feels calm, because the market is quietly pricing in future turbulence.\nPARA MAÑANA:\nOver the weekend, watch for any news on whether the Iran ceasefire holds — if it fractures, Monday will open with a sharp reversal in oil prices and a spike in the VIX. Also monitor Sunday evening crypto markets and Asian futures for early signals on whether this week's risk-on momentum carries into next week.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7209.009765625,
+      "pct_change": 1.023823994182187
+    },
+    "Nasdaq": {
+      "price": 24892.310546875,
+      "pct_change": 0.8878862703844997
+    },
+    "10Y Treasury": {
+      "price": 4.389999866485596,
+      "pct_change": -0.633778935368817
+    },
+    "DXY": {
+      "price": 98.01300048828125,
+      "pct_change": -0.06831295016577285
+    },
+    "Gold": {
+      "price": 4579.5,
+      "pct_change": -0.7627840124534092
+    },
+    "Bitcoin": {
+      "price": 77299.6015625,
+      "pct_change": 1.3043576640534669
+    }
+  }
+}
