@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-04",
+  "today_theme": "• GEOPOLITICAL SHOCK: Iran-US escalation rewrites the risk map overnight\n• KEY LEVEL: WTI $105 — breach confirms supply-disruption premium is structural\n• BIFURCATION: Nasdaq leads, Dow lags — AI vs. old economy divergence accelerating\n• GOLD DIP: $4,575 pullback is noise; geopolitical bid intact under Dalio framework\n• RISK EVENT: Pentagon confirmation of Iran attack within 24h is binary market catalyst",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Stock Futures Tumble on Report of Iran Attack on US Warship",
+      "analysis": "A reported Iranian strike on a US warship represents a severe geopolitical escalation that introduces immediate tail-risk into markets. Defense equities may rally while risk assets face broad selling pressure on safe-haven demand. Watch for official Pentagon confirmation, oil price reaction above $115 Brent, and any retaliatory posture from Washington."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "AI Chipmaker Cerebras Targets $3.5B Raise in IPO at $24.5B Valuation",
+      "analysis": "Cerebras's IPO push signals continued investor appetite for AI infrastructure plays even amid macro uncertainty, with the valuation bump from $23B to $24.5B reflecting confidence in revenue trajectory. A successful raise would accelerate AI hardware competition against Nvidia and AMD, potentially lifting the broader semiconductor sector. Watch the order-book subscription rate and any anchor investor disclosures as key sentiment indicators."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "GameStop Makes $56B Offer for eBay in Bid to Rival Amazon",
+      "analysis": "GameStop's $125/share cash-and-stock bid for eBay is a capital-allocation red flag—the company lacks the balance sheet credibility for a deal this size without massive dilution. Markets will likely treat this as a meme-driven stunt, pressuring GME shares while creating short-term volatility in EBAY. Watch for eBay's board response and whether any institutional arbitrageurs take the bid seriously."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Amazon Opens Its Logistics Network to Other Businesses",
+      "analysis": "Amazon monetizing its logistics infrastructure to third parties is a classic Buffett-style economic moat deepening, creating a new high-margin revenue stream in fulfillment-as-a-service. This directly challenges FedEx, UPS, and Shopify Logistics while locking smaller merchants deeper into Amazon's ecosystem. Watch adoption rates, pricing structure announcements, and FedEx/UPS management commentary in upcoming earnings."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "US SEC Review Delays First Prediction-Market ETFs",
+      "analysis": "The SEC's delay of prediction-market ETFs reflects regulatory caution around novel financial products, maintaining the status quo for traditional ETF providers while frustrating fintech innovators. The delay is unlikely to move broad markets but signals a more conservative regulatory posture heading into the 2026 election cycle. Watch for formal SEC comment letters and whether Kalshi or Polymarket-linked vehicles face further scrutiny."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "AMZN",
+      "company": "Amazon",
+      "direction": "LONG",
+      "thesis": "Amazon's logistics-as-a-service announcement deepens its moat and adds a high-margin B2B revenue layer that the market has not yet fully priced in. Nasdaq strength (+0.89%) supports tech longs with a clear risk-off stop below the 50-day MA."
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "LONG",
+      "thesis": "Cerebras's $24.5B IPO valuation at scale validates continued AI infrastructure spending, and any supply-chain normalization further expands Nvidia's hyperscaler backlog into H2 2026. RSI has room to run before overbought territory with strong sector momentum."
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "direction": "LONG",
+      "thesis": "An Iran-US military escalation is a direct catalyst for defense budget urgency and accelerated procurement cycles, making Lockheed the highest-quality beneficiary with its F-35 and missile defense exposure. Geopolitical risk premium in defense names is historically understated at VIX 18."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's session delivered a split personality market — Nasdaq pushed higher on AI optimism while the Dow slipped as geopolitical shock from a reported Iranian attack on a US warship jolted futures overnight. Oil surged dramatically, gold pulled back after its historic run, and bonds rallied quietly as smart money began hedging for a potentially dangerous escalation. The dominant theme is a collision between AI-driven optimism and real-world geopolitical risk, and markets are not yet fully pricing in the latter.\nLO MÁS IMPORTANTE:\n• Iran reportedly attacked a US warship — this is the biggest geopolitical event of 2026 and could send oil above $115 and trigger a broad risk-off move if confirmed officially\n• Amazon opened its logistics network to outside businesses — this is a major long-term competitive threat to FedEx and UPS and a new profit engine for Amazon worth watching closely\n• Cerebras filed for a $3.5B IPO at a $24.5B valuation — this tells you institutional investors are still hungry for AI infrastructure exposure, which is bullish for the sector broadly\nCONCEPTO DEL DÍA:\n**Geopolitical Risk Premium** is the extra return investors demand (or the price spike in commodities) when a political or military event threatens to disrupt supply chains or economic stability. Think of it like a \"danger tax\" — when a war or attack threatens oil shipping routes, buyers pay more for crude today because they fear there might be less of it tomorrow. Today, WTI crude jumping nearly 3% in a single day is a textbook example of this premium appearing in real time.\nPARA MAÑANA:\nWatch for the Pentagon's official response to the Iran warship report — a confirmed military incident could send oil above $115 and trigger a flight-to-safety selloff across equities that makes today's moves look small. Also keep an eye on any Fed speakers or economic data releases that could interact with the oil shock narrative around inflation persistence.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7230.1201171875,
+      "pct_change": 0.29283288896571213
+    },
+    "Nasdaq": {
+      "price": 25114.439453125,
+      "pct_change": 0.8923595334057337
+    },
+    "10Y Treasury": {
+      "price": 4.377999782562256,
+      "pct_change": -0.2733504393690673
+    },
+    "DXY": {
+      "price": 98.30400085449219,
+      "pct_change": 0.09571507066065461
+    },
+    "Gold": {
+      "price": 4575.2998046875,
+      "pct_change": -1.1792932635241276
+    },
+    "Bitcoin": {
+      "price": 79016.0,
+      "pct_change": 0.6083323477132404
+    }
+  }
+}
