@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-06",
+  "today_theme": "• IRAN DEAL: Oil's -11% crash is the dominant macro catalyst today\n• KEY LEVEL: Gold $4,800 and WTI $88 are the lines that define next week's narrative\n• DOLLAR WEAKNESS: DXY below 98 accelerates commodity and EM asset repricing\n• RISK EVENT: Iran deal formal confirmation (or denial) expected within 24-48 hours\n• EARNINGS WATCH: AMD follow-through and Disney +5% signal earnings season still has bullish fuel",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Gold & Silver Surge as Dollar Weakens, Safe-Haven Demand Accelerates",
+      "analysis": "Gold jumped +3.74% to $4,726 and silver soared +6.76% to $78.05 amid a weakening DXY (-0.81%) and macro uncertainty, signaling institutional rotation into hard assets. This reflects Dalio's \"paradigm shift\" thesis where real assets outperform paper currency in late-cycle environments. Watch: Gold breaking $4,800 as next psychological level and whether central banks continue accumulating."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Oil Plunges -11% on U.S.-Iran Nuclear Deal Reports",
+      "analysis": "Brent crude fell below $100 and WTI dropped to $90.92 as Axios reported the U.S. and Iran are nearing an agreement that would flood markets with Iranian supply. This is a significant deflationary shock to energy sector earnings and could pressure oil majors, energy ETFs, and petrostates simultaneously. Watch: OPEC+ emergency response and whether the deal is formally confirmed within 48-72 hours."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "AMD Soars on Earnings Beat, Nasdaq Leads Gains",
+      "analysis": "AMD's strong earnings results drove the Nasdaq +1.03% outperformance versus other indices, confirming semiconductor demand remains robust despite macro headwinds. This validates Lynch's \"invest in what you know\" thesis around AI-driven chip cycles still running hot. Watch: AMD's forward guidance on data center GPU demand and whether the move triggers sympathy plays in NVDA, INTC, and AVGO."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Disney Pops +5% on Streaming and Parks Revenue Beat",
+      "analysis": "Disney's fiscal Q2 beat analyst expectations on streaming subscriber growth and parks revenue under new CEO Josh D'Amaro, though U.S. park attendance softened slightly. The streaming profitability inflection validates Buffett's thesis on durable consumer franchises with pricing power turning into earnings engines. Watch: International parks performance and whether streaming ARPU expansion continues into Q3."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Michael Burry Exits Entire Meme Stock Position",
+      "analysis": "Burry's full exit from a surging meme-stock giant signals a disciplined contrarian retreat, likely citing valuation disconnection from fundamentals. Per Graham's margin-of-safety principle, when momentum diverges dramatically from intrinsic value, smart money exits regardless of short-term price action. Watch: Retail sentiment indicators and whether his exit triggers a broader momentum unwind in high-short-interest names."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "direction": "LONG",
+      "thesis": "AMD's earnings beat confirms AI accelerator demand is accelerating into 2026, with data center GPU share gains from NVIDIA creating a durable growth runway. Fisher's scuttlebutt analysis supports AMD's competitive positioning in EPYC processors and MI300X chips."
+    },
+    {
+      "ticker": "DIS",
+      "company": "Walt Disney Co.",
+      "direction": "LONG",
+      "thesis": "Disney's streaming-to-profitability inflection combined with parks resilience gives it Buffett-style franchise value at a reasonable multiple post-Q2 beat. The new CEO catalyst provides a fresh operational narrative that institutional investors will re-rate upward over coming quarters."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares",
+      "direction": "LONG",
+      "thesis": "Gold's +3.74% surge is Dalio's \"all-weather\" scenario playing out — dollar weakness, geopolitical uncertainty, and central bank demand converging simultaneously. The breakout above prior ATH with volume confirmation suggests institutional accumulation, not retail speculation."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market was dominated by one giant headline — reports that the U.S. and Iran are close to a nuclear deal — which sent oil prices crashing more than 10% while stocks, gold, and bonds all rallied together. It's a rare \"everything is fine\" day where falling energy prices act like a tax cut for consumers and businesses, easing inflation fears and giving investors more reasons to be optimistic about the economy.\nLO MÁS IMPORTANTE:\n• Oil crashed -11% on Iran deal reports — cheaper energy is like a pay raise for every business and household, and it reduces inflation pressure that was keeping the Fed cautious about cutting interest rates.\n• AMD's earnings beat drove the Nasdaq higher — it confirmed that the AI investment boom is still very real, and technology companies building the infrastructure for artificial intelligence are delivering on their promises.\n• Gold hit $4,726 and silver surged nearly 7% — precious metals rising sharply while stocks also rise is unusual and tells us that smart institutional investors are hedging against uncertainty even while participating in the rally.\nCONCEPTO DEL DÍA:\n**Reflexivity** (George Soros's concept): Sometimes markets move based on what people *expect* to happen, not what has actually happened yet — and those expectations change reality. Today, the mere *report* of an Iran deal (not a confirmed deal) caused oil to crash 11%, which itself will reduce inflation, which may cause the Fed to cut rates sooner, which makes stocks more attractive — a chain reaction started by a single news article. Think of it like a crowd starting to run toward the exit: the movement itself *becomes* the event, regardless of whether there was actually a fire.\nPARA MAÑANA:\nWatch for formal U.S. government confirmation or denial of the Iran nuclear deal within the next 24-48 hours — a confirmation would extend today's rally in bonds and stocks while crushing energy further, but a denial could trigger a sharp oil rebound and risk-off reversal. Also monitor weekly jobless claims data and any Fed speaker commentary on whether the deflationary impact of lower oil changes their rate cut calculus.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7259.22021484375,
+      "pct_change": 0.8120017337603721
+    },
+    "Nasdaq": {
+      "price": 25326.130859375,
+      "pct_change": 1.0305254951532228
+    },
+    "10Y Treasury": {
+      "price": 4.415999889373779,
+      "pct_change": -0.674768536641921
+    },
+    "DXY": {
+      "price": 97.68299865722656,
+      "pct_change": -0.8093061256490273
+    },
+    "Gold": {
+      "price": 4726.2001953125,
+      "pct_change": 3.740295841131422
+    },
+    "Bitcoin": {
+      "price": 82302.140625,
+      "pct_change": 1.6991671608585008
+    }
+  }
+}
