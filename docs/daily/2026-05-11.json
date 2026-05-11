@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-11",
+  "today_theme": "• GEOPOLITICAL OIL PREMIUM: Iran-Israel conflict sends Brent above $103, a key psychological level\n• TRUMP-CHINA SUMMIT: Most binary macro risk event of the week — tariffs, tech, and FX on the table\n• VIX DIVERGENCE: VIX +5.70% while stocks rally — hedging activity warns of fragile conviction\n• KEY LEVEL: S&P 500 at 7,400 — round-number resistance; break and hold signals continuation\n• RISK EVENT: Trump-China talks outcome expected within 48 hours — position sizing critical now",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Oil Surges Past $103 After Trump Dismisses Iran Peace Proposal",
+      "analysis": "Israel confirmed ongoing conflict with Iran, pushing Brent above $103 and WTI near $97.67 as geopolitical risk premium returned to energy markets. This directly benefits integrated oil majors, refiners, and energy ETFs while pressuring transport and consumer discretionary names. Watch whether OPEC+ responds or U.S. strategic reserve commentary emerges to cap the rally."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Circle Raises $222M From BlackRock & Apollo in Arc Token Presale",
+      "analysis": "Circle secured institutional validation from top-tier names at a $3B valuation, signaling growing mainstream acceptance of stablecoin infrastructure. This is a landmark moment for regulated crypto finance and could re-rate stablecoin-adjacent equities and fintech names. Watch for SEC stablecoin guidance and whether Coinbase, Visa, or PayPal follow with similar institutional partnerships."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "US Container Imports Dip in April Amid Trade and Middle East Tensions",
+      "analysis": "Declining container volumes signal early-stage demand destruction in goods consumption, validating fears that tariff uncertainty is freezing import orders. This is a leading indicator of weaker retail inventory builds and could pressure logistics names like FedEx, UPS, and shipping ETFs. Watch May and June import data for confirmation of a sustained contraction trend."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Trump Travels to China as Inflation Risks Mount Domestically",
+      "analysis": "The Trump-China meeting carries high uncertainty — any tariff escalation outcome could spike import prices, worsening an already fragile inflation picture. Bond markets responded with a 10Y yield decline (-0.64%), suggesting flight-to-quality hedging ahead of the meeting. Watch for any communiqué language on tech exports, tariff schedules, or currency agreements that could move markets violently."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "VIX Spikes +5.70% Even as S&P 500 Gains +0.84%",
+      "analysis": "A divergence between rising equities and rising volatility suggests options markets are hedging upside moves rather than buying them — a cautious underpinning. This split signal is classic late-cycle behavior where rallies are sold into and participants protect against tail risk. Watch whether VIX reclaims 20 (its 3M forward already at 20.50) as a trigger for defensive rotation."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "Brent above $103 with geopolitical premium intact directly expands Exxon's upstream margin; the stock is historically cheap on free cash flow at this oil price level."
+    },
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "direction": "LONG",
+      "thesis": "Integrated model benefits from both upstream crude surge and downstream refining margin expansion; Dalio's macro framework supports energy as inflation hedge when real rates compress."
+    },
+    {
+      "ticker": "CONY",
+      "company": "Circle Internet/Stablecoin Proxy via Coinbase",
+      "direction": "LONG",
+      "thesis": "Circle's $222M institutional raise at $3B valuation re-rates the stablecoin ecosystem; Coinbase as the primary regulated U.S. crypto exchange captures fee and custody revenue from rising stablecoin volumes."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMonday, May 11, 2026 delivered a split-personality market — technology stocks surged with Nasdaq up +1.71% while volatility simultaneously spiked +5.70%, telling us that experienced investors are quietly buying insurance even as prices rise. The dominant macro theme of the day was geopolitical oil risk, with Brent crude breaking above $103 after Trump rejected Iran's peace overture, while the upcoming Trump-China summit has the entire market holding its breath.\nLO MÁS IMPORTANTE:\n• Oil breaks $103 on Iran-Israel escalation — energy stocks win, but inflation risk returns to the entire economy\n• Trump-China summit this week — the outcome could either calm or destabilize global trade and tariff fears\n• VIX rising while stocks rally — this rare divergence is a warning sign that the rally may not have solid footing\nCONCEPTO DEL DÍA:\n**VIX Divergence** — Normally, when stocks go up, fear (measured by the VIX) goes down. Today the opposite happened: stocks rose but VIX also rose. Think of it like a party where everyone is dancing, but someone quietly called a taxi — it means some participants don't fully trust the good mood and are preparing for things to go wrong. When this divergence appears, it's a signal to check your portfolio's risk levels rather than chase the rally.\nPARA MAÑANA:\nThe Trump-China summit outcome is the single most important catalyst to watch in the next 48 hours — any tariff escalation language could rapidly reverse today's equity gains, while a constructive communiqué would likely push the S&P 500 through the 7,400 resistance level. Also watch Plug Power and Hims & Hers earnings for early read on how smaller growth companies are navigating the tariff and inflation environment.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7398.93017578125,
+      "pct_change": 0.8425703533400979
+    },
+    "Nasdaq": {
+      "price": 26247.080078125,
+      "pct_change": 1.7084300389910552
+    },
+    "10Y Treasury": {
+      "price": 4.363999843597412,
+      "pct_change": -0.6375308174456382
+    },
+    "DXY": {
+      "price": 97.98500061035156,
+      "pct_change": 0.14820551705681279
+    },
+    "Gold": {
+      "price": 4673.0,
+      "pct_change": -1.0041501424532957
+    },
+    "Bitcoin": {
+      "price": 80967.5625,
+      "pct_change": -1.4260804127306033
+    }
+  }
+}
