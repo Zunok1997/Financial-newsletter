@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-12",
+  "today_theme": "• STAGFLATION SPECTER: Oil >$100 + rising yields = 1970s déjà vu signal\n• KEY LEVEL: 30Y Treasury 5.00% — breach triggers forced duration selling\n• GEOPOLITICAL PIVOT: Trump-Xi summit outcome moves markets Wednesday open\n• SECTOR ROTATION: Energy and quality outperform; growth and crypto under pressure\n• RISK EVENT: OpenAI-Musk trial testimony from Altman — AI sector sentiment wildcard",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Trump-Xi Summit Could Unlock Trade Truce, Agri Deals",
+      "analysis": "Reports indicate Trump and Xi may announce meaningful trade agreements including Chinese purchases of U.S. agricultural goods, which would ease tariff pressures that have weighed on global supply chains since early 2025. A confirmed deal would be a significant positive catalyst for multinational earnings, emerging market risk appetite, and USD-denominated commodity exports. Watch for official communiqué language around tariff rollback timelines, tech export controls, and Taiwan security commitments."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "On Holding Beats Q1, Posts Double-Digit China Growth as Nike Lags",
+      "analysis": "Swiss athletic brand On Holding delivered a top-and-bottom-line beat driven by accelerating China demand, highlighting a clear share-shift away from legacy incumbents like Nike. This confirms the thesis that premium athletic brands with strong brand identity can outperform in a bifurcated consumer environment. Watch Nike's next print and broader China consumer spending data for confirmation of a durable trend versus one-time channel restocking."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "WTI Crude Surges +3.8% to $101.80, Brent Above $107",
+      "analysis": "Oil's sharp single-day spike above the psychologically critical $100 WTI level signals renewed supply concern, likely driven by OPEC+ compliance data and geopolitical risk premium from the Iran dimension of the Trump-Xi summit context. This is inflationary and margin-compressive for consumer-facing industries while being a direct earnings tailwind for energy producers. Watch whether the move is sustained above $100 or fades as a technical breakout trap."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "10Y Treasury Yield Rises to 4.41%, 30Y Hits 4.986% Amid Oil Spike",
+      "analysis": "Rising long-end yields alongside surging crude creates a stagflationary cocktail that pressures equity valuations, particularly high-multiple growth stocks priced on discounted cash flow models. The 30Y approaching 5% is a critical threshold that historically triggers mortgage market stress and re-pricing of duration-sensitive assets. Watch the 10Y for a breach of 4.50% which would likely force a broader equity multiple compression."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "European Equities Broadly Decline — DAX -1.07%, CAC -0.62%, FTSE -0.38%",
+      "analysis": "European indices are diverging meaningfully from U.S. gains, suggesting region-specific headwinds including energy import cost pressure from crude spike, weaker EUR/USD (-0.21%), and slowing industrial output expectations. The DAX's -1.07% decline is particularly telling given Germany's energy-intensive manufacturing base, which is directly exposed to Brent above $107. Watch EU industrial production data and ECB commentary for guidance on whether rate cuts get pushed back further."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "ONON",
+      "company": "On Holding AG",
+      "direction": "LONG",
+      "thesis": "On Holding's Q1 beat with double-digit China growth confirms accelerating brand momentum and market share capture from Nike in premium athletic footwear; Lynch's \"invest in what you know\" thesis aligns with this visible consumer trend. Entry on post-earnings consolidation with target at prior resistance zone; stop below the pre-earnings base."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "WTI above $100 and Brent above $107 directly expand ExxonMobil's operating cash flow and free cash flow yield, which at current prices remains compelling on a Graham intrinsic value basis. The upstream earnings torque at these oil price levels is significant and the balance sheet is fortress-grade."
+    },
+    {
+      "ticker": "VST",
+      "company": "Vistra Corp",
+      "direction": "LONG",
+      "thesis": "Power demand from AI data centers and rising natural gas prices (correlated with oil spike) position Vistra's diversified generation portfolio for earnings upside; Fisher's growth-at-reasonable-price framework supports accumulation here. Watch for capacity auction results and any nuclear relicensing news as near-term catalysts."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market is sending a complex, somewhat contradictory signal — U.S. stock indexes are barely positive, but underneath the surface, oil is surging past $100 a barrel, bond yields are rising, and volatility is ticking up. This \"everything going up at once\" combination of oil, yields, and the dollar is the early signature of a stagflationary environment, where prices rise but growth slows — the most challenging backdrop for investors because there are fewer safe hiding places.\nLO MÁS IMPORTANTE:\n• WTI crude oil above $100 — this directly raises costs for businesses and consumers, threatens corporate profit margins, and keeps the Fed from cutting interest rates anytime soon\n• Trump-Xi summit — a trade deal would be one of the biggest positive surprises of 2026, while failure could reignite tariff fears and hit global markets hard when Asia opens Wednesday\n• 30Y Treasury approaching 5.00% — this is a critical psychological level; if long-term borrowing costs break above 5%, it forces pension funds and insurers to rebalance, which can trigger a broader sell-off in stocks and bonds simultaneously\nCONCEPTO DEL DÍA:\n**Stagflation** is when an economy experiences rising prices (inflation) AND slow or stagnant growth at the same time — the worst of both worlds, because normally the tools to fight one problem make the other worse. Think of it like a car that's overheating AND running out of gas simultaneously: stepping on the gas (stimulus) makes the overheating worse, but cooling the engine (rate hikes) risks stalling completely. Today's combination of $100+ oil, rising Treasury yields, and flat-to-slow equity markets is the early warning signal investors watch for stagflation risk.\nPARA MAÑANA:\nThe single most important event to watch in the next 24-48 hours is the outcome of the Trump-Xi summit — any confirmed trade deal or agricultural purchase agreement will likely send Asian markets sharply higher at Wednesday's open and provide a tailwind for global equities, while a breakdown in talks could reverse today's mild gains quickly. Additionally, keep an eye on whether the 10Y Treasury yield breaks decisively above 4.50%, which would be the technical trigger for a broader repricing of growth stocks.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7412.83984375,
+      "pct_change": 0.18799566475542911
+    },
+    "Nasdaq": {
+      "price": 26274.130859375,
+      "pct_change": 0.10306205935853728
+    },
+    "10Y Treasury": {
+      "price": 4.409999847412109,
+      "pct_change": 1.0540789519547211
+    },
+    "DXY": {
+      "price": 98.26000213623047,
+      "pct_change": 0.32673033168001225
+    },
+    "Gold": {
+      "price": 4699.7001953125,
+      "pct_change": -0.40265325648097694
+    },
+    "Bitcoin": {
+      "price": 80649.6015625,
+      "pct_change": -1.3198553668013164
+    }
+  }
+}
