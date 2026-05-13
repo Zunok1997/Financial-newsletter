@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-13",
+  "today_theme": "• METALS SUPERCYCLE: Silver, copper, gold all surging — industrial demand revival confirmed\n• RATE CEILING WATCH: 10Y at 4.46%, 30Y at 5.03% — bond vigilantes are back\n• AI MONETIZATION CRISIS: Alibaba -84% profit; when does AI spending become AI earnings?\n• CHINA DIPLOMACY PIVOT: Huang in Beijing — semiconductor trade thaw could reshape tech sector\n• KEY LEVEL: S&P 7,400 — Yardeni's bullish target meets Graham's valuation warning",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Silver & Copper Surge Signal Industrial Demand Revival",
+      "analysis": "Silver surged 2.90% and copper jumped 2.41% on Wednesday, pointing to renewed optimism in industrial and manufacturing activity globally. This dual rally in base and precious metals suggests markets are pricing in stronger global demand, particularly from Asia, while also reflecting inflation hedging flows. Watch whether copper holds above $6.60 as confirmation of a genuine demand cycle rather than a speculative squeeze."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Nvidia's Jensen Huang Joins Trump China Trip — Tech Diplomacy Unlocks AI Supply Chain",
+      "analysis": "Nvidia's CEO joining a high-level US-China diplomatic mission signals potential easing of semiconductor export restrictions that have weighed on chip stocks. Markets are interpreting this as a soft reopening of the world's two largest tech ecosystems, with direct implications for Nvidia, Micron, and Intel revenue pipelines. Watch for any formal trade communiqués or export license relaxations that could trigger a sharp re-rating of the semiconductor sector."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Alibaba Core Profit Plunges 84% Despite AI/Cloud Growth",
+      "analysis": "Alibaba's March quarter showed an 84% collapse in core profitability as the company burns capital aggressively on AI infrastructure and e-commerce buildout. This raises serious questions about whether AI investment cycles generate near-term returns, a concern that could bleed into US mega-cap tech valuations trading at premium multiples. Watch BABA's after-hours price action and broader Hang Seng tech reaction as a leading indicator for global platform stock sentiment."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "BofA Issues Blunt Fed Rate Cut Warning — Higher for Longer Entrenched",
+      "analysis": "Bank of America's warning signals that the market's dovish Fed pivot narrative is being challenged by sticky inflation and a resilient labor market. The 10Y Treasury yield rising 1.20% to 4.463% on the same day reinforces the \"higher for longer\" thesis, pressuring rate-sensitive sectors like real estate, utilities, and growth tech. Watch the 10Y yield relative to the 4.50% resistance level — a sustained break above would force significant repricing of equity risk premiums."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Ed Yardeni Sets Highest S&P 500 Target — But Flags Meltdown Risk",
+      "analysis": "Yardeni's bullish S&P 500 target is the most optimistic on Wall Street, yet his simultaneous meltdown warning reflects the dangerous duality of a market driven by momentum and AI euphoria. At 7,400 on the S&P 500, valuations leave little margin of safety in the Graham/Buffett tradition, making upside calls fragile to any macro shock. Watch earnings revision trends and credit spreads — if corporate margins compress while yields stay elevated, the bull case evaporates quickly."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia Corp",
+      "direction": "LONG",
+      "thesis": "Jensen Huang's presence on the China diplomatic trip directly signals potential revenue recovery from restricted markets, a massive catalyst for the world's dominant AI chip designer. Fisher's growth investing framework supports owning the best-in-class operator in secular AI infrastructure spend."
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "direction": "LONG",
+      "thesis": "Analysts see 27% upside and the defense macro tailwind remains ironclad with NATO spending rising and geopolitical tensions structurally elevated — a classic Lynch \"invest in what you know\" defense cycle play. The company's backlog visibility and dividend growth make it a Buffett-style durable compounder at a reasonable multiple."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust",
+      "direction": "LONG",
+      "thesis": "Gold at $4,703 is in a confirmed structural bull market driven by central bank diversification away from USD, inflationary pressures, and geopolitical uncertainty — Dalio's \"paradigm shift\" framework favors hard assets when fiat credibility erodes. The Soros reflexivity principle is also at work: rising gold prices attract more institutional flows, creating self-reinforcing momentum."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy los mercados enviaron señales mixtas: el Nasdaq bajó mientras los metales — plata, cobre y oro — subieron con fuerza, reflejando un mundo donde la inflación sigue siendo el tema dominante y los inversores buscan activos reales como refugio. El gran titular macro del día fue la advertencia de BofA sobre los recortes de tasas, confirmada por el alza del bono del Tesoro a 10 años al 4.46%, recordándonos que la Reserva Federal no tiene prisa en bajar tasas.\nLO MÁS IMPORTANTE:\n• Plata +2.90% y cobre +2.41% — los metales industriales están gritando que la demanda global está viva y que la inflación no ha terminado\n• 10Y Treasury al 4.463% — los tipos largos siguen subiendo, lo que comprime las valoraciones de las empresas de crecimiento y hace que el efectivo sea una competencia real para las acciones\n• Alibaba con caída de beneficio del 84% — nos recuerda que gastar en IA no es lo mismo que ganar dinero con IA, una advertencia válida para todo el sector tecnológico global\nCONCEPTO DEL DÍA:\n**La Prima de Riesgo de Renta Variable (Equity Risk Premium)** es la diferencia entre lo que esperamos ganar en bolsa y lo que nos paga un bono \"sin riesgo\" como el Tesoro americano. Piénsalo así: si el bono a 10 años te paga 4.46% garantizado, ¿cuánto más necesitas que te ofrezca una acción para asumir el riesgo de que pueda bajar? Cuando los tipos suben, esta prima se comprime y las acciones tienen que bajar de precio para seguir siendo atractivas — exactamente la tensión que estamos viendo hoy.\nPARA MAÑANA:\nMantén ojo en cualquier declaración oficial sobre el viaje de Trump/Huang a China — cualquier señal de relajación de restricciones a exportaciones de chips podría mover el sector tecnológico con fuerza. También atentos al dato de peticiones de desempleo y cualquier comentario de miembros de la Fed, que en el contexto actual de \"higher for longer\" pueden mover mercados de bonos y acciones significativamente.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7400.9599609375,
+      "pct_change": -0.16026088601544933
+    },
+    "Nasdaq": {
+      "price": 26088.19921875,
+      "pct_change": -0.7076604802653513
+    },
+    "10Y Treasury": {
+      "price": 4.4629998207092285,
+      "pct_change": 1.2018134950326758
+    },
+    "DXY": {
+      "price": 98.46299743652344,
+      "pct_change": 0.176006225846687
+    },
+    "Gold": {
+      "price": 4703.7998046875,
+      "pct_change": 0.5601100240351367
+    },
+    "Bitcoin": {
+      "price": 80805.328125,
+      "pct_change": 0.4073635107020897
+    }
+  }
+}
