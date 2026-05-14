@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-14",
+  "today_theme": "• GREAT POWER DIPLOMACY: Trump-Xi summit is the macro event reshaping risk appetite today.\n• KEY LEVEL: S&P 7,500 — the next psychological resistance to clear for bulls.\n• YIELD WATCH: 30Y at 5.05% — a sustained break above 5.10% would be market disruptive.\n• CRUDE DIVERGENCE: Headline oil above $100 but physical premiums falling — watch for snap reversal.\n• RISK EVENT: Any negative summit headline from Beijing could trigger rapid risk-off rotation.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Trump-Xi Beijing Summit Signals Geopolitical Thaw",
+      "analysis": "Presidents Trump and Xi met in Beijing Thursday for high-stakes talks, with Xi invoking the \"Thucydides Trap\" warning against great-power conflict — a signal both sides want managed competition, not war. Markets historically rally on U.S.-China diplomatic engagement as it reduces tail risks for global supply chains, tech exports, and risk assets broadly. Watch for any joint communiqué on tariffs, semiconductors, or Taiwan as the key follow-through catalyst."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Wall Street Growing More Anxious About Long-Term Inflation",
+      "analysis": "Bond markets are pricing in sustained inflation pressures, evidenced by the 10Y Treasury hitting 4.481% (+0.40%) and the 30Y at 5.047% — levels that compress equity multiples and raise the cost of capital. This anxiety reflects WTI Crude above $101 and Brent above $105, alongside a structurally weaker dollar narrative, creating a stagflationary undercurrent. Watch Fed speakers and next CPI print for confirmation of whether rate-cut timelines get pushed further out."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "U.S. Claims AI Leadership Advantage Over China",
+      "analysis": "Treasury Secretary Bessent stated the U.S. is \"in the lead\" on AI and can safely engage China on AI safety protocols, reducing fears of a full AI arms-race decoupling. This narrative supports continued capital flows into U.S. mega-cap AI names and semiconductor infrastructure. Watch for any bilateral AI framework agreement that could unlock export restrictions on chips to allied nations."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Physical Crude Premiums Collapse Despite Hormuz Crisis",
+      "analysis": "Despite the Hormuz crisis narrative keeping headline WTI above $101, physical crude premiums are collapsing — a bearish divergence suggesting paper markets are running ahead of real demand. This split signals potential for a sharp mean-reversion in crude if the geopolitical premium unwinds faster than expected. Watch tanker rates and Oman/Dubai differentials for early warning signals."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Wolfspeed Soars to All-Time High on Narrowing Losses",
+      "analysis": "WOLF surging to all-time highs on dramatically slashed losses signals a potential inflection point for the domestic silicon carbide semiconductor space critical to EV and defense applications. This fits the reshoring/industrial renaissance theme that has driven capital into U.S. advanced materials. Watch whether the stock can hold new highs on volume, and monitor gross margin trajectory as the key fundamental trigger."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "WOLF",
+      "company": "Wolfspeed Inc",
+      "direction": "LONG",
+      "thesis": "Momentum breakout on all-time high with fundamental improvement in losses makes this a classic Lynch growth inflection play in a critical domestic semiconductor niche; EV and defense demand provides durable runway."
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "direction": "LONG",
+      "thesis": "AI leadership narrative reinforced by Bessent's comments and Trump-Xi summit reducing decoupling fears clears the path for NVDA's next leg higher as the dominant AI infrastructure monopoly; Fisher growth framework supports owning best-in-class compounders through volatility."
+    },
+    {
+      "ticker": "TLT",
+      "company": "iShares 20+ Year Treasury ETF",
+      "direction": "SHORT",
+      "thesis": "With 30Y yields at 5.047% and inflation anxiety building on Wall Street, long-duration bonds face further price erosion as the term premium re-prices higher; Soros reflexivity framework — rising yields beget more selling as pension hedges unwind."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market is being driven by one big story: Trump and Xi meeting face-to-face in Beijing, which gave investors enough confidence to push Nasdaq up over 1% and European markets higher. At the same time, the bond market is quietly flashing a warning sign — long-term interest rates keep rising, with the 30-year Treasury now at 5%, telling us that inflation is not going away as fast as everyone hoped.\nLO MÁS IMPORTANTE:\n• Trump-Xi Beijing Summit — this is the most important geopolitical event in months because even a small step toward less tension between the world's two largest economies reduces the risk of shocks to global trade, tech, and energy markets.\n• 30-Year Treasury yield at 5.047% — when long-term borrowing costs rise this high, it becomes more expensive for companies and governments to borrow money, which eventually slows growth and puts pressure on stock valuations, especially high-growth tech stocks.\n• Physical crude oil premiums collapsing despite headline price above $100 — this hidden divergence means the real oil market is not as tight as the scary Hormuz headlines suggest, and a sudden drop in crude prices could hurt energy stocks while benefiting consumers and airlines.\nCONCEPTO DEL DÍA:\nToday's concept is the **\"Thucydides Trap\"** — an idea from history that says when a rising power (China) threatens to overtake a dominant power (USA), the result is often war, not because either side wants it, but because of fear and miscalculation. Think of it like two big kids on a playground, both afraid the other will throw the first punch, so tensions keep escalating. The fact that Xi brought this concept up in the meeting is actually a hopeful sign — he's saying \"let's be smart and not fall into this trap,\" which markets interpreted as a desire for stability rather than confrontation.\nPARA MAÑANA:\nThe most important thing to watch in the next 24-48 hours is any official statement or joint communiqué coming out of the Trump-Xi summit — specific language on tariffs, Taiwan, or semiconductors could move markets sharply in either direction. Also watch for any Fed speakers reacting to today's rising yields, as their tone on inflation will set the stage for next week's risk appetite.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7444.25,
+      "pct_change": 0.5849246488426663
+    },
+    "Nasdaq": {
+      "price": 26402.33984375,
+      "pct_change": 1.2041483674895512
+    },
+    "10Y Treasury": {
+      "price": 4.480999946594238,
+      "pct_change": 0.4033189918916312
+    },
+    "DXY": {
+      "price": 98.53399658203125,
+      "pct_change": 0.054826587385422544
+    },
+    "Gold": {
+      "price": 4700.2998046875,
+      "pct_change": 0.05533791572297365
+    },
+    "Bitcoin": {
+      "price": 79558.3671875,
+      "pct_change": 0.35476819790862174
+    }
+  }
+}
