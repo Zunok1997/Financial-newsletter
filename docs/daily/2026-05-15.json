@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-15",
+  "today_theme": "• DIVERGENCE: U.S. rallies alone while the world sells off — sustainable?\n• KEY LEVEL: S&P 7,500 — round-number resistance now critical support to hold\n• COMMODITIES FLUSH: Gold, silver, copper, oil all red — macro warning signal\n• GEOPOLITICS: Trump-Xi summit outcome is the week's dominant price driver\n• RISK EVENT: Watch Monday Asian open for Trump-Xi follow-through confirmation",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Trump-Xi Summit Concludes with Framework for Further Talks",
+      "analysis": "A two-day summit between Trump and Xi in Beijing wrapped Friday, signaling a de-escalation in U.S.-China trade tensions that have weighed on global markets. Markets could reprice risk premiums on multinationals with heavy China exposure, including tech, semis, and consumer staples. Watch for follow-up trade delegation meetings and any tariff pause announcements in coming weeks."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Bill Ackman's Pershing Square Discloses New Microsoft Position",
+      "analysis": "Ackman's concentrated, high-conviction style lends significant credibility to a new MSFT stake, potentially drawing additional institutional flows into the stock. This validates mega-cap tech as a value destination even at current multiples, reinforcing the Buffett-style moat narrative around cloud and AI infrastructure. Watch for Q2 13-F filings to confirm position size and whether Ackman takes an activist or passive role."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Gold Drops 2.41% and Silver Plunges 6.58% on Single Session",
+      "analysis": "A sharp simultaneous decline in gold and silver — with copper down 3.09% — signals broad liquidation in commodities, possibly driven by margin calls, dollar stabilization, or a risk-sentiment rotation away from safe havens. This could indicate institutional de-risking or profit-taking after a prolonged metals rally, and may foreshadow further downside if DXY strengthens further. Watch the $4,500 gold support level and whether copper's decline signals slowing global growth expectations."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Global Equity Indices Sell Off While U.S. Markets Diverge Higher",
+      "analysis": "Nikkei -1.99%, Hang Seng -1.62%, DAX -1.39%, FTSE -1.27%, and CAC -1.29% all declined sharply while U.S. indices posted gains, revealing a stark divergence suggesting U.S. exceptionalism narrative is back but global growth fears are rising. This split can be fragile — historically, when global markets weaken, U.S. markets follow within 2–4 sessions. Watch whether European PMI data and China trade flow figures confirm a slowdown narrative next week."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "VIX Spikes 8.11% to 18.66 Despite U.S. Equity Gains",
+      "analysis": "A rising VIX alongside rising equities is an unusual and cautionary divergence, suggesting options traders are hedging upside moves rather than fully trusting the rally. VIX 3M at 20.85 remaining elevated versus spot VIX confirms the market expects turbulence ahead even if today is calm. Watch whether VIX closes above 20 next week — a sustained breach would signal a regime shift toward higher volatility."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft",
+      "direction": "LONG",
+      "thesis": "Ackman's high-conviction entry validates Microsoft's AI/cloud moat; institutional accumulation typically precedes sustained re-rating. Azure growth and Copilot monetization provide Lynch-style \"fast grower\" earnings acceleration narrative into H2 2026."
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corp",
+      "direction": "LONG",
+      "thesis": "Trump-Xi summit reduces export restriction risk on advanced chips to China, directly addressing the largest overhang on NVDA's forward revenue. Demand for AI training infrastructure remains structurally intact regardless of macro noise."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust (via short proxy)",
+      "direction": "SHORT",
+      "thesis": "Gold's 2.41% single-day drop with silver -6.58% and copper -3.09% suggests a commodity liquidation cycle is underway, not a one-day blip. Soros reflexivity framework: the narrative of \"infinite gold upside\" is breaking, triggering momentum-driven selling."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy fue un día inusual: los mercados de Estados Unidos subieron con fuerza mientras Europa y Asia caían entre 1.3% y 2%, una divergencia que raramente se sostiene por mucho tiempo. El tema dominante fue la cumbre Trump-Xi en Beijing, que terminó con señales positivas para las relaciones comerciales, impulsando el optimismo en Wall Street mientras el resto del mundo procesaba otros riesgos como la debilidad del yen y la incertidumbre del BCE.\nLO MÁS IMPORTANTE:\n• Cumbre Trump-Xi concluye con marco de diálogo — reduce el riesgo de guerra comercial total que pesaba sobre semiconductores, tecnología y exportadores agrícolas\n• Commodities se desploman en masa (oro -2.41%, plata -6.58%, cobre -3.09%) — una liquidación simultánea de metales es señal de advertencia macroeconómica que el mercado de acciones aún no está reconociendo\n• VIX sube 8.11% mientras el S&P también sube — los operadores de opciones están comprando protección incluso en días positivos, señal de que la desconfianza en este rally es alta\nCONCEPTO DEL DÍA:\n**Divergencia VIX-Equities**: Normalmente, cuando el mercado sube, el VIX (el \"índice del miedo\") baja porque los inversores están tranquilos. Hoy ocurrió lo contrario: el S&P subió 0.77% y el VIX también subió 8.11%. Imagina que el precio de un seguro de auto sube el mismo día que las carreteras parecen vacías — eso significa que alguien sabe algo que tú no ves. En este caso, los inversores institucionales están comprando protección ante posibles caídas futuras mientras el mercado celebra hoy.\nPARA MAÑANA:\nCon los mercados de EE.UU. cerrados el lunes por festivo (si aplica) o con Asia abriendo primero, la reacción de los mercados asiáticos al comunicado final de la cumbre Trump-Xi será el indicador clave — una apertura fuerte en Tokio y Hong Kong el lunes confirmaría que el optimismo geopolítico tiene piernas; una caída continuada sería la señal de advertencia que el VIX ya está anticipando.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7501.240234375,
+      "pct_change": 0.7655604577358364
+    },
+    "Nasdaq": {
+      "price": 26635.220703125,
+      "pct_change": 0.8820462911741813
+    },
+    "10Y Treasury": {
+      "price": 4.460999965667725,
+      "pct_change": -0.4463285240990587
+    },
+    "DXY": {
+      "price": 99.0459976196289,
+      "pct_change": 0.16788063392184147
+    },
+    "Gold": {
+      "price": 4565.2998046875,
+      "pct_change": -2.4112415428063088
+    },
+    "Bitcoin": {
+      "price": 80740.0,
+      "pct_change": -0.38401628599188786
+    }
+  }
+}
