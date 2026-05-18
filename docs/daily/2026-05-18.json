@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-18",
+  "today_theme": "• BOND VIGILANTES: 30Y at 5.13% — the market is taxing fiscal excess\n• KEY LEVEL: 10Y Treasury 4.65% — break triggers forced equity de-risking\n• GEOPOLITICAL CLOCK: Trump's Iran warning makes every oil headline a market mover\n• DIVERGENCE WATCH: WTI -3% while Brent +1% — structural signal worth investigating\n• RISK EVENT: No major Fed speakers scheduled; bond auction results mid-week are the next landmine",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "10Y Treasury Yield Surges to 4.595% — Bond Market Challenges Equity Valuations",
+      "analysis": "Long-duration yields spiked 3% today, compressing equity risk premiums at a moment when S&P 500 trades near all-time highs. Rising yields make the \"there is no alternative\" (TINA) argument obsolete, redirecting institutional flows from equities to fixed income. Watch the 4.65% level on the 10Y — a break there could accelerate equity selling, particularly in high-multiple tech names."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Trump Warns Iran as Oil Jumps Past $102 WTI — Geopolitical Risk Premium Surges",
+      "analysis": "Trump's weekend ultimatum to Iran reignited fears of supply disruption in the Strait of Hormuz, pushing WTI above $102 and Brent past $110. Energy-cost inflation re-entering the system at this stage complicates the Fed's path to rate cuts, squeezing consumer and corporate margins simultaneously. Watch Iranian diplomatic response, OPEC+ posture, and any U.S. military movements in the Gulf region over the next 48 hours."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Venture Global Raises 2026 Guidance — LNG Infrastructure Thesis Strengthens",
+      "analysis": "Venture Global's strong Q1 beat and upward guidance revision signal robust global LNG demand driven by Europe's continued energy independence push and Asian re-stocking. This validates the secular LNG buildout story and benefits midstream/infrastructure plays with U.S. export exposure. Watch for follow-through in Cheniere Energy, New Fortress Energy, and pipeline MLPs as confirmation of sector momentum."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "LVMH Sells Marc Jacobs to WHP Global — Portfolio Rationalization, Not Distress",
+      "analysis": "LVMH's divestiture of Marc Jacobs reflects strategic pruning to focus on ultra-premium heritage brands rather than financial pressure. WHP Global specializes in brand monetization, so the asset likely found an optimal steward; the deal is unlikely to materially move LVMH's stock. Watch for LVMH's broader tone on discretionary spending in China and the U.S. — that macro read matters more than this transaction."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "AI Rally Faces Bond-Yield Headwind — \"Morning Bid\" Flags Repricing Risk",
+      "analysis": "The narrative that AI-driven earnings growth could override valuation concerns is being stress-tested by today's yield spike, which directly discounts future cash flows in high-multiple tech. Nasdaq's -1.54% underperformance versus the Dow today illustrates that duration-sensitive growth stocks absorb the most pain in rate sell-offs. Watch Nvidia, Microsoft, and Alphabet earnings revisions — if forward P/Es remain elevated above 30x while the 10Y holds near 4.6%, multiple compression becomes the base case."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "VG",
+      "company": "Venture Global LNG",
+      "direction": "LONG",
+      "thesis": "Strong Q1 beat plus raised 2026 guidance confirms execution on LNG export capacity; geopolitical tension with Iran structurally lifts global LNG spot prices, creating a direct revenue tailwind. Lynch's \"invest in what you know is growing\" framework squarely applies — this is a beneficiary of two simultaneous macro tailwinds."
+    },
+    {
+      "ticker": "TLT",
+      "company": "iShares 20+ Year Treasury Bond ETF",
+      "direction": "SHORT",
+      "thesis": "Rising 10Y and 30Y yields driven by fiscal concern and oil-driven inflation expectations make long-duration Treasuries structurally vulnerable; 30Y at 5.128% signals the bond market is pricing persistent deficits. Soros's reflexivity framework applies — once bond vigilantes gain momentum, the selling becomes self-reinforcing until a policy catalyst intervenes."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "WTI above $102 and Brent above $110 driven by Iran escalation fears directly expands Exxon's upstream margin; the company's integrated model buffers downside if prices retreat. Graham's intrinsic value framework supports the thesis — XOM trades at a modest multiple relative to its free cash flow generation at current oil prices."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's markets sold off across the board as two powerful forces hit at the same time: bond yields surged (the 10-year Treasury hit 4.595%) while oil jumped above $102 per barrel due to Trump's warning to Iran. Think of it like a business facing both higher borrowing costs and higher fuel prices on the same day — profits get squeezed from two directions at once, and that's exactly what investors are pricing in right now.\nLO MÁS IMPORTANTE:\n• Rising Treasury yields (10Y at 4.595%) — higher yields make future corporate profits worth less today, directly pushing stock prices down, especially for expensive tech companies\n• Trump's Iran warning pushing oil above $102 WTI — higher oil re-ignites inflation fears, which reduces the chances of Fed rate cuts and compounds the pressure on equities\n• Nasdaq leading declines at -1.54% — the most expensive part of the stock market (AI/tech stocks) is the most vulnerable when interest rates rise, and today's action confirms that rotation\nCONCEPTO DEL DÍA:\n**Duration Risk** is the sensitivity of an investment's price to changes in interest rates. Think of it like a seesaw: the longer you have to wait for your money back (a 30-year bond, or a tech company whose big profits are 10 years away), the harder you get hit when interest rates go up. Today's selloff in Nasdaq is a perfect real-world example — AI stocks are essentially \"long duration\" bets on future profits, so when the 10-year yield jumps, those future profits are worth less in today's dollars, and the stock price falls even if the company hasn't changed at all.\nPARA MAÑANA:\nWatch the 10-year Treasury yield — if it breaks above 4.65%, expect a second wave of equity selling driven by systematic funds that are programmed to reduce risk when yields reach that threshold. Also monitor any Iranian diplomatic response to Trump's warning; de-escalation rhetoric would be the most powerful positive catalyst available to markets in the next 48 hours.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7408.5,
+      "pct_change": -1.2363320128051742
+    },
+    "Nasdaq": {
+      "price": 26225.140625,
+      "pct_change": -1.5396158443578694
+    },
+    "10Y Treasury": {
+      "price": 4.59499979019165,
+      "pct_change": 3.003806894310716
+    },
+    "DXY": {
+      "price": 99.1989974975586,
+      "pct_change": -0.07152125305604258
+    },
+    "Gold": {
+      "price": 4545.60009765625,
+      "pct_change": -0.22388400431369784
+    },
+    "Bitcoin": {
+      "price": 76679.71875,
+      "pct_change": -0.9681507043164448
+    }
+  }
+}
