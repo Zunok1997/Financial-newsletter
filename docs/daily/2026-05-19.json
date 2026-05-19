@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-19",
+  "today_theme": "• YIELD CURVE VIGILANCE: 30Y at 5.15% — equity multiple compression risk rising\n• KEY LEVEL: S&P 7,400 support; break lower opens path to 7,200\n• CRUDE COLLAPSE: WTI -4.77% — watch $100 as critical psychological support\n• VALUE ROTATION: Europe and Dow outperform; Nasdaq lags — regime shift signal\n• RISK EVENT: NVDA earnings imminent — single most important catalyst for tech sentiment",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Home Depot Beats Estimates, DIY Resilience Confirmed",
+      "analysis": "Home Depot surpassed Wall Street expectations with 5% sales growth, driven by small DIY projects even as big-ticket purchases softened. This signals that the middle-income consumer remains engaged with discretionary spending at accessible price points, a positive read-through for Home Improvement and retail broadly. Watch HD's guidance for tariff/lumber cost commentary and whether comparable store sales momentum holds into Q3."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI Crude Drops 4.77% in Single Session — Demand Fear Signal",
+      "analysis": "A near-5% single-day plunge in WTI crude to $103.48 suggests mounting demand destruction fears, potentially tied to slowing industrial activity or oversupply signals. Energy sector earnings revisions could turn negative rapidly if this move is sustained, pressuring XLE-heavy portfolios. Watch the $100 WTI support level and OPEC+ response rhetoric over the next 48 hours."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "10Y Treasury Yield Rises to 4.623%, Yield Curve Steepening Pressure",
+      "analysis": "The 10-year yield climbing while the 3M T-Bill yield fell creates a steepening dynamic that typically signals bond market inflation/fiscal concerns rather than growth optimism. With the 30Y at 5.147%, the cost of long-duration capital is rising, compressing equity multiples especially in high-growth Nasdaq names. Watch for any Fed speakers or Treasury auction results this week that could accelerate the move."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "European Equities Outperform — DAX +1.27%, FTSE +0.63%, CAC +0.78%",
+      "analysis": "European indices broadly outperformed US counterparts today, suggesting relative rotation into cheaper international equities as USD remains modestly firm. This divergence may reflect improving eurozone growth expectations or sector composition advantages (value-heavy indices vs. US growth concentration). Watch EUR/USD stability above 1.16 and European PMI data as confirmation of sustainable momentum."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "AI Economy Reshaping Labor Market — Blue Collar Gains, White Collar Pressure",
+      "analysis": "Reports of AI-driven hiring slowdowns hitting entry-level white-collar roles at Ford and AT&T contrast with blue-collar resilience, reflecting an uneven productivity transition. Market implications are sector-specific: staffing firms, education tech, and SaaS HR platforms face headwinds while industrial automation plays benefit. Watch unemployment claims segmentation and any Fed commentary linking AI to structural labor supply shifts."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "HD",
+      "company": "Home Depot",
+      "direction": "LONG",
+      "thesis": "HD beat estimates with 5% revenue growth and DIY resilience, validating consumer engagement at the $200–$500 ticket range; tariff pass-through appears manageable per management tone. Lynch's \"invest in what you know\" consumer franchise with durable competitive moat supports holding through housing cycle softness."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "SHORT",
+      "thesis": "A near-5% WTI drop signals potential demand destruction that would compress ExxonMobil's free cash flow guidance if sustained below $95/bbl; the stock has not repriced the commodity move yet. Soros reflexivity framework: narrative of energy supercycle may be reversing, triggering momentum selling from energy-overweight funds."
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "LONG",
+      "thesis": "Nvidia's AI inference and data center demand remains structurally intact; any post-earnings dip on macro noise is a Fisher-style quality entry into a company with pricing power, sticky customer relationships, and a 2–3 year capex cycle tailwind. Watch earnings release closely for data center revenue guidance as the key confirmation signal."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy los mercados estuvieron mixtos: el Dow Jones subió levemente gracias a empresas sólidas como Home Depot, mientras que el Nasdaq bajó por la presión de las tasas de interés largas, que siguen subiendo. El gran tema del día fue la caída fuerte del petróleo (-4.77%) y el aumento del rendimiento del bono a 30 años al 5.15%, señales que el mercado está procesando si viene una desaceleración económica o inflación persistente.\nLO MÁS IMPORTANTE:\n• Home Depot batió expectativas — confirma que el consumidor americano de clase media sigue gastando en proyectos del hogar, lo que es una señal positiva para el consumo en general\n• WTI petróleo cayó casi 5% — una caída tan brusca en un solo día puede señalar miedo a menor demanda global, lo que afecta a empresas energéticas y puede ser señal de desaceleración\n• El bono del tesoro a 30 años llegó al 5.147% — tasas largas altas hacen que invertir en acciones de crecimiento sea menos atractivo porque los bonos compiten con ellas en rendimiento\nCONCEPTO DEL DÍA:\nLa **curva de rendimientos** es la relación entre las tasas de interés de bonos de corto y largo plazo. Imagina que es como alquilar un apartamento: normalmente cobras más por contratos largos porque hay más riesgo e incertidumbre. Cuando las tasas largas suben más que las cortas (como hoy), el mercado está \"pidiendo\" más compensación por prestar dinero a largo plazo, generalmente porque teme inflación o problemas fiscales futuros.\nPARA MAÑANA:\nLos ojos del mercado estarán puestos en los resultados de Nvidia, el evento más importante para el sector tecnológico y de inteligencia artificial en lo que va del año — su guía de ingresos moverá índices enteros. También hay que vigilar si el petróleo encuentra soporte en $100/barril o continúa la caída, lo que definiría el tono para energía y la lectura de crecimiento global.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7403.0498046875,
+      "pct_change": -0.07356678561787136
+    },
+    "Nasdaq": {
+      "price": 26090.73046875,
+      "pct_change": -0.5125240629667739
+    },
+    "10Y Treasury": {
+      "price": 4.623000144958496,
+      "pct_change": 0.6093657463622616
+    },
+    "DXY": {
+      "price": 99.25599670410156,
+      "pct_change": 0.2889718903414657
+    },
+    "Gold": {
+      "price": 4537.60009765625,
+      "pct_change": -0.3272905512081274
+    },
+    "Bitcoin": {
+      "price": 76989.96875,
+      "pct_change": 0.046517133675541875
+    }
+  }
+}
