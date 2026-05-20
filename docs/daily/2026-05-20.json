@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-20",
+  "today_theme": "• AI BINARY MOMENT: Nvidia earnings tonight define the market's near-term direction.\n• YIELD PRESSURE: 10Y at 4.667% — watch 4.75% as the equity pain threshold.\n• CRUDE COLLAPSE: WTI -6% signals demand shift; watch EIA inventory data.\n• GEOPOLITICAL TAIL RISK: Iran escalation threats keep gold and VIX 3M elevated.\n• CONSUMER REVIVAL: Target beat validates mid-market spending recovery thesis.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Nvidia Earnings Imminent — Markets Brace for AI Bellwether Report",
+      "analysis": "Nvidia is set to report Q1 FY2027 earnings, making it the most anticipated event of the week given its outsized influence on AI-driven market sentiment. A beat with strong guidance could reignite the Nasdaq and tech sector after today's mild pullback, while a miss would likely ripple negatively across semiconductors and AI-adjacent names. Watch data center revenue guidance, gross margin trajectory, and any commentary on export restrictions to China."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Target Q1 Beat Signals Consumer Resilience at Discount Retail",
+      "analysis": "Target exceeded Wall Street Q1 estimates and raised its sales outlook, suggesting budget-conscious consumers are returning to value-oriented retailers amid persistent inflation. This is a constructive signal for discretionary spending at the mid-to-lower income tier and could lift peers like Walmart and Costco. Watch same-store sales momentum, inventory levels, and whether traffic gains are sustainable heading into summer."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Iran Threatens to Extend Conflict Beyond the Region",
+      "analysis": "Iran's Revolutionary Guard issued explicit threats to expand the Middle East conflict if the U.S. and Israel resume military operations, escalating geopolitical tail risk significantly. While oil paradoxically fell today on demand fears, any actual escalation would spike energy prices, safe-haven flows, and volatility sharply. Watch crude oil, gold, and VIX 3M (already elevated at 21.12) as leading indicators of market stress repricing."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "10Y Treasury Yield Spikes to 4.667% — Bond Market Sends Warning",
+      "analysis": "The 10-year yield rose nearly 1% today, pushing toward levels that historically compress equity multiples and increase refinancing stress across corporates and consumers. With the 30Y at 5.18%, the long end of the curve is signaling either inflation persistence or fiscal concern, both headwinds for growth assets. Watch the 4.75% level on the 10Y as a potential circuit-breaker for equity bulls."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI Crude Crashes 6%+ — Demand Signal or Supply Glut?",
+      "analysis": "WTI crude oil plunged over 6% to $101.23, one of the sharpest single-day moves this year, potentially signaling weakening global demand expectations or an OPEC supply surprise. This is bearish for energy sector earnings but could provide relief for inflation-sensitive consumers and transportation companies. Watch OPEC+ commentary, U.S. inventory data (EIA report), and whether the crude drop spreads into broader commodity deflation."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia Corporation",
+      "direction": "LONG",
+      "thesis": "Nvidia's AI infrastructure dominance makes it the single most important earnings catalyst this season, and any beat + raised guidance should drive the stock meaningfully higher into summer; Fisher's growth-at-reasonable-price framework supports holding through volatility given secular AI capex supercycle. Watch data center segment and China export commentary as key variables."
+    },
+    {
+      "ticker": "TGT",
+      "company": "Target Corporation",
+      "direction": "LONG",
+      "thesis": "Target's Q1 beat and raised sales outlook reflect a returning consumer base that had been scared away by pricing and execution missteps, making this a classic Lynch turnaround play with a credible new CEO narrative. Entry near current levels offers asymmetric upside if traffic trends continue through Q2."
+    },
+    {
+      "ticker": "TLT",
+      "company": "iShares 20+ Year Treasury Bond ETF",
+      "direction": "SHORT",
+      "thesis": "With the 30Y at 5.18% and rising, long-duration bonds face continued mark-to-market pressure as fiscal concerns and sticky inflation keep yields elevated; Soros's reflexivity framework suggests the bond selloff can be self-reinforcing as rising yields force more selling from leveraged holders. A break below $83 opens the path to $76 quickly."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday was a tale of two stories — mild equity losses on the surface while underneath, Nvidia's pending earnings dominated all conversation. The bond market sent a clear warning with the 10-year yield jumping to 4.67%, and oil's 6% crash added a macro wildcard, while Iran's escalation threats kept everyone on edge.\nLO MÁS IMPORTANTE:\n• Nvidia earnings tonight — this single report will set the direction for tech, AI, and possibly the entire market for the next several weeks.\n• 10-Year Treasury at 4.667% — rising yields make stocks more expensive relative to \"safe\" bonds, which is a quiet but powerful headwind for markets.\n• Iran escalation threat — geopolitical tail risks rarely move markets until they do, and this threat to expand conflict \"beyond the region\" is one that could shock overnight markets without warning.\nCONCEPTO DEL DÍA:\n**VIX vs. VIX 3M Spread** — Today, the regular VIX is 17.90 (calm), but the 3-month VIX is 21.12 (worried). Think of it like weather forecasting: today is partly cloudy, but the 3-month forecast shows a storm coming. When this gap is wide, smart investors use it as a signal to buy insurance (hedges) cheaply today before the storm arrives.\nPARA MAÑANA:\nAll eyes are on Nvidia's after-hours results tonight — expect Thursday's open to be volatile in either direction depending on the report. Also watch Iran headlines overnight and the 10-year Treasury yield: if it breaks above 4.75%, expect meaningful equity market pressure across the board.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7353.60986328125,
+      "pct_change": -0.6678320788135907
+    },
+    "Nasdaq": {
+      "price": 25870.7109375,
+      "pct_change": -0.8432862066224129
+    },
+    "10Y Treasury": {
+      "price": 4.666999816894531,
+      "pct_change": 0.951755798321096
+    },
+    "DXY": {
+      "price": 99.35299682617188,
+      "pct_change": 0.053367344194783894
+    },
+    "Gold": {
+      "price": 4493.7998046875,
+      "pct_change": -0.27738944459481746
+    },
+    "Bitcoin": {
+      "price": 77432.640625,
+      "pct_change": 0.8882427691203972
+    }
+  }
+}
