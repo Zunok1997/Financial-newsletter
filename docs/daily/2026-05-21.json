@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-21",
+  "today_theme": "• ENERGY SHOCK: WTI $100+ reignites stagflation fear across asset classes.\n• QUANTUM LEAP: $2B federal award triggers next CHIPS Act-style sector re-rating.\n• SPACE RACE: Goldman/SpaceX IPO is the most significant listing in a decade.\n• KEY LEVEL: S&P 7,500 is the next resistance; failure = double-top risk.\n• RISK EVENT: Fed speakers Friday — oil at $100 forces hawkish pivot language.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Goldman Sachs Named Lead Underwriter for SpaceX IPO",
+      "analysis": "Goldman Sachs is set to lead the most anticipated IPO in years as SpaceX prepares to go public, representing a landmark moment for private space infrastructure. This signals institutional confidence in deep-tech listing demand and could unlock significant capital flows into aerospace, defense, and innovation-adjacent ETFs. Watch for IPO filing details, valuation leaks (~$250B range), and sympathy moves in ARKX, LMT, and RKLB."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "U.S. Plans $2 Billion Quantum Computing Award with Equity Stakes",
+      "analysis": "The federal government reportedly plans to invest $2B in quantum computing companies while taking equity positions, signaling strategic industrial policy similar to the CHIPS Act. This is a major catalyst for names like IONQ, RGTI, and QBTS, validating the sector's national security relevance. Watch for official announcement timing, which companies receive awards, and whether this creates a CHIPS-style multi-year spending runway."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Nvidia Concedes China AI Chip Market to Huawei",
+      "analysis": "Jensen Huang acknowledged Nvidia has \"largely conceded\" China's AI chip market to Huawei, a $10B+ annual revenue headwind that removes a key growth lever. This validates fears that export controls have permanently restructured competitive dynamics in AI silicon, with Huawei's Ascend chips filling the vacuum. Watch NVDA margin guidance revisions, Huawei Ascend adoption data, and any further U.S. export restriction escalation."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "WTI Crude Breaks $100 — Oil Back Above Triple Digits",
+      "analysis": "WTI crude surging past $100/barrel and Brent at $107 marks a psychologically significant breakout driven by supply tightness and geopolitical risk premiums. Energy sector earnings will receive meaningful upward revisions, and inflationary re-acceleration risks complicate Fed rate-cut timing. Watch EIA inventory data, OPEC+ commentary, and whether the Fed explicitly references energy in upcoming communications."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Trump Directs Fed to Expand Fintech Access to Payment Accounts",
+      "analysis": "The White House is pushing the Fed to allow fintech firms access to the Federal Reserve's payment infrastructure, a move that could disrupt traditional banking intermediation. Near-term market reaction is muted but the long-term implications are significant for fintech valuations (SQ, AFRM, SOFI) and bank revenue models (JPM, BAC). Watch Fed Board response, timeline for rulemaking, and lobbying pushback from traditional banking incumbents."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia Corp",
+      "direction": "SHORT",
+      "thesis": "China AI market concession removes a critical growth narrative while export controls create a structural revenue ceiling — this is a multi-quarter headwind, not a one-day event. Valuation at ~35x forward earnings leaves little cushion for downward earnings revisions from a $10B+ market effectively lost."
+    },
+    {
+      "ticker": "IONQ",
+      "company": "IonQ Inc",
+      "direction": "LONG",
+      "thesis": "The $2B U.S. government quantum award with equity stakes directly validates IonQ as a primary beneficiary given its pure-play status and existing government contracts. This is a reflexive setup — government validation attracts institutional capital which further validates the narrative."
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corp",
+      "direction": "LONG",
+      "thesis": "WTI above $100 and Brent at $107 directly expands free cash flow well beyond analyst consensus, and XOM trades at a modest 13x forward P/E with a 3.4% dividend yield providing downside support. Lynch's PEG framework favors XOM here — earnings growth is accelerating while valuation remains grounded."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday was a broadly positive day for U.S. markets — the S&P 500 gained over 1% and the Nasdaq led the way higher, driven by excitement around the SpaceX IPO announcement and a major U.S. government investment in quantum computing. However, underneath the surface, oil crossing $100 per barrel and Nvidia admitting it has lost China's AI chip market to Huawei create two important clouds that investors should not ignore.\nLO MÁS IMPORTANTE:\n• WTI crude above $100/barrel — this raises inflation fears and could force the Federal Reserve to keep interest rates higher for longer, which is bad for growth stocks and borrowing costs.\n• Goldman Sachs to lead SpaceX IPO — the biggest IPO in years signals that the market for new public companies is wide open, and it lifts the entire commercial space and innovation sector.\n• Nvidia concedes China AI chip market to Huawei — this is a permanent loss of billions in annual revenue, and it shows that export controls have real, lasting consequences for America's most valuable tech company.\nCONCEPTO DEL DÍA:\n**Stagflation** is when the economy faces *both* rising prices (inflation) *and* slow economic growth at the same time — it's the worst of both worlds for policymakers because the usual tools don't work well. Think of it like a car that's overheating AND running out of gas simultaneously: you can't just press the accelerator (stimulus) or slam the brakes (rate hikes) without making one problem worse. Today, oil at $100 while Target reports weakening consumer spending is a classic early stagflation signal worth monitoring carefully.\nPARA MAÑANA:\nWatch for any Federal Reserve speaker commentary on Friday — with oil at $100, any hint of a more hawkish (higher rates) tone could quickly reverse today's gains in tech and growth stocks. Also monitor whether the official quantum computing award announcement drops, which would be a major catalyst for small quantum names heading into the weekend.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7432.97021484375,
+      "pct_change": 1.0792026370445584
+    },
+    "Nasdaq": {
+      "price": 26270.359375,
+      "pct_change": 1.5447910900689759
+    },
+    "10Y Treasury": {
+      "price": 4.572000026702881,
+      "pct_change": -2.035564472227989
+    },
+    "DXY": {
+      "price": 99.28500366210938,
+      "pct_change": 0.17657456430237806
+    },
+    "Gold": {
+      "price": 4516.60009765625,
+      "pct_change": -0.3244037619414097
+    },
+    "Bitcoin": {
+      "price": 77109.0,
+      "pct_change": -0.4502755785788527
+    }
+  }
+}
