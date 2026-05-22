@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-22",
+  "today_theme": "• GEOPOLITICAL PREMIUM: Energy and defense repricing simultaneously — rare dual catalyst.\n• KEY LEVEL: Brent $105 — holds, inflation narrative reignites decisively.\n• YIELD WATCH: 30Y at 5.11% — equity valuation ceiling if it breaks 5.25%.\n• VIX INVERSION: Spot 17 vs. 3M 20 — market is too calm for the risks ahead.\n• WEEKEND RISK: Iran-U.S. talks unresolved — gap-open crude risk Monday morning.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Nikkei Surges 2.68% on Risk-On Asian Session",
+      "analysis": "Japanese equities led global gains overnight as the Nikkei posted its strongest single-day move in weeks, suggesting renewed institutional appetite for risk assets. This momentum is spilling into European and U.S. markets, providing a constructive backdrop for cyclical and export-oriented sectors. Watch whether the S&P 500 can sustain levels above 7,400 on the weekly close."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "NATO Defense Spending Surge + 5,000 U.S. Troops to Poland",
+      "analysis": "NATO's commitment to hundreds of billions in defense spending and Trump's troop deployment signal a structural uplift for defense contractors globally. This is a multi-year procurement tailwind for companies like LMT, RTX, NOC, and European peers like Rheinmetall and BAE Systems. Watch for follow-on defense budget announcements from Germany and Poland in coming weeks."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "U.S.-Iran Remain at Odds Over Uranium Enrichment and Hormuz Tolls",
+      "analysis": "Despite Secretary Rubio's \"good signs\" rhetoric, substantive gaps over enriched uranium and strategic waterway tolls keep geopolitical risk premiums elevated in energy markets. Brent above $105 and WTI near $98 reflect this persistent risk, threatening to reignite inflation expectations. Watch Strait of Hormuz shipping data and any IAEA inspection developments as key triggers."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "30Y Treasury at 5.11% Signals Long-End Pressure Persisting",
+      "analysis": "The long end of the yield curve remains stubbornly elevated, with the 30-year at 5.11%, compressing equity valuations and pressuring rate-sensitive sectors like utilities and REITs. The inverted VIX term structure (spot 17.12 vs. 3M 20.00) suggests traders expect volatility to rise over the medium term, even as near-term calm persists. Watch next week's Treasury auction demand and Fed speaker commentary for directional cues."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "WTI Crude +1.84% / Brent +2.49% — Energy Repricing Underway",
+      "analysis": "Oil's sharp move today reflects both Middle East geopolitical premium and the \"Energy Crisis Changing Demand Patterns\" narrative. This is simultaneously bullish for energy equities and bearish for consumer discretionary, airlines, and industrials through margin compression. Watch whether OPEC+ makes any supply response statements and whether crude can sustain above the $100 Brent psychological level."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "Brent above $105 with persistent Middle East supply risk creates a strong near-term earnings tailwind for integrated majors; ExxonMobil's upstream leverage and dividend yield make it a high-conviction energy play. Graham-style margin of safety present given strong balance sheet and free cash flow generation even at $80 oil."
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "direction": "LONG",
+      "thesis": "NATO's multi-hundred-billion defense commitment is a structural demand driver for Lockheed's F-35, missile systems, and hypersonics programs over a 5-10 year horizon. Fisher's growth-at-reasonable-price framework applies as defense backlog visibility reduces earnings uncertainty."
+    },
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia",
+      "direction": "LONG",
+      "thesis": "AI infrastructure spending shows no sign of deceleration and Nvidia's data center GPU monopoly remains intact; Lynch's \"invest in what you know\" thesis is clear as hyperscaler capex guidance continues to rise. Tight stop protects against any macro-driven de-rating in high-multiple tech."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMarkets closed the week on a quietly positive note, with the Dow Jones leading gains (+0.55%) as cyclical and defense stocks outperformed, while tech lagged slightly. The dominant macro theme today was the simultaneous repricing of energy (Brent $105+) and defense (NATO spending surge), creating a rare dual catalyst that is reshaping sector leadership. Underneath the calm surface, the bond market's warning signal — 30-year yields at 5.11% and a VIX curve that predicts more turbulence ahead — deserves serious attention.\nLO MÁS IMPORTANTE:\n• NATO commits hundreds of billions to defense — this is a multi-year structural tailwind for defense companies like Lockheed, RTX, and European peers, not just a one-day headline.\n• Brent crude above $105 with Iran talks unresolved — energy prices staying elevated means inflation is not fully defeated, which keeps the Fed on hold and pressures long-duration assets.\n• 30-year Treasury yield at 5.11% — this is the \"ceiling\" for equity valuations; if it keeps rising, stocks at current levels become harder to justify mathematically.\nCONCEPTO DEL DÍA:\n**VIX Term Structure Inversion** — Today, the short-term fear gauge (VIX) is at 17.12, but the 3-month VIX is at 20.00. This means the market is calm *right now* but expects more turbulence *soon*. Think of it like a weather forecast: today is sunny, but meteorologists are warning of storms next month. Smart investors use this signal to buy cheap insurance (hedges) while everyone else is relaxed.\nPARA MAÑANA:\nWith no major U.S. economic data releases on Saturday, focus shifts to any weekend geopolitical developments — particularly Iran-U.S. negotiations and any Strait of Hormuz incidents — that could cause a gap-open in crude oil and energy stocks when markets reopen Monday. Also watch for any Bank of Japan commentary on USD/JPY approaching 160, a level that has historically triggered intervention warnings.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7445.72021484375,
+      "pct_change": 0.17153304306988967
+    },
+    "Nasdaq": {
+      "price": 26293.099609375,
+      "pct_change": 0.0865623269571279
+    },
+    "10Y Treasury": {
+      "price": 4.585999965667725,
+      "pct_change": 0.3062103867689579
+    },
+    "DXY": {
+      "price": 99.35399627685547,
+      "pct_change": 0.1653330289472405
+    },
+    "Gold": {
+      "price": 4514.89990234375,
+      "pct_change": -0.5484801844795004
+    },
+    "Bitcoin": {
+      "price": 77227.0234375,
+      "pct_change": -0.402568701666315
+    }
+  }
+}
