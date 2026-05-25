@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-25",
+  "today_theme": "• DIVERGENCE ECONOMY: Bonds signal slowdown while equities celebrate—who's right?\n• KEY LEVEL: S&P 7,500 resistance and 10Y yield 4.50% support—both critical this week.\n• DOLLAR WATCH: DXY 98.50 support break would accelerate global asset rotation immediately.\n• CRUDE BIFURCATION: Brent -3.22% vs WTI flat—physical demand destruction hiding in plain sight.\n• RISK EVENT: Iran/Hormuz developments + OCC bank concerns could trigger volatility by Wednesday.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Nikkei Surges 2.87% as Asian Risk Appetite Returns",
+      "analysis": "Japanese equities posted a strong session led by tech and export names as yen weakness (USD/JPY 158.93) boosted earnings outlooks; this broad Asian risk-on move signals global institutional rotation into equities. Market implication is positive for multinational earnings and supports the S&P 500's gradual grind higher toward 7,500. Watch whether Hang Seng (+0.86%) momentum sustains into Tuesday and if yen continues weakening past 160."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "DAX and CAC 40 Lead European Gains (+1.49%, +1.58%)",
+      "analysis": "European bourses outperformed Wall Street sharply, suggesting macro confidence in EU recovery narrative and potential ECB policy clarity. Strong European performance while DXY weakens (-0.33%) supports capital flows into non-US assets and export-driven industrials. Watch EUR/USD approaching 1.17 as a key resistance that could cap further euro gains or accelerate dollar outflows."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Brent Crude Drops 3.22% Despite WTI Flat—Divergence Signals Demand Concern",
+      "analysis": "A sharp Brent selloff while WTI holds flat reveals regional demand destruction, likely tied to Asia approaching \"tank bottom\" inventory levels per Jeff Currie's warning. This divergence implies physical demand weakness in Europe/Asia even as headline WTI appears stable. Watch whether Brent breaks below $98 to confirm a bearish supply-demand imbalance that could pressure energy sector equities."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "10Y/30Y Treasury Yields Fall Sharply (-0.61%, -0.94%) While VIX 3M Rises",
+      "analysis": "Long-end rally (30Y at 5.064% dropping nearly 1%) signals flight-to-quality or recession positioning, contradicting the equity risk-on tone—a classic divergence warning. VIX 3M rising to 20.03 while spot VIX sits at 16.64 signals the market is pricing tail risk in the near future, not today. Watch the 10Y at 4.50% as a key support; a break below would amplify recession trade and pressure financials."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold Holds $4,523 and Silver Gains 0.40% as DXY Weakens",
+      "analysis": "Precious metals maintaining elevated levels with dollar softness confirms persistent inflation hedging and de-dollarization demand from central banks. Gold above $4,500 is historically unprecedented territory, suggesting structural demand beyond cyclical hedging. Watch copper (+0.58%) as the industrial confirmer—if it sustains gains above $6.40/lb, it signals genuine economic activity rather than pure fear-driven metals buying."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "SHORT",
+      "thesis": "Brent crude's 3.22% single-day drop and Jeff Currie's \"tank bottom\" warning signal demand destruction ahead that will compress refining margins and upstream revenue; technically XOM is vulnerable to a mean-reversion breakdown if Brent breaks $98. Watch for energy sector rotation out of defensive oil majors into growth as rate fears ease."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust",
+      "direction": "LONG",
+      "thesis": "Gold at $4,523 with a weakening DXY and rising geopolitical risk from Iran/Hormuz creates the perfect Dalio \"store of value\" environment; declining real yields via falling 10Y treasury reinforce the thesis. Central bank buying and de-dollarization trends provide structural floor unlikely to break near-term."
+    },
+    {
+      "ticker": "EWJ",
+      "company": "iShares MSCI Japan ETF",
+      "direction": "LONG",
+      "thesis": "Nikkei's 2.87% surge driven by yen weakness (158.93) creates a classic Lynch growth-at-reasonable-price setup in Japanese export giants whose earnings are supercharged by currency tailwinds. Rotation into Japan from US overweights is a Markowitz diversification play with low correlation to S&P 500 at current levels."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's markets delivered a classic \"everything looks fine on the surface\" session—stocks edged higher, gold held strong, and Asian markets surged—but underneath, bond markets are quietly screaming caution with 30-year Treasury yields falling nearly 1% in a single day. The dominant theme is divergence: equities celebrating while bonds brace for slowdown, Brent crude collapsing while WTI holds, and the VIX spot looking calm while VIX 3-month rises. The Hormuz/Iran situation and the \"tank bottom\" oil storage warning from Jeff Currie are the hidden macro stories that could reshape everything within weeks.\nLO MÁS IMPORTANTE:\n• 30-Year Treasury yield fell nearly 1% in one day — bond markets are pricing economic slowdown, and they are historically more accurate than stocks at predicting recessions.\n• Brent crude dropped 3.22% on Iran/Hormuz peace hopes — if the Strait reopens AND storage is near empty, oil markets face a volatile paradox of falling prices meeting physical shortage.\n• Berkshire Hathaway is purging stocks — when the world's most respected long-term investor sells, it's worth asking whether the margin of safety in US equities has disappeared.\nCONCEPTO DEL DÍA:\n**VIX Term Structure Divergence** — Today's VIX (spot) is 16.64, meaning markets are calm *right now*, but VIX 3-Month is 20.03, meaning smart money is paying up for protection *over the next 3 months*. Think of it like the weather: today is sunny, but the 3-month forecast shows storms — and sophisticated investors are already buying umbrellas. When this gap widens, it's a signal that institutional investors see risks on the horizon that aren't yet visible in daily price action.\nPARA MAÑANA:\nWatch whether the 10-year Treasury yield holds above 4.50% and whether any official statement emerges from Iran or the US State Department on Hormuz negotiations — either of these could trigger the next 1-2% move in oil, bonds, and equities simultaneously. Also monitor Tuesday's opening for whether European momentum (DAX, CAC) continues or fades, as sustained outperformance of European over US equities would confirm a major rotation trade that could last months.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7473.47021484375,
+      "pct_change": 0.37269732409066003
+    },
+    "Nasdaq": {
+      "price": 26343.970703125,
+      "pct_change": 0.19347697496974275
+    },
+    "10Y Treasury": {
+      "price": 4.558000087738037,
+      "pct_change": -0.6105512023398085
+    },
+    "DXY": {
+      "price": 98.98799896240234,
+      "pct_change": -0.3342737952496956
+    },
+    "Gold": {
+      "price": 4523.2001953125,
+      "pct_change": 0.04866612060384871
+    },
+    "Bitcoin": {
+      "price": 77373.0,
+      "pct_change": 0.5090533556115217
+    }
+  }
+}
