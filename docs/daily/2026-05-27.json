@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-27",
+  "today_theme": "• AI DOMINANCE: Nasdaq at highs as AI infrastructure spend shows no deceleration signs.\n• KEY LEVEL: S&P 500 7,500 — bulls must defend this support on any pullback.\n• OIL SHOCK: WTI -3.82% on Iran talks; energy sector faces earnings revision risk.\n• YIELD WATCH: 30Y at 5.03% — crossing 5.10% would pressure equity valuations hard.\n• RISK EVENT: SpaceX Nasdaq listing timeline (next month) — binary catalyst for Tesla and tech sentiment.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "AI Stocks Lead Nasdaq to Fresh Highs as S&P 500 Breaks Records",
+      "analysis": "Nasdaq surged 1.19% with AI-linked names driving momentum toward new all-time highs amid strong institutional buying. This signals risk appetite remains intact despite macro uncertainty, with growth outperforming value (Nasdaq vs Dow -0.23%). Watch for follow-through volume and whether S&P 500 can hold above 7,500 psychological support."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Corporate America Q2 Earnings Beat Slowdown Expectations",
+      "analysis": "Wall Street consensus had priced in a material Q2 deceleration but companies are broadly outperforming, suggesting analyst estimates were too pessimistic. Positive earnings revisions tend to drive multiple expansion and sustained equity rallies. Watch forward guidance updates and whether consumer-facing sectors confirm the resilience."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "SpaceX-Tesla Merger Speculation Reignites Ahead of Planned SpaceX Nasdaq Listing",
+      "analysis": "Market chatter around a SpaceX-Tesla combination is intensifying as SpaceX moves toward a public listing next month. A merger or cross-ownership structure could unlock massive valuation re-rating for Tesla and energize the Nasdaq tech complex. Watch for any formal SEC filings, Musk statements, or unusual Tesla options activity."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI Crude Drops 3.82%, Brent Falls 5.75% Amid US-Iran Diplomatic Talks",
+      "analysis": "Oil prices suffered a sharp single-session drop on reports of active US-Iran nuclear/sanctions negotiations that could unlock Iranian supply. This signals potential demand-side softness or geopolitical de-escalation premium being rapidly unwound. Watch for OPEC+ emergency response language and energy sector earnings revisions."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Hang Seng Falls 1.06% as Asian Markets Diverge from Western Rally",
+      "analysis": "While Western indices climbed, Hong Kong lagged significantly, reflecting persistent concerns around China's property sector and US-China tech restrictions. The divergence underscores regional bifurcation in the global rally and raises questions about emerging market contagion. Watch PBOC policy signals and any escalation in US export control measures."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "TSLA",
+      "company": "Tesla Inc.",
+      "direction": "LONG",
+      "thesis": "SpaceX-Tesla merger speculation creates asymmetric upside optionality; any formal announcement would be a historic re-rating event. Lynch growth + Soros reflexivity: narrative momentum can push price far beyond fundamentals before mean reversion."
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "direction": "LONG",
+      "thesis": "AI infrastructure spend accelerating with S&P/Nasdaq at highs; NVDA remains the picks-and-shovels beneficiary of the secular AI buildout. Fisher quality growth framework: dominant market position with expanding moat justifies premium valuation."
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corp",
+      "direction": "SHORT",
+      "thesis": "Crude oil collapsing 3-6% in a single session on Iran deal prospects signals a structural headwind for integrated oil majors. Marks mean-reversion: energy was priced for geopolitical premium that is now rapidly deflating."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy fue un día donde la tecnología y la inteligencia artificial llevaron al Nasdaq y al S&P 500 a nuevos máximos históricos, mientras el petróleo se desplomó casi un 4% por noticias de negociaciones entre EE.UU. e Irán. El mercado está mostrando una clara división: las empresas de crecimiento (tecnología, IA) están ganando, mientras sectores tradicionales como energía y manufactura (reflejados en el Dow Jones) están bajo presión.\nLO MÁS IMPORTANTE:\n• S&P 500 supera 7,500 — este nivel psicológico confirma que los inversores institucionales siguen comprometidos con la tendencia alcista impulsada por IA.\n• Petróleo cae casi 4% por posible acuerdo con Irán — si se confirma, reduciría la inflación energética global y cambiaría las expectativas sobre tasas de interés.\n• Especulación de fusión SpaceX-Tesla — si ocurre, sería el evento corporativo más grande de la historia y podría redefinir los índices bursátiles completos.\nCONCEPTO DEL DÍA:\n**Divergencia de mercado** es cuando diferentes partes del mercado se mueven en direcciones opuestas al mismo tiempo. Hoy el Nasdaq subió +1.19% mientras el Dow Jones bajó -0.23% — imagina que en un partido de fútbol, el delantero anota tres goles pero el portero también falla tres: el marcador global esconde lo que realmente está pasando dentro del equipo. Como inversor, siempre mira debajo del número principal para entender quién está ganando y quién está perdiendo.\nPARA MAÑANA:\nMantén los ojos en cualquier actualización oficial sobre las negociaciones EE.UU.-Irán (un acuerdo formal hundiría aún más el petróleo y aliviaría la inflación) y en los datos económicos de EE.UU. que puedan confirmar o desmentir la sorpresa positiva del Q2 corporativo. Si el S&P 500 cierra dos días consecutivos por encima de 7,500, la señal alcista se refuerza significativamente.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7519.1201171875,
+      "pct_change": 0.6108260424063845
+    },
+    "Nasdaq": {
+      "price": 26656.1796875,
+      "pct_change": 1.1851250059960203
+    },
+    "10Y Treasury": {
+      "price": 4.493000030517578,
+      "pct_change": -1.4260652911201688
+    },
+    "DXY": {
+      "price": 99.12200164794922,
+      "pct_change": -0.028239916791508387
+    },
+    "Gold": {
+      "price": 4477.7001953125,
+      "pct_change": -0.504393110030695
+    },
+    "Bitcoin": {
+      "price": 75789.0390625,
+      "pct_change": -0.04839427247551798
+    }
+  }
+}
