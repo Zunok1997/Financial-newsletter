@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-28",
+  "today_theme": "• GEOPOLITICAL OIL SHOCK: Iran-U.S. strikes push crude above key $90 resistance.\n• AI CAPEX VALIDATION: Snowflake's $6B AWS deal confirms enterprise AI spend is real.\n• BOND MARKET WARNING: Yields falling despite oil spike signals growth fear over inflation.\n• KEY LEVEL: S&P 7,500 is the floor to watch; break risks momentum reversal.\n• WEEKEND RISK: Middle East escalation over 48h could gap markets sharply Monday.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Snowflake surges 36% on earnings beat and $6B AWS partnership",
+      "analysis": "Snowflake reported a significant earnings beat and announced a $6B spending commitment with Amazon Web Services, signaling accelerating enterprise cloud adoption and AI infrastructure buildout. This re-rates the entire cloud/data analytics sector and provides a halo effect for names like Databricks, MongoDB, and cloud-adjacent plays. Watch SNOW's follow-through volume and whether hyperscalers (AWS, MSFT Azure) see sympathy buying as enterprise AI spend narratives strengthen."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Oil jumps 2.5% after Iran targets U.S. airbase following American strikes",
+      "analysis": "Escalating U.S.-Iran military exchanges have reignited fears of Strait of Hormuz disruption, a chokepoint for ~20% of global oil supply, sending WTI above $90 and Brent near $95. Higher energy prices act as a tax on consumers and compress margins across transportation, manufacturing, and retail sectors while stoking inflationary re-acceleration fears. Watch whether Brent breaches $95-$97 resistance, any OPEC+ emergency response, and U.S. State Department communications for de-escalation signals."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Global equities broadly lower as geopolitical risk premium returns",
+      "analysis": "DAX -0.44%, FTSE -1.03%, CAC -0.42%, Hang Seng -1.27%, and Nikkei -0.47% all declined in unison, reflecting a coordinated risk-off shift driven by Middle East tensions and oil price shock. The breadth of the selloff across Europe and Asia suggests institutional de-risking rather than isolated sector rotation, with the dollar catching a modest safe-haven bid (DXY +0.18%). Watch whether U.S. equities hold gains or fade into the close as geopolitical headlines continue to develop overnight."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Crypto complex sells off broadly with BTC -1.46% and altcoins under heavier pressure",
+      "analysis": "Bitcoin declined to $73,262 while Ethereum, Solana, BNB, and Dogecoin all fell 1.5%-2.5%, indicating risk appetite deterioration and potential deleveraging in speculative assets. The relative underperformance of altcoins versus BTC suggests a classic risk-off rotation within crypto, where capital flees to the \"safer\" large-cap digital asset first. Watch the $72,000 BTC support level and ETH's $1,950 zone; a break below both would signal a more significant corrective wave."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "10Y and 30Y Treasury yields fall despite oil spike and VIX uptick",
+      "analysis": "The 10Y yield dropped 2.7bps to 4.481% and the 30Y fell 3bps to 5.011% even as oil surged and near-term volatility (VIX) rose, suggesting bond markets are pricing growth slowdown risk over inflation re-acceleration. This divergence between commodities and rates markets is a critical tension worth monitoring—bonds may be right that demand destruction follows an oil spike, or bonds may be mispricing a stagflationary outcome. Watch Friday's PCE data and next week's ISM Manufacturing for confirmation of which narrative dominates."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "SNOW",
+      "company": "Snowflake Inc.",
+      "direction": "LONG",
+      "thesis": "Snowflake's 36% gap-up on earnings beat and $6B AWS commitment signals a durable re-rating; the partnership deepens its competitive moat in enterprise data cloud and AI workloads. Lynch's \"invest in what you know is growing fast\" principle applies here as enterprise AI spend converts from hype to committed capex."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil Corp.",
+      "direction": "LONG",
+      "thesis": "WTI above $90 and Brent near $95 driven by Iran-U.S. escalation creates a near-term earnings tailwind for integrated oil majors with upstream leverage. Dalio's \"asset that benefits from the environment it's in\" framework supports owning hard-asset energy names during geopolitical supply shocks."
+    },
+    {
+      "ticker": "OIH",
+      "company": "VanEck Oil Services ETF",
+      "direction": "LONG",
+      "thesis": "Rising oil prices incentivize accelerated drilling and services demand; oil services companies have operational leverage to crude price that historically outperforms majors in early-stage oil spikes. Fisher's focus on companies benefiting from industry capex supercycles makes oilfield services a high-conviction sector play here."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMarkets today were pulled in two opposing directions: Snowflake's spectacular 36% earnings surge validated the AI spending boom story, while a sharp escalation between the U.S. and Iran sent oil prices above $90 per barrel and rattled global markets. U.S. stocks held up relatively well compared to Europe and Asia, but the combination of rising energy costs and active geopolitical conflict creates a fragile backdrop heading into the weekend.\nLO MÁS IMPORTANTE:\n• U.S.-Iran military escalation — oil above $90 is a direct tax on consumers and businesses, threatening the soft-landing narrative if prices stay elevated.\n• Snowflake's 36% surge — confirms that enterprise AI spending is moving from promises to real committed dollars, which is the most important growth theme of 2026.\n• Long-term Treasury yields falling while oil surges — bond markets are warning that higher energy costs could slow the economy, not just cause inflation; this conflict between markets demands attention.\nCONCEPTO DEL DÍA:\n**Geopolitical Risk Premium** is the extra price investors demand (or pay for commodities) to compensate for the uncertainty created by wars, military conflicts, or political instability. Think of it like an insurance surcharge: when you drive in a dangerous neighborhood, your car insurance costs more. Today, oil markets are charging a \"war premium\" because any escalation near the Strait of Hormuz — where 1 in 5 barrels of global oil passes — could suddenly reduce supply and send prices much higher.\nPARA MAÑANA:\nKeep a close eye on any overnight developments in the U.S.-Iran conflict, as weekend headlines can cause sharp Monday morning gap moves in oil, the dollar, and equities. Also watch for Friday's U.S. PCE inflation data, which will either confirm the bond market's growth-slowdown thesis or challenge it by showing inflation re-accelerating — that print could set the tone for the entire first week of June.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7520.35986328125,
+      "pct_change": 0.016487914469089805
+    },
+    "Nasdaq": {
+      "price": 26674.73046875,
+      "pct_change": 0.0695927978708033
+    },
+    "10Y Treasury": {
+      "price": 4.480999946594238,
+      "pct_change": -0.2670839938088644
+    },
+    "DXY": {
+      "price": 99.39199829101562,
+      "pct_change": 0.18344845098527313
+    },
+    "Gold": {
+      "price": 4412.7998046875,
+      "pct_change": -0.7802179946599214
+    },
+    "Bitcoin": {
+      "price": 73262.21875,
+      "pct_change": -1.4560342963236494
+    }
+  }
+}
