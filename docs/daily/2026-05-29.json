@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-29",
+  "today_theme": "• DIVERGENCE MACRO: Gold up, oil down — rare signal of simultaneous hedges\n• KEY LEVEL: S&P 7,600 is next resistance; failure to break = consolidation\n• YIELD WATCH: 10Y at 4.455% — break below 4.40% re-rates growth stocks materially\n• RISK EVENT: BOJ commentary and U.S. PCE data due; weekend gap risk is elevated\n• CONSUMER STRESS: Restaurant closures signal premium discretionary cracks forming",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Nikkei 225 Surges 2.53% to 66,329 — Asian Risk Appetite Spikes",
+      "analysis": "Japanese equities posted one of their strongest single-day gains of 2026, signaling renewed global risk appetite and potential capital rotation into equities. The move aligns with the 10Y Treasury yield declining 0.58%, suggesting a more favorable discount-rate environment for growth assets. Watch whether the Nikkei can sustain above 65,000 and whether U.S. futures extend gains into Monday open."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold Hits $4,570 (+1.58%) While Oil Falls Sharply — Defensive Rotation Underway",
+      "analysis": "Gold's surge to new highs alongside a 3% crude oil decline reflects simultaneous safe-haven demand and deflationary commodity pressure — a rare but significant divergence. This combination suggests markets are pricing in geopolitical uncertainty while also anticipating softer energy-driven inflation. Watch real yields and DXY stability; a break above $4,600 gold would confirm structural bull momentum."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI Crude Drops 2.07% to $87.06, Brent Falls 3.08% to $90.82",
+      "analysis": "A sharp selloff in crude across both benchmarks points to demand concerns or unexpected supply news, with Brent's larger decline suggesting global demand softness rather than purely U.S.-specific factors. This is a headwind for energy sector earnings and CapEx plans heading into Q2 reports. Watch OPEC+ response signals and U.S. inventory data next week for confirmation of trend direction."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "10Y Treasury Yield Falls to 4.455% (-0.58%) as VIX Holds Neutral at 15.84",
+      "analysis": "A meaningful intraday decline in the 10-year yield suggests bond buyers are stepping in — either on growth concerns or as a flight-to-quality move — yet equities simultaneously rallied, indicating no panic. The VIX at 15.84 remains in neutral territory, consistent with complacency rather than fear. Watch whether the 10Y breaks below 4.40%, which would be a material shift in the rate narrative and could re-rate growth stocks higher."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "47-Year-Old High-End Steakhouse Chain Closes 80 Locations — Consumer Stress Signal",
+      "analysis": "The closure of 80 locations from a legacy high-end dining brand is a tangible indicator that discretionary consumer spending is under pressure even at the premium tier. This follows a broader trend of restaurant sector distress as labor costs, food costs, and softening consumer confidence converge. Watch consumer discretionary sector earnings revisions and credit card delinquency data as leading indicators of broader spending contraction."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia Corp",
+      "direction": "LONG",
+      "thesis": "Nvidia's reported multi-billion-dollar investment in photonics technology positions it at the frontier of next-generation AI infrastructure, reducing data-transfer energy costs and extending its competitive moat. Fisher's growth investor framework supports holding companies that invest aggressively in R&D to maintain dominance; photonics could be a 3-5 year earnings multiplier."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust (proxy via miners — NEM)",
+      "direction": "LONG",
+      "thesis": "Gold at $4,570 and rising reflects both geopolitical hedging and real-yield compression; Newmont as a leveraged proxy on gold spot benefits disproportionately from price increases above $4,000. Dalio's all-weather framework explicitly advocates gold exposure during periods of currency debasement and fiscal uncertainty."
+    },
+    {
+      "ticker": "XLE",
+      "company": "Energy Select Sector SPDR",
+      "direction": "SHORT",
+      "thesis": "WTI and Brent both sold off sharply today (-2% to -3%), signaling demand deterioration or supply surprise that historically leads to multi-week sector underperformance. Soros's reflexivity principle suggests the narrative shift from \"energy supercycle\" to \"demand softness\" can become self-reinforcing through analyst downgrades and fund outflows."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy los mercados mostraron un movimiento interesante: las acciones subieron moderadamente, el oro alcanzó niveles históricos de $4,570, y el petróleo cayó bruscamente más del 2-3%. Este conjunto de señales simultáneas — activos de refugio subiendo mientras las materias primas energéticas caen — sugiere que los inversores están cubriendo riesgos de forma defensiva incluso mientras mantienen posiciones en renta variable. El trasfondo macro sigue siendo de cautela optimista, con el VIX en zona neutral y los rendimientos del Tesoro bajando, lo que apoya las valoraciones de las acciones de crecimiento.\nLO MÁS IMPORTANTE:\n• Nikkei sube 2.53% — demuestra que el apetito por el riesgo es global, no solo americano, y puede arrastrar más capital hacia acciones\n• Oro en $4,570 (+1.58%) — los inversores grandes están comprando protección, señal de que algo en el horizonte macro les preocupa\n• Petróleo cae 3% — puede aliviar la inflación para los consumidores, pero advierte sobre debilidad en la demanda económica global\nCONCEPTO DEL DÍA:\nHoy vemos en acción la **divergencia de activos**, que ocurre cuando mercados que normalmente se mueven juntos empiezan a ir en direcciones opuestas. Normalmente, cuando el petróleo baja, el oro también baja porque ambos responden a la \"confianza global\"; pero cuando el oro sube y el petróleo cae al mismo tiempo, el mercado está diciendo dos cosas a la vez: \"hay riesgo geopolítico\" (oro sube) y \"la economía puede enfriarse\" (petróleo cae). Es como cuando en casa subes la calefacción pero al mismo tiempo abres ventanas — algo no está en equilibrio.\nPARA MAÑANA:\nEl fin de semana trae riesgo de noticias del Banco de Japón sobre tasas de interés, que podría revertir el rally del Nikkei y mover el yen fuertemente; también presta atención al dato de PCE de EE.UU. (inflación preferida de la Fed) que definirá si la narrativa de recortes de tasas sigue viva o se enfría nuevamente.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7563.6298828125,
+      "pct_change": 0.57537166196686
+    },
+    "Nasdaq": {
+      "price": 26917.470703125,
+      "pct_change": 0.9100007014480436
+    },
+    "10Y Treasury": {
+      "price": 4.454999923706055,
+      "pct_change": -0.5802281454599164
+    },
+    "DXY": {
+      "price": 99.08899688720703,
+      "pct_change": 0.06968314126423124
+    },
+    "Gold": {
+      "price": 4570.39990234375,
+      "pct_change": 1.5802480550901694
+    },
+    "Bitcoin": {
+      "price": 73505.96875,
+      "pct_change": -0.04159283451608198
+    }
+  }
+}
