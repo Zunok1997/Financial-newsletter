@@ -1,0 +1,78 @@
+{
+  "date": "2026-05-31",
+  "today_theme": "• GEOPOLITICAL REPRICING: Hormuz blockade forces structural rethink of energy supply routes\n• GOLD AS NEW SAFE HAVEN: At $4,593, gold is replacing bonds as the fear hedge of choice\n• ASIA OUTPERFORMANCE: Nikkei +2.53% signals capital rotating away from expensive U.S. equities\n• KEY LEVEL: S&P 7,600 is the psychological resistance — a clean break confirms new leg higher\n• RISK EVENT: OPEC+ emergency response to Hormuz disruption expected within 48–72 hours",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Gold Surges +2.08% to $4,593 as Safe-Haven Demand Accelerates",
+      "analysis": "Gold has broken sharply higher, suggesting institutional money is rotating into hard assets amid geopolitical stress from the Iran-Hormuz blockade and elevated defense spending discourse. This move, occurring alongside a weakening dollar (DXY -0.11%), signals real concerns about inflation and supply-chain disruption filtering into portfolio allocations. Watch for a continuation above $4,600 and whether silver and miners follow with conviction."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Strait of Hormuz Blockade Threatens Structural Oil Supply Disruption",
+      "analysis": "Iran's blockade of the Hormuz strait risks permanently redirecting oil trade flows, even if WTI (-1.73%) and Brent (-2.76%) sold off today on demand-side concerns masking supply risk. The paradox of falling spot prices while structural supply risk rises is classic Soros reflexivity — the market may be underpricing a tail event. Watch for any escalation in tanker rerouting announcements, insurance premiums, or OPEC emergency communications."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Nikkei 225 Surges +2.53% as Asian Equities Signal Risk-On Rotation",
+      "analysis": "Japan's benchmark posted a strong session, likely benefiting from USD/JPY holding near 159.25, boosting export earnings and attracting foreign capital into undervalued exporters. This outperformance relative to flat European markets suggests selective global risk appetite rather than broad fear. Watch whether the Hang Seng (+0.70%) confirms a broader Asia pivot and whether yen weakness persists above 158."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "VIX Term Structure Inversion Signal — Spot 15.32 vs. 3M VIX 18.66",
+      "analysis": "The significant spread between near-term VIX (15.32) and 3-month VIX (18.66) signals that options markets are pricing in rising uncertainty over the coming quarter despite today's calm. This contango in vol suggests professional hedgers are buying longer-dated protection — a classic Marks \"hidden risk\" setup where surface calm masks deeper anxiety. Watch for any catalyst in the next 60 days (Fed decisions, geopolitical flare-ups) that could collapse this spread violently."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "IISS Shangri-La Dialogue Elevates Defense Spending Narrative in Asia",
+      "analysis": "Top global defense officials meeting in Singapore are codifying a new normal of elevated military expenditure across Asia, with Ukraine lessons reinforcing hardware and readiness priorities. This is a multi-year structural tailwind for defense contractors with Asia-Pacific exposure, not an immediate price catalyst. Watch for procurement announcements, allied spending commitments, and any diplomatic breakthroughs or breakdowns regarding China-Taiwan posture."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "direction": "LONG",
+      "thesis": "Shangri-La Dialogue defense spending surge and Ukraine-derived demand create a multi-year procurement cycle; Lockheed's F-35, missile systems, and C2 platforms are direct beneficiaries of allied rearming."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares",
+      "direction": "LONG",
+      "thesis": "Gold's +2.08% breakout above $4,593 with dollar weakness confirms Dalio's \"paradigm shift\" thesis — institutional rotation into hard assets accelerating amid geopolitical tail risks and real-rate uncertainty."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "Hormuz blockade structurally reprices long-term oil supply risk even as spot prices dip today; Exxon's integrated model and LNG exposure make it a Buffett-style durable-moat energy compounder at a reasonable P/E."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nSunday May 31 brought a deceptively calm surface to markets — U.S. equities posted modest gains and the VIX fell to 15.32 — but underneath, gold surging +2.08% to $4,593, oil falling sharply, and the Nikkei jumping +2.53% told a more complex story of geopolitical repositioning and capital rotation. The dominant macro theme is the Iran-Hormuz blockade forcing investors to reprice energy supply chains, safe-haven assets, and defense spending in real time.\nLO MÁS IMPORTANTE:\n• Iran's Hormuz blockade — it threatens to permanently raise the cost of delivering oil to Asia, which could reignite inflation globally and hurt economies that depend on cheap energy imports\n• Gold surging to $4,593 — it means big institutional investors are choosing gold over bonds as their \"fear hedge,\" which is unusual and signals deep uncertainty about the future of inflation and geopolitics\n• VIX term structure gap (15.32 spot vs. 18.66 three-month) — professional traders are quietly buying protection for the next 90 days even while today looks calm, which is a classic warning sign that a storm may be coming\nCONCEPTO DEL DÍA:\n**Bear Steepening** — today's yield curve showed the 10-year Treasury yield falling slightly while the 30-year yield rose to nearly 5%, making the curve \"steeper\" from the long end. Think of it like a seesaw where the far end is going up: it usually means bond investors expect inflation or larger government borrowing in the distant future, even if things look okay today. This matters because it raises the cost of long-term borrowing for everything from mortgages to corporate bonds.\nPARA MAÑANA:\nWatch for any OPEC+ emergency statement regarding the Hormuz blockade disruption and whether gold can hold above $4,600 — these two data points will define whether Monday opens in risk-on or risk-off mode globally.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7580.06005859375,
+      "pct_change": 0.2172260678511746
+    },
+    "Nasdaq": {
+      "price": 26972.619140625,
+      "pct_change": 0.2048797158850349
+    },
+    "10Y Treasury": {
+      "price": 4.453000068664551,
+      "pct_change": -0.044890125157179654
+    },
+    "DXY": {
+      "price": 98.91000366210938,
+      "pct_change": -0.11108158421123639
+    },
+    "Gold": {
+      "price": 4593.0,
+      "pct_change": 2.082550605204846
+    },
+    "Bitcoin": {
+      "price": 73803.2109375,
+      "pct_change": 0.0655889195401276
+    }
+  }
+}
