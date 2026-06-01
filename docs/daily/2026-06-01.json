@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-01",
+  "today_theme": "• AI MONETIZATION INFLECTION: Jensen Huang declares AI a profit engine, not a cost center\n• KEY LEVEL: S&P 500 7,580 — first June close above determines if breakout is real\n• OIL SHOCK WATCH: WTI $90.65 is the psychological threshold where inflation fears reignite\n• FED CREDIBILITY RISK: Powell's warning is a slow-burn tail risk for USD and long bonds\n• CURVE STEEPENING: 30Y at 4.993% approaching 5% — a psychological resistance level for risk assets",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Nvidia CEO Jensen Huang unveils Arm-based PC chip at Computex Taipei, entering laptop market",
+      "analysis": "Nvidia breaks into the PC processor market with an Arm-based chip debuting on Microsoft, Dell, and HP laptops, expanding its total addressable market far beyond GPUs. This diversification into client computing could add a significant new revenue stream and deepen enterprise AI integration at the device level. Watch NDA partner uptake, Microsoft Copilot+ PC adoption metrics, and AMD/Qualcomm competitive response."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Nvidia frames AI as 'a profit generator' in Computex keynote, sustaining AI infrastructure cycle",
+      "analysis": "Jensen Huang's explicit framing of AI as a profit engine — not just a cost center — reinforces enterprise capex commitment and data center spending durability. This narrative shift from cost to ROI accelerates CFO-level buy-in across industries, extending the AI buildout runway well into 2027. Watch hyperscaler guidance revisions, enterprise software adoption rates, and any new product roadmap disclosures."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "S&P 500 and Nasdaq closed May at record highs, futures extend gains into June",
+      "analysis": "Momentum carries from May's record close with broad-based futures gains, suggesting institutional repositioning and window-dressing effects have given way to genuine buyer conviction. The Dow's outperformance (+0.72%) hints at rotation into cyclicals and value names alongside tech leadership. Watch breadth indicators, whether small-caps confirm, and any divergence in the VIX 3M vs. spot spread."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Fed Chair Powell warns Trump pressure will damage public trust in the Federal Reserve",
+      "analysis": "Powell's unusually blunt language about political interference signals institutional stress at the most important monetary authority in the world. Markets that price in Fed independence as a given may need to reprice risk premiums on U.S. assets if credibility erosion accelerates. Watch USD reaction, long-end Treasury yields for inflation risk premium expansion, and any White House response."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "SpaceX IPO imminent via index inclusion rule relaxation, forcing passive fund rebalancing",
+      "analysis": "Index rule changes allowing SpaceX inclusion in as few as 5 trading days create forced buying pressure that could distort valuations and crowd out existing holdings. Passive 401(k) investors will gain involuntary SpaceX exposure at potentially stretched entry prices without traditional IPO price discovery. Watch which indices are affected, estimated AUM flows, and whether active managers use the distortion as a selling opportunity."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "Nvidia Corp",
+      "direction": "LONG",
+      "thesis": "Arm PC chip entry plus AI profit narrative creates a dual-catalyst setup expanding TAM and sustaining multiple; Fisher growth framework supports holding through product cycle inflection. Computex keynote de-risks near-term sentiment while the PC market entry is not yet fully priced into consensus estimates."
+    },
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corp",
+      "direction": "LONG",
+      "thesis": "Copilot+ PC integration with Nvidia Arm chip creates a tightly coupled hardware-software AI ecosystem deepening MSFT's enterprise moat; Buffett moat framework applies to switching-cost dynamics. Azure AI monetization remains the single most visible near-term earnings driver with enterprise adoption accelerating."
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil",
+      "direction": "LONG",
+      "thesis": "WTI crude surging 3.77% to $90.65 with Brent at $94 signals supply tightness that benefits integrated majors with refining margins; Dalio's macro framework favors real asset exposure during inflationary commodity spikes. XOM's low-cost production base and buyback program provide downside cushion even if oil retreats modestly."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMonday, June 1st opens with markets in a constructive mood after a historic May — all three major U.S. indices closed last month at record highs and are adding to gains today. The dominant theme is AI monetization, with Nvidia's Jensen Huang declaring artificial intelligence a \"profit generator\" at Computex Taipei and unveiling a new PC chip that opens an entirely new market. Beneath the optimism, two slow-burn risks deserve attention: oil breaking above $90 (which could reignite inflation fears) and Fed Chair Powell's stark warning that political pressure on the Federal Reserve is damaging the institution's credibility.\nLO MÁS IMPORTANTE:\n• Nvidia PC chip launch — this is not just a product announcement; it's Nvidia entering a brand-new market, which could add billions in future revenue and justify its premium valuation\n• WTI crude surging to $90.65 — oil above $90 is the level where consumers and businesses start feeling real pain, and it could force the Fed to keep rates higher for longer\n• Powell's Fed independence warning — when the head of the most powerful central bank in the world says political pressure is \"wrecking trust,\" that is a serious signal for the long-term credibility of U.S. monetary policy\nCONCEPTO DEL DÍA:\n**VIX Term Structure (Spot vs. 3-Month)** — Today, the VIX spot is at 15.77 but the 3-month VIX is at 18.66, meaning markets are *more* calm today than they expect to be in 3 months. Think of it like calm weather on a sunny Monday while the weekend forecast shows storms — everything feels fine now, but the options market is quietly buying insurance for what comes next. When this \"inversion\" exists, experienced investors use the window of current calm to put on hedges before the storm arrives.\nPARA MAÑANA:\nKeep a close eye on whether WTI crude holds above $90 — a sustained move higher would force a reassessment of Fed rate cut timing and could hit both stocks and bonds simultaneously. Also watch for any White House response to Powell's Fed independence comments, as an escalation of that conflict would be the most significant macro risk event of the week.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7580.06005859375,
+      "pct_change": 0.2172260678511746
+    },
+    "Nasdaq": {
+      "price": 26972.619140625,
+      "pct_change": 0.2048797158850349
+    },
+    "10Y Treasury": {
+      "price": 4.453000068664551,
+      "pct_change": -0.044890125157179654
+    },
+    "DXY": {
+      "price": 99.0469970703125,
+      "pct_change": 0.13850308677685821
+    },
+    "Gold": {
+      "price": 4539.7001953125,
+      "pct_change": -0.45608605827211934
+    },
+    "Bitcoin": {
+      "price": 72630.0078125,
+      "pct_change": -1.2906818712705186
+    }
+  }
+}
