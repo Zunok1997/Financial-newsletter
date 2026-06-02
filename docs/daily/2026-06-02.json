@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-02",
+  "today_theme": "• AI CAPITAL WARS: Alphabet's $80B raise redefines tech financing scale for 2026\n• KEY LEVEL: S&P 500 7,600 — round-number resistance, watch for breakout or rejection\n• GOLD SIGNAL: $4,500 now support; breach higher suggests fiscal/geopolitical stress pricing\n• CURVE WATCH: 30Y Treasury approaching 5.0% — psychological ceiling with systemic implications\n• RISK EVENT: Iran negotiations collapse — energy markets may gap on overnight headlines",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Alphabet Plans $80B Stock Sale Including $10B Berkshire Hathaway Investment",
+      "analysis": "Alphabet's massive capital raise signals aggressive AI infrastructure commitment, with Buffett's Berkshire providing a powerful institutional endorsement that validates the long-term AI growth thesis. Markets will likely interpret this as a confidence vote in big-tech AI monetization, potentially lifting the entire Nasdaq tech complex. Watch GOOGL share price reaction to dilution concerns versus strategic validation, and whether other mega-caps follow with similar AI financing rounds."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Hang Seng Surges +2.52% as Asian Risk Appetite Returns",
+      "analysis": "Hong Kong markets posted the session's strongest gain, suggesting renewed institutional interest in undervalued Chinese/HK equities after prolonged compression. This divergence from flat Nikkei and strong European performance hints at selective EM rotation rather than broad global risk-on. Watch whether this extends to mainland A-shares and whether USD/CNY stability supports the move."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold at $4,560 (+1.91%) and Silver +2.16% Amid Precious Metals Rally",
+      "analysis": "Simultaneous gold and silver surges alongside copper's +1.47% gain suggest both safe-haven demand AND industrial reflation narratives are active simultaneously — a rare confluence. The DXY weakness at 99.12 is amplifying dollar-denominated commodity prices while geopolitical tension from Iran headlines adds a risk premium. Watch whether gold holds above $4,500 psychological support and whether silver's industrial demand component confirms a broader metals supercycle thesis."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Trump: 'I Don't Care' if Iran Negotiations Are Over",
+      "analysis": "Presidential indifference toward Iran deal collapse materially raises Middle East conflict risk, threatening supply routes through the Strait of Hormuz affecting ~20% of global oil flow. Paradoxically, WTI fell -1.11% today suggesting markets aren't yet pricing a full risk premium — creating asymmetric upside risk if tensions escalate. Watch Iranian response language, any movement of naval assets, and Brent crude futures positioning in overnight sessions."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "VIX 3M at 19.43 (+4.13%) Diverges Sharply from Spot VIX 16.13",
+      "analysis": "The 3.3-point spread between spot VIX and 3-month VIX represents elevated term structure steepening, signaling that options markets are pricing meaningful uncertainty 90 days out despite current surface calm. This typically precedes volatility regime shifts and suggests institutional hedgers are actively buying forward protection. Watch whether the VIX term structure continues steepening, which would indicate growing smart-money concern about summer/fall macro risks."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "direction": "LONG",
+      "thesis": "Berkshire's $10B anchor investment provides a fundamental floor while the $80B AI buildout positions Alphabet as the dominant infrastructure layer for the next technology cycle; Buffett's endorsement removes a significant institutional hesitation overhang. Fisher's growth framework supports owning best-in-class compounders funding transformational capex with a clear competitive moat in search, cloud, and AI."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust (via GLD proxy — GDX miners)",
+      "direction": "LONG",
+      "thesis": "Gold at $4,560 with DXY below 100 and Iran geopolitical risk rising creates a classic Dalio all-weather inflation/conflict hedge scenario; precious metals are outperforming risk assets today suggesting genuine defensive rotation. The 10Y-30Y Treasury spread and rising 30Y yield at 4.99% signals fiscal stress that historically drives gold outperformance."
+    },
+    {
+      "ticker": "HSI-LINKED (FXI)",
+      "company": "iShares China Large-Cap ETF",
+      "direction": "LONG",
+      "thesis": "Hang Seng's +2.52% surge on heavy volume suggests a technical breakout from multi-month base formation, with Graham-style deep value metrics showing HK equities trading at 40-50% discount to Western equivalents on P/B basis. Catalysts include potential PBOC easing, property sector stabilization, and global investors rotating from overvalued US tech."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nTuesday June 2, 2026 was a quietly complex session: on the surface markets were calm with the S&P 500 barely moving at +0.26%, but beneath that calm there were powerful crosscurrents — gold surging to new highs above $4,560, Berkshire Hathaway making a landmark $10B bet on Alphabet's AI future, and warning signals in the options market suggesting investors are quietly buying insurance for the months ahead. The dominant theme was \"AI requires enormous capital,\" and today the market began grappling with who funds that buildout and who benefits most.\nLO MÁS IMPORTANTE:\n• Berkshire invests $10B in Alphabet's $80B AI raise — Warren Buffett's endorsement of a technology company at this scale is historically rare and signals AI infrastructure is now a \"once in a generation\" capital cycle that even value investors can no longer ignore.\n• Gold hits $4,560 (+1.91%) while DXY stays below 100 — precious metals are flashing a warning about dollar purchasing power and fiscal stress that the stock market is not yet fully pricing, making gold a critical signal to monitor.\n• VIX 3-month jumps +4.13% while spot VIX stays calm — this \"split signal\" is like seeing dark clouds building on the horizon while the weather is still sunny today; smart money is quietly buying protection for what comes next.\nCONCEPTO DEL DÍA:\nToday's concept is **VIX Term Structure** — the difference between how much fear is priced for *right now* versus *three months from now*. Think of it like car insurance: if your daily driving feels safe but you're worried about a road trip next month, you'd pay more for future coverage. Today, spot VIX at 16 says \"markets feel calm now,\" but the 3-month VIX at 19.43 says \"professional investors are paying up to protect against something bigger coming.\" When this gap widens sharply — as it did today with a +4.13% jump in 3M VIX — it's one of the most reliable signals that institutional investors see risks the headlines haven't caught up to yet.\nPARA MAÑANA:\nWatch whether Brent crude responds to Trump's Iran comments in overnight Asian trading — any spike above $96 would rapidly reprice energy stocks and inflation expectations and could break the S&P 500's calm. Also monitor GOOGL's opening price reaction to the $80B dilution announcement; if it holds above $175 on volume, the Berkshire endorsement effect is winning, which would be bullish for the broader Nasdaq.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7599.9599609375,
+      "pct_change": 0.262529613089132
+    },
+    "Nasdaq": {
+      "price": 27086.810546875,
+      "pct_change": 0.42336046660744864
+    },
+    "10Y Treasury": {
+      "price": 4.474999904632568,
+      "pct_change": 0.494045264513443
+    },
+    "DXY": {
+      "price": 99.12000274658203,
+      "pct_change": -0.08063931867043644
+    },
+    "Gold": {
+      "price": 4560.89990234375,
+      "pct_change": 1.9149915822987145
+    },
+    "Bitcoin": {
+      "price": 69528.203125,
+      "pct_change": -2.512024682846217
+    }
+  }
+}
