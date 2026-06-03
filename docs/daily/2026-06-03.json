@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-03",
+  "today_theme": "• ENERGY DOMINANCE: Oil at $96 reshapes inflation and sector rotation today\n• KEY LEVEL: Brent $100 — psychological trigger for CPI fears and Fed repricing\n• TARIFF ESCALATION: 60-economy duty proposal threatens supply chains globally\n• EARNINGS RISK: Palo Alto gap-down warns high-multiple tech remains fragile\n• WATCH TONIGHT: Any Iran deal formalization or breakdown moves oil $3-5 fast",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Oil Surges +2.7% as WTI Breaks $96 — Energy Sector Repricing Underway",
+      "analysis": "WTI crude jumped 2.71% to $96.30 and Brent hit $98.44, signaling supply tightness or demand acceleration likely tied to geopolitical risk or OPEC+ dynamics. Energy stocks (XOM, CVX, SLB) stand to benefit immediately as margins expand with elevated crude. Watch whether Brent breaches $100 — a psychological level that historically triggers sector rotation into energy and inflation hedges."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Trump Proposes Fresh 10% Tariffs on 60 Economies Over Forced Labor Practices",
+      "analysis": "The USTR's proposed 10% duty on dozens of trade partners adds another layer of supply chain uncertainty and cost pressure on importers, retailers, and manufacturers. Markets that depend on low-cost manufacturing (apparel, electronics, industrials) face margin compression and potential retaliatory measures. Watch for formal implementation timelines and which specific economies are named — emerging market ETFs and consumer discretionary names are most exposed."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "New Trump Tariffs Coming + Palo Alto Falls on Earnings — Tech Sentiment Fragile",
+      "analysis": "Palo Alto Networks declining post-earnings signals the bar for cybersecurity valuations remains dangerously high even with solid fundamentals. Combined with renewed tariff rhetoric, Nasdaq's near-flat performance (+0.03%) reflects underlying risk aversion in growth names. Watch PANW's response at key support levels and whether other high-multiple tech names gap down in sympathy."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Victoria's Secret Lifts FY26 Outlook After Q1 Beat — Consumer Resilience Signal",
+      "analysis": "VSCO raising full-year guidance suggests the mid-tier consumer is holding up better than feared despite persistent inflation and tariff noise. This is a green shoot for discretionary retail and contradicts the broader bearish retail narrative. Watch same-store sales trends and whether peers like Bath & Body Works or Gap echo the strength in upcoming prints."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Trump Says Iran Agreed to No Nuclear Weapons but 'Can Change Mind' — Geopolitical Ambiguity Persists",
+      "analysis": "The statement introduces diplomatic uncertainty: a partial de-escalation with Iran could ease Middle East risk premium in oil, but the qualifier \"they can change their mind\" keeps the geopolitical floor under crude elevated. Bond and oil markets are currently pricing conflicting signals — yields falling while oil rises. Watch for formal treaty language or IAEA confirmation, as any breakdown re-accelerates the oil bid and defense spending narrative."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "WTI at $96 and climbing provides direct earnings tailwind for integrated majors with upstream leverage; Buffett-style durable moat with strong free cash flow and shareholder returns. Watch $100 Brent as the catalyst for the next leg higher."
+    },
+    {
+      "ticker": "PANW",
+      "company": "Palo Alto Networks",
+      "direction": "SHORT",
+      "thesis": "Post-earnings weakness confirms valuation reset risk in high-multiple cybersecurity; Marks's margin-of-safety framework suggests the risk/reward is unfavorable at current multiples relative to decelerating billings growth. Momentum traders exiting amplify the downside."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust (proxy via GLD)",
+      "direction": "HEDGE",
+      "thesis": "Gold at $4,486 remains the premier macro hedge as real rates fluctuate and geopolitical risks (Iran, tariffs) stay elevated; Dalio's All-Weather principle demands hard asset exposure when fiscal deficits and trade wars coincide. A stop below $4,300 spot limits drawdown."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMarkets today are sending mixed signals — U.S. stocks are near all-time highs but barely moving, like a car engine running at high RPM without going anywhere fast. The real action is in oil, which surged nearly 3% toward $96, and in the background noise of new tariff threats on 60 countries that could raise costs for businesses and consumers alike. The overall mood is cautiously nervous: things look okay on the surface, but there are several pots bubbling on the stove.\nLO MÁS IMPORTANTE:\n• Oil surging to $96 (WTI) — energy is the strongest trade of the day and could reignite inflation fears if Brent crosses $100, forcing the Fed to stay hawkish longer\n• New 10% tariffs proposed on 60 economies — this directly threatens supply chains and corporate profit margins across retail, tech, and industrials, making forward earnings guidance unreliable\n• Palo Alto Networks falling after earnings — it's a warning that even good companies can fall hard if their stock price already assumed perfection, and right now many tech stocks are priced that way\nCONCEPTO DEL DÍA:\n**Geopolitical Risk Premium** — this is the extra price the market charges for uncertainty caused by wars, sanctions, or political instability. Think of it like an insurance surcharge: when you live in a flood zone, your home insurance costs more. Today, oil costs more partly because of Iran uncertainty, not just because of supply and demand. When the risk premium deflates (a deal is signed, tensions ease), prices can drop fast even if nothing physical changed — that's what makes it tricky to trade.\nPARA MAÑANA:\nWatch whether Brent crude breaks above $100 — if it does, expect inflation fears to dominate headlines and push bond yields back up, which would pressure growth stocks. Also keep an eye on any official response from the 60 economies targeted by the new U.S. tariff proposal, as retaliation announcements could create sharp moves in currency and equity markets within 24-48 hours.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7609.77978515625,
+      "pct_change": 0.1292088941155246
+    },
+    "Nasdaq": {
+      "price": 27093.900390625,
+      "pct_change": 0.026174524083338244
+    },
+    "10Y Treasury": {
+      "price": 4.454999923706055,
+      "pct_change": -0.4469269576030488
+    },
+    "DXY": {
+      "price": 99.33599853515625,
+      "pct_change": 0.11690920482363502
+    },
+    "Gold": {
+      "price": 4486.7001953125,
+      "pct_change": -0.05346065562233696
+    },
+    "Bitcoin": {
+      "price": 67232.4296875,
+      "pct_change": 0.7927203203347644
+    }
+  }
+}
