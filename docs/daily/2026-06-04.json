@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-04",
+  "today_theme": "• GEOPOLITICAL PREMIUM: Hormuz crisis is repricing oil, gold, and defense simultaneously\n• KEY LEVEL: S&P 7,500 — loss of this level opens door to 7,350 next support\n• GOLD SIGNAL: Gold +1.37% while bonds sell — classic Dalio paradigm shift in motion\n• CRYPTO FRAGILITY: Altcoins down 4-5% signals risk appetite deterioration beyond equities\n• RISK EVENT: Friday jobs data (NFP) could swing yields and force Fed repricing — position carefully tonight",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Anthropic Scales Most Powerful AI Day After Filing IPO",
+      "analysis": "Anthropic's simultaneous IPO filing and capability scaling signals aggressive AI monetization is accelerating in 2026. This validates the AI infrastructure investment thesis and may lift AI-adjacent equities including cloud providers and chip suppliers. Watch AMZN, GOOGL, and NVDA for sympathy moves and any updated IPO pricing details."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "SpaceX Targets $135 IPO Price at $1.77 Trillion Valuation",
+      "analysis": "SpaceX's imminent IPO at $1.77T would rank it seventh largest U.S. company, reshaping the aerospace and satellite sector's investable universe. The listing validates private-market valuations for deep-tech firms and could trigger capital rotation from tech mega-caps into new space economy plays. Watch for retail broker access announcements and impact on competitors like Boeing and Lockheed Martin."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Hormuz Crisis Deepens as India Bets on Oman Energy Routes",
+      "analysis": "Escalating Strait of Hormuz tensions threaten roughly 20% of global oil supply, explaining WTI crude holding near $95 despite broad risk-off sentiment. Supply disruption fears are inflationary, complicating the Fed's rate path and pressuring bonds while supporting energy names and gold. Watch tanker freight rates, Iran-related headlines, and any U.S. military posture changes in the Persian Gulf."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Amazon Faces Internal Revolt Over AI Spending vs. 30,000 Layoffs",
+      "analysis": "Amazon engineers publicly condemning $200B AI capex alongside mass layoffs creates reputational and morale risk, potentially slowing execution of its cloud and AI roadmap. The optics damage could attract regulatory scrutiny and labor organizing, adding operational uncertainty to an already compressed multiple. Watch AMZN earnings guidance revisions, union activity filings, and AWS growth rate commentary."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Furniture Chain Chapter 11 Bankruptcy Signals Consumer Stress",
+      "analysis": "A 69-year-old furniture retailer filing Chapter 11 reflects deteriorating discretionary consumer spending under prolonged high interest rates and elevated goods prices. This is a canary-in-the-coal-mine for big-ticket durable goods demand and leveraged brick-and-mortar retail broadly. Watch consumer confidence data, delinquency rates, and peers like RH, Haverty's, and EThan Allen for contagion signals."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "direction": "LONG",
+      "thesis": "Anthropic IPO and Amazon's $200B AI capex commitment confirm unabated GPU demand; NVDA remains the primary infrastructure beneficiary of every major AI scaling event. Pullback from recent highs offers a technically cleaner entry with VIX still in neutral zone."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares",
+      "direction": "LONG",
+      "thesis": "Gold surging 1.37% to $4,497 amid Hormuz tensions, a weak dollar, and rising 10Y yields signals a safe-haven bid that transcends normal rate logic — a Dalio all-weather signal. The combination of geopolitical risk and fiscal excess makes gold the highest-conviction macro hedge right now."
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "direction": "LONG",
+      "thesis": "Hormuz crisis keeping WTI near $95 while XOM trades at a discount to intrinsic value on normalized $80 oil; any supply disruption spike re-rates energy majors sharply higher. Graham-style margin of safety exists given balance sheet strength and dividend coverage at current prices."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy los mercados tuvieron una sesión de aversión al riesgo generalizada, con el S&P 500 cayendo -0.74%, el Nasdaq -0.89%, y el Dow Jones -1.21%. El tema central del día fue la combinación de tensiones geopolíticas en el Estrecho de Ormuz, un Bitcoin y el mercado cripto en caída libre, y el inicio del ciclo de IPOs masivos con Anthropic y SpaceX dominando los titulares. Lo más llamativo fue que el oro subió +1.37% mientras los bonos también caían — una señal de que el mercado está perdiendo confianza en los activos tradicionales de refugio.\nLO MÁS IMPORTANTE:\n• Crisis del Estrecho de Ormuz — amenaza el 20% del suministro global de petróleo, lo que mantiene el WTI cerca de $95 y presiona la inflación al alza, complicando la política de la Fed\n• SpaceX IPO a $1.77 billones — la mayor salida a bolsa de la historia reciente redirigirá capital institucional masivo y repreciará todo el sector aeroespacial y de tecnología profunda\n• Oro en $4,497 (+1.37%) con bonos cayendo simultáneamente — señal clásica de un cambio de paradigma donde los inversores buscan activos reales sobre activos financieros\nCONCEPTO DEL DÍA:\nEl **\"paradigma shift\" de Ray Dalio** describe momentos en los que los activos que normalmente funcionan como refugio seguro — como los bonos del Tesoro — dejan de cumplir esa función, y el oro se convierte en el verdadero refugio. Imagina que siempre usabas un paraguas para la lluvia, pero un día el paraguas deja de protegerte — empiezas a buscar un techo de verdad. Cuando el oro sube y los bonos caen al mismo tiempo, como hoy, Dalio diría que los inversores están buscando ese \"techo de verdad\" porque desconfían de la moneda y la deuda en sí misma.\nPARA MAÑANA:\nEl reporte de empleo no agrícola (NFP) de Estados Unidos será el evento más importante de las próximas 24 horas — un número fuerte de empleo podría empujar los rendimientos del bono a 10 años por encima de 4.55%, golpeando aún más las acciones de crecimiento y los activos cripto, mientras que un dato débil podría generar esperanzas de recortes de la Fed y disparar un rebote. Mantén un ojo en el nivel clave de 7,500 en el S&P 500 — si lo rompe a la baja, el siguiente soporte significativo está en 7,350.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7553.68017578125,
+      "pct_change": -0.7372041104846258
+    },
+    "Nasdaq": {
+      "price": 26853.98046875,
+      "pct_change": -0.8855126741294761
+    },
+    "10Y Treasury": {
+      "price": 4.491000175476074,
+      "pct_change": 0.808086473323021
+    },
+    "DXY": {
+      "price": 99.31400299072266,
+      "pct_change": -0.2170157653203426
+    },
+    "Gold": {
+      "price": 4497.7001953125,
+      "pct_change": 1.3748956953288896
+    },
+    "Bitcoin": {
+      "price": 62372.8984375,
+      "pct_change": -2.564219287198589
+    }
+  }
+}
