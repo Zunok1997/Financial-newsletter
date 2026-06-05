@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-05",
+  "today_theme": "• PAYROLLS DAY: May jobs report is the single most market-moving event today\n• KEY LEVEL: 10Y Treasury 4.50% — break below accelerates bond rally and equity rotation\n• AI IPO WAVE: Anthropic filing sets valuation benchmark for entire private AI sector\n• CRYPTO STRESS: Broad altcoin selloff tests BTC $60K — risk appetite barometer\n• ROTATION SIGNAL: Dow outperforming Nasdaq confirms value-over-growth shift in progress",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Anthropic IPO Filing Signals AI Sector Confidence",
+      "analysis": "Anthropic has scaled its most powerful AI model coinciding with its IPO filing, signaling strong institutional appetite for frontier AI exposure. This follows OpenAI's regulatory compliance announcement, creating a dual-catalyst moment for AI infrastructure and software names. Watch for NVDA, AMZN (AWS/Anthropic investor), and GOOG reaction as IPO valuation benchmarks emerge."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "May Jobs Report Due Today — Consensus Expects Slowdown",
+      "analysis": "After a stronger-than-expected start to 2026, today's May payrolls report is flagged as a potential \"reality check\" for job creation momentum. A miss could accelerate Fed rate-cut pricing, compressing bank margins and boosting bonds; a beat keeps higher-for-longer fears alive. Watch the 10Y yield reaction at the 4.50% level and DXY response within 30 minutes of the 8:30am release."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Crypto Broad Selloff — ETH Down -5.45%, DOGE -4.45%",
+      "analysis": "A synchronized crypto drawdown across Bitcoin (-2.21%), Ethereum (-5.45%), Solana (-3.67%), and XRP (-2.86%) suggests risk-off rotation away from speculative assets. This may reflect profit-taking ahead of the jobs report or institutional de-risking given VIX creeping higher (+1.49%). Watch whether BTC holds the $60,000 psychological support level into the weekend."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "OpenAI Accepts Trump AI Review Order — Regulatory Framework Forming",
+      "analysis": "OpenAI's compliance with executive-ordered AI model reviews signals a maturing regulatory environment that could add cost and timeline friction for smaller AI labs. For incumbents like Microsoft and Google, compliance infrastructure is already partially built, making this mildly favorable for large-cap moats. Watch for Congressional follow-through and whether this accelerates or delays Anthropic's IPO timeline."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Nikkei -1.31%, Hang Seng -1.15% — Asia Risk-Off Ahead of US Data",
+      "analysis": "Asian markets sold off overnight with Japan and Hong Kong leading declines, reflecting pre-payroll caution and a persistently elevated USD/JPY near 160 pressuring Japanese exporters and raising BOJ intervention risk. The Hang Seng drop compounds ongoing concerns about Chinese consumption and property sector fragility. Watch USD/JPY 160.50 as the BOJ intervention trigger and any PBoC policy response signals."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corp",
+      "direction": "LONG",
+      "thesis": "Anthropic IPO and OpenAI compliance news cement AI infrastructure supercycle narrative with NVDA as primary picks-and-shovels beneficiary; Soros reflexivity suggests IPO hype will drive further GPU demand expectations before fundamentals catch up."
+    },
+    {
+      "ticker": "AMZN",
+      "company": "Amazon.com Inc",
+      "direction": "LONG",
+      "thesis": "Amazon is Anthropic's largest investor and primary cloud deployment partner, making it a leveraged proxy on Anthropic's IPO valuation re-rating; Lynch growth-at-reasonable-price framework supports given AWS margin expansion trajectory."
+    },
+    {
+      "ticker": "JPM",
+      "company": "JPMorgan Chase",
+      "direction": "LONG",
+      "thesis": "Dow Jones surging +1.73% with financials leading; a softer jobs report would pull forward rate cuts, steepening the yield curve and boosting net interest income expectations for top-tier banks. Graham intrinsic value supports at current P/B."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday is a tale of two markets — the old economy (Dow +1.73%) is surging while tech (Nasdaq -0.09%) pauses, all eyes on the May jobs report dropping this morning. Meanwhile, gold is near $4,500, crypto is selling off broadly, and Anthropic just filed to IPO, making it one of the busiest macro-plus-sector news days of the year.\nLO MÁS IMPORTANTE:\n• May Jobs Report — this single number will tell us if the Fed cuts rates sooner or later, moving stocks, bonds, and the dollar all at once\n• Anthropic IPO Filing — the most important private AI company going public sets the \"price tag\" the market puts on all AI businesses, impacting NVDA, AMZN, and MSFT today\n• Crypto Broad Selloff — when Bitcoin, Ethereum, Solana, and XRP all fall together on the same day, it means big investors are reducing risk, which can be an early warning signal for broader markets\nCONCEPTO DEL DÍA:\n**Yield Curve** — think of it like a timeline of trust. When you lend money to the government for 3 months, you earn 3.62%; for 10 years, you earn 4.48%. Normally longer = higher because you're taking more risk waiting. Today, bonds are rallying (yields falling) because investors think the jobs report will be weak and the Fed will cut rates — so they're locking in today's higher yields before that happens. It's like buying a fixed-rate mortgage before rates drop.\nPARA MAÑANA:\nThe most important thing to watch is how the market *closes today after* the jobs report — not just the initial reaction. Over the weekend, watch whether Bitcoin holds above $60,000; a break below on low weekend liquidity could mean a sharper crypto drop Monday morning.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7584.31005859375,
+      "pct_change": 0.4054961568363207
+    },
+    "Nasdaq": {
+      "price": 26830.9609375,
+      "pct_change": -0.08572111414465296
+    },
+    "10Y Treasury": {
+      "price": 4.4770002365112305,
+      "pct_change": -0.31173320903644075
+    },
+    "DXY": {
+      "price": 99.2020034790039,
+      "pct_change": -0.20923465993669313
+    },
+    "Gold": {
+      "price": 4494.60009765625,
+      "pct_change": 0.42004320544141577
+    },
+    "Bitcoin": {
+      "price": 62389.30078125,
+      "pct_change": -2.213540112126201
+    }
+  }
+}
