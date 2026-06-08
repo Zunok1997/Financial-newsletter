@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-08",
+  "today_theme": "• GEOPOLITICAL SPIKE: Iran-Israel strikes reprice oil, bonds, and risk globally\n• CRITICAL LEVEL: 30Y Treasury at 4.999% — 5% break changes equity math entirely\n• VOLATILITY TRAP: Spot VIX down but VIX 3M rising — near-term calm masks forward risk\n• STAGFLATION ECHO: Oil +4% + equity selloff + rising yields = 1970s playbook returning\n• RISK EVENT: Watch Middle East diplomatic headlines and any Fed speaker responses to oil spike tonight/tomorrow",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Iran-Israel Military Strikes Threaten Middle East Ceasefire Collapse",
+      "analysis": "Direct military exchanges between Iran and Israel have escalated beyond proxy skirmishes, putting the fragile U.S.-brokered ceasefire at acute risk. Energy markets are reacting sharply with WTI above $94 and Brent above $96, adding stagflationary pressure on an already stressed equity market. Watch the Strait of Hormuz transit volume, U.S. diplomatic posture, and whether crude breaks the $100 psychological level."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Nasdaq -4.18% and Nikkei -3.85% Signal Broad Risk-Off Rotation",
+      "analysis": "Tech-heavy indices are leading declines globally, suggesting institutional de-risking rather than sector-specific selling. The divergence between VIX spot (-9.07%) and VIX 3M (+13.47%) warns of near-term complacency masking deeper structural concern about volatility ahead. Watch whether S&P 500 holds the 7,300 support zone and whether Nasdaq confirms a lower high on the daily chart."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Nu Holdings $1B Share Buyback Signals Confidence in Latam Fintech Growth",
+      "analysis": "A $1B repurchase program over 12 months from NU reflects strong balance sheet confidence and management's view that shares are undervalued. This is a significant capital return signal for a high-growth fintech operating in underpenetrated Latin American markets. Watch execution pace, Brazil macro conditions, and whether institutional accumulation follows the announcement."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Weight Loss Drug Maker Crashes 25% on Safety Data — GLP-1 Competitive Risk Rises",
+      "analysis": "New safety side-effect data spooked investors, raising concerns about commercial viability despite the experimental drug meeting primary endpoints. This reinforces that the GLP-1 space remains high-risk for new entrants, while incumbents like Eli Lilly and Novo Nordisk may benefit from validated safety profiles. Watch FDA advisory timelines, competitor pipeline updates, and broader biotech sentiment contagion."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Citigroup Redeems $3.15B in 2027 Notes — Balance Sheet Optimization Underway",
+      "analysis": "Full redemption of near-term debt signals Citigroup's active liability management and reduced refinancing risk in a higher-for-longer rate environment. The move marginally improves net interest margin optics but is largely priced in given Citi's ongoing transformation plan. Watch whether other large banks follow suit and whether credit spreads for financials tighten in response."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "XLE",
+      "company": "Energy Select Sector SPDR",
+      "direction": "LONG",
+      "thesis": "WTI above $94 and Middle East escalation create a direct earnings tailwind for integrated energy names; geopolitical risk premium is underpriced in equities vs. crude futures. Fisher growth-in-context and Dalio macro correlation both favor energy in stagflationary regimes."
+    },
+    {
+      "ticker": "QQQ",
+      "company": "Invesco QQQ Trust",
+      "direction": "SHORT",
+      "thesis": "Nasdaq -4.18% with VIX 3M divergence signals a potential trend break; tech valuations remain stretched against 10Y at 4.54% and tightening real rates. Marks mean-reversion thesis supports fading the bounce if QQQ fails to reclaim 448 on daily close."
+    },
+    {
+      "ticker": "BMRN",
+      "company": "BioMarin Pharmaceutical",
+      "direction": "LONG",
+      "thesis": "Flagged as deeply undervalued with rare disease moat and pipeline optionality; Graham net asset analysis suggests meaningful margin of safety at current levels. Catalyst-rich 12-24 month horizon with potential FDA milestones providing asymmetric upside."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy fue un día dominado por dos fuerzas poderosas: el conflicto militar entre Irán e Israel que disparó el precio del petróleo por encima de $94, y una fuerte venta de acciones tecnológicas que llevó al Nasdaq a caer más del 4%. El mercado está enviando una señal clara de cautela, con los inversores reduciendo riesgo ante la posibilidad de que el conflicto geopolítico empuje la inflación más alto justo cuando la Reserva Federal pensaba que la tenía bajo control.\nLO MÁS IMPORTANTE:\n• Iran-Israel military strikes — el riesgo de que el petróleo suba a $100 amenaza con reavivar la inflación global y presionar a los bancos centrales a mantener tasas altas por más tiempo.\n• 30Y Treasury rozando el 5% — este nivel psicológico es un umbral crítico; si lo rompe al alza, las acciones de crecimiento y tecnología enfrentarían una corrección adicional significativa.\n• VIX 3M subiendo mientras el VIX spot baja — esta divergencia es una señal de alerta: el mercado parece tranquilo hoy, pero los opciones a 3 meses dicen que los inversores esperan más turbulencia adelante.\nCONCEPTO DEL DÍA:\n**Curva del VIX (Contango vs. Backwardation):** Normalmente, el VIX a 3 meses es mayor que el VIX spot cuando los mercados anticipan incertidumbre futura — esto se llama \"contango\" y es la situación normal. Hoy, el VIX spot bajó -9% pero el VIX 3M subió +13%, lo que significa que el mercado está relativamente calmado hoy pero muy nervioso sobre lo que viene en los próximos meses. Es como cuando el cielo está despejado esta mañana, pero el pronóstico del tiempo dice que viene una tormenta la próxima semana — la calma de hoy no debe confundirse con seguridad real.\nPARA MAÑANA:\nMantén los ojos en cualquier novedad diplomática entre EE.UU., Irán e Israel — un escalamiento adicional podría llevar el petróleo a $100 y provocar otro golpe a los mercados globales. También vigila de cerca si el bono del Tesoro a 30 años rompe el 5%, porque ese sería el detonante para una nueva ola de ventas en tecnología y activos de larga duración.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7383.740234375,
+      "pct_change": -2.6445361894386843
+    },
+    "Nasdaq": {
+      "price": 25709.4296875,
+      "pct_change": -4.179989127532529
+    },
+    "10Y Treasury": {
+      "price": 4.535999774932861,
+      "pct_change": 1.3178363927808754
+    },
+    "DXY": {
+      "price": 100.01699829101562,
+      "pct_change": -0.05296432893997007
+    },
+    "Gold": {
+      "price": 4323.7001953125,
+      "pct_change": -0.30895995116624697
+    },
+    "Bitcoin": {
+      "price": 63055.8984375,
+      "pct_change": -0.2903581417301298
+    }
+  }
+}
