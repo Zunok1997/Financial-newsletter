@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-10",
+  "today_theme": "• INFLATION RECKONING: May CPI at 4.2% could kill remaining rate-cut hopes entirely.\n• GEOPOLITICAL WILDCARD: Iran strike — oil above $90 is new market floor today.\n• YIELD DANGER ZONE: 30Y at 5.02% is the number that breaks equity valuations.\n• TECH FRAGILITY: Growth multiples cannot survive 5% long-end yields much longer.\n• KEY LEVEL: S&P 500 200-day MA — a close below it changes the entire narrative.",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "CPI Inflation Print Expected at 4.2% Annual Rate — Decision Day for Markets",
+      "analysis": "The May CPI report due Wednesday morning is forecast to show inflation re-accelerating to 4.2% YoY, well above the Fed's 2% target and a potential regime-shift signal. A hot print would crush rate-cut hopes, reprice the long end of the Treasury curve higher, and punish growth/tech equities that have been trading on easy-money assumptions. Watch the core services ex-housing component — if it surprises above 0.4% MoM, expect a violent selloff across risk assets."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "U.S. Launches Military Strikes Against Iran — Oil and Geopolitical Risk Spike",
+      "analysis": "Following an Apache helicopter attack, the U.S. conducted retaliatory strikes on Iran, injecting severe geopolitical risk into global markets already under pressure. Oil prices are choppy but biased higher; Brent above $91 and WTI at $88 reflect a risk premium that could escalate sharply if the Strait of Hormuz becomes contested. Watch for Iranian retaliation signals, tanker traffic data, and any OPEC+ emergency statement in the next 48 hours."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Tech Sector Continues to Falter — Dow, S&P, Nasdaq Futures Sink",
+      "analysis": "Dow Jones, S&P 500, and Nasdaq futures are all declining as tech weakness persists following whipsaw sessions, with NaN index prints suggesting extreme data uncertainty and illiquidity. The combination of rising yields (10Y at 4.55%, 30Y at 5.02%) and a VIX spike to 20.90 (+10.47%) signals that the market is repricing risk materially. Watch whether the Nasdaq holds its 200-day moving average — a failure there opens the door to a 5–8% correction."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "TSMC May Sales Rise 30% YoY — AI Semiconductor Demand Remains Structurally Intact",
+      "analysis": "Taiwan Semiconductor reported a 30% surge in May revenue, confirming that AI infrastructure buildout is not slowing despite macro headwinds. This is a critical data point for the semiconductor supply chain — NVDA, ASML, AMD, and AMAT all benefit directly from TSMC's sustained demand. Watch whether markets can separate the AI structural story from the macro fear narrative; if they can, chip stocks could lead any relief rally post-CPI."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "European Equities Sell Off Broadly — DAX -1.43%, FTSE -1.83%",
+      "analysis": "European indices are under meaningful pressure, with the FTSE 100 dropping nearly 2% and the DAX falling 1.43%, reflecting a global risk-off posture amplified by the Iran military strikes and pre-CPI anxiety. The EUR/USD at 1.1555 and a weakening dollar (DXY 99.90) suggest European assets are being sold on real fundamental concerns, not just FX effects. Watch European bank stocks and energy-sensitive indices — if Brent crosses $95, European inflation expectations will re-anchor higher."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Manufacturing",
+      "direction": "LONG",
+      "thesis": "TSMC's 30% May revenue growth confirms AI-driven demand is secular, not cyclical, making this a Fisher-quality compounder being offered at a fear discount. Entry near current levels with a defined stop below the April low creates asymmetric upside as the market re-rates AI infrastructure post-CPI clarity."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust (via Gold proxy)",
+      "direction": "SHORT",
+      "thesis": "Gold at $4,198 has spiked dramatically and a hot CPI print will strengthen the real-rate argument for a higher-for-longer Fed, removing a key pillar of gold's recent rally. Soros reflexivity: the crowd bought gold on Iran fears, but if oil stabilizes and dollar rebounds on hawkish CPI, the unwind could be sharp."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "U.S. strikes on Iran create a geopolitical oil premium that directly benefits integrated majors like ExxonMobil; WTI at $88 and Brent at $91 with upside risk to $95+ makes the earnings multiple look cheap. Dalio's all-weather logic: energy is a real-asset inflation hedge in a world where CPI is re-accelerating."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday is one of the most important macro days of 2026 so far — the U.S. CPI inflation report will land while markets are already nervous about rising Treasury yields, a military strike on Iran, and a tech selloff. Think of it as a pressure cooker: high inflation, high geopolitical risk, and high interest rates are all pushing on the lid at the same time.\nLO MÁS IMPORTANTE:\n• CPI Inflation Report (4.2% expected) — if confirmed, it tells the Fed to keep rates high longer, which is bad for stocks and bonds alike.\n• U.S. Military Strikes on Iran — this is the kind of event that can send oil prices surging overnight, adding to inflation and hurting consumers.\n• 30-Year Treasury at 5.02% — when long-term borrowing costs reach 5%, it makes stocks relatively less attractive and can trigger forced selling by institutions.\nCONCEPTO DEL DÍA:\nToday's key concept is the **Real Interest Rate** — the interest rate after subtracting inflation. Think of it like this: if your savings account pays 4.5% but inflation is 4.2%, you're only really earning 0.3% in purchasing power. When real rates are very low or negative, people buy stocks and gold to protect their money; when real rates rise (as they are now), money flows back to safe bonds, which hurts stocks and riskier assets.\nPARA MAÑANA:\nAfter today's CPI print, the market will spend 24–48 hours digesting whether a Fed rate hike is back on the table — watch any Fed speaker comments Thursday for their reaction, and keep a close eye on oil prices overnight for any Iran escalation updates that could change everything by Friday's open.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": NaN,
+      "pct_change": NaN
+    },
+    "Nasdaq": {
+      "price": NaN,
+      "pct_change": NaN
+    },
+    "10Y Treasury": {
+      "price": 4.552000045776367,
+      "pct_change": 0.35273967454600863
+    },
+    "DXY": {
+      "price": 99.9010009765625,
+      "pct_change": -0.14892760684697914
+    },
+    "Gold": {
+      "price": 4198.39990234375,
+      "pct_change": -1.4460116820715962
+    },
+    "Bitcoin": {
+      "price": 61289.78125,
+      "pct_change": -0.5742671731384096
+    }
+  }
+}
