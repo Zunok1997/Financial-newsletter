@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-11",
+  "today_theme": "• GEOPOLITICAL ESCALATION: U.S.-Iran military conflict is the dominant macro driver today\n• KEY LEVEL: WTI crude $92 — a break higher signals full-scale supply shock pricing\n• YIELD WATCH: 30Y Treasury at 5.03% is the equity valuation kill switch to monitor\n• DIVERGENCE SIGNAL: VIX spot falling while 3M VIX surges — forward fear is being hidden\n• RISK EVENT: Watch for any Strait of Hormuz closure reports in next 24–48 hours",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "U.S. Strikes Resume on Iran — Kuwait Closes Airspace, Lebanon Launches Warned",
+      "analysis": "The U.S. conducted fresh military strikes on Iran and Trump promised further attacks, dramatically escalating Middle East geopolitical risk. Markets face an oil supply shock threat and safe-haven rotation as regional conflict broadens toward Lebanon. Watch WTI crude for a breakout above $92, gold above $4,150, and any disruption to Strait of Hormuz shipping lanes."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Oracle Beats Earnings but Stock Falls on $20B Capital Raise and Negative Free Cash Flow",
+      "analysis": "Despite topping quarterly expectations, Oracle's stock dropped as investors were rattled by deeply negative free cash flow and plans to raise $20 billion more for data center expansion. This signals that AI infrastructure spending is intensifying the cash burn cycle across mega-cap tech, pressuring sector sentiment. Watch whether ORCL stabilizes at key support and whether peers like MSFT and AMZN face sympathy selling on capital allocation fears."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Goldman Sachs Signals Next Fed Rate Cut Timeline",
+      "analysis": "Goldman Sachs issued guidance on when the Fed will next cut rates, providing markets a potential catalyst for risk-on sentiment if the timeline is sooner than expected. Rate-sensitive sectors like utilities, REITs, and growth tech could re-rate positively on a credible Fed pivot signal. Watch the 10Y yield at 4.54% — a decisive move below 4.40% would confirm the bullish read."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "IonQ Opens Quantum Computing R&D Lab in Boulder, Colorado",
+      "analysis": "IonQ's expansion into Boulder signals accelerating commercialization of quantum technology and intensifying competition in the space. Hedge fund interest in quantum names like HON, RGTI, and IONQ is rising, suggesting institutional capital is beginning to allocate to the theme. Watch for volume surges in quantum-linked tickers and any follow-on government contract announcements."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "VIX Term Structure Inverts Bearishly — Spot VIX Drops but 3M VIX Surges +7.41%",
+      "analysis": "Today's unusual divergence — spot VIX falling 6.5% while 3-month VIX surges 7.4% — is a classic signal of near-term complacency masking deeper forward fear. This term structure steepening suggests professional hedgers are buying protection for events 60–90 days out, consistent with geopolitical escalation and Fed uncertainty. Watch for the spot VIX to reverse higher toward 24–25 as forward risk materializes."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "IONQ",
+      "company": "IonQ Inc.",
+      "direction": "LONG",
+      "thesis": "IonQ's new Boulder R&D lab signals accelerating commercialization just as hedge fund interest in quantum computing is cresting — a classic Lynch \"buy what you understand before the crowd\" moment. Catalyst-rich name with multiple government and commercial contract triggers ahead; small cap provides asymmetric upside."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares ETF",
+      "direction": "LONG",
+      "thesis": "Geopolitical escalation with U.S.-Iran military strikes and Middle East broadening is the textbook Dalio \"safe haven in uncertainty\" macro trade, while gold at $4,110 is holding firm despite a modestly stronger dollar. The 30Y yield at 5.03% and rising real rates are a headwind, but war risk premium overrides in the near term."
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corp.",
+      "direction": "LONG",
+      "thesis": "Iran strike escalation and Kuwait airspace closure create a credible supply disruption narrative for Brent above $92, and XOM is a direct beneficiary with strong free cash flow — a Graham margin-of-safety play at a reasonable P/E for a hard-asset compounder. Any Strait of Hormuz disruption headline would accelerate this trade materially."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday was a broad market selloff driven by two major forces colliding at once: the U.S. resuming military strikes on Iran (which spooked investors about oil prices and global stability) and Oracle dropping after earnings despite beating expectations (because its cash situation alarmed Wall Street). Think of it as a day when both the world news and the corporate news pointed in the same bearish direction, leaving investors with few safe places to hide except gold and defense stocks.\nLO MÁS IMPORTANTE:\n• U.S. strikes on Iran resumed and Kuwait closed its airspace — this matters because any escalation near the Strait of Hormuz could disrupt roughly 20% of the world's oil supply, sending energy prices sharply higher and increasing inflation pressure globally.\n• VIX spot fell today but the 3-month VIX surged over 7% — this matters because it means professional traders are quietly buying protection against something bad happening in the next 60-90 days, even as today's surface calm might trick casual observers into thinking fear is subsiding.\n• Oracle fell despite beating earnings expectations — this matters because it signals that investors are losing patience with AI companies that spend enormous amounts of cash without yet generating it back, a theme that could pressure many high-flying tech stocks in coming months.\nCONCEPTO DEL DÍA:\n**VIX Term Structure** — The VIX measures how much fear exists in the market *right now*, but the 3-month VIX measures how much fear investors expect *in the future*. Think of it like a weather forecast: today might be sunny (spot VIX falling), but the 90-day forecast shows a major storm coming (3M VIX rising sharply). When the future fear is higher than today's fear, sophisticated investors are quietly buying insurance, which is exactly what we saw today — a hidden warning sign dressed up as a calm day.\nPARA MAÑANA:\nWatch for any developments regarding the Strait of Hormuz or new Iran-related headlines over the weekend — oil markets will react instantly to any escalation Monday morning. Also pay close attention to whether the 10-year Treasury yield pushes above 4.60%, as that level has historically triggered a fresh round of selling in high-growth technology stocks.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7266.990234375,
+      "pct_change": -1.619945029894845
+    },
+    "Nasdaq": {
+      "price": 25169.5,
+      "pct_change": -1.983425664815575
+    },
+    "10Y Treasury": {
+      "price": 4.541999816894531,
+      "pct_change": 0.30918593953772067
+    },
+    "DXY": {
+      "price": 100.12300109863281,
+      "pct_change": 0.17309070102344573
+    },
+    "Gold": {
+      "price": 4110.7001953125,
+      "pct_change": 0.060853899059070356
+    },
+    "Bitcoin": {
+      "price": 63040.01171875,
+      "pct_change": 2.5886754436362605
+    }
+  }
+}
