@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-12",
+  "today_theme": "• GEOPOLITICAL DE-ESCALATION: Iran deal triggers simultaneous equity rally and oil crash\n• KEY LEVEL: S&P 7,400 — psychological resistance; rejection here signals bull trap\n• GOLD DIVERGENCE: Gold+equities rising together signals stagflation hedge demand persisting\n• CURRENCY WATCH: USD/JPY 160.12 — BOJ intervention threshold; sudden yen move breaks carry trades globally\n• WEEKEND RISK: Iran deal formal signing timeline unknown — gap risk on Monday open if deal collapses",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Iran-U.S. Deal Reopens Hormuz Strait, Oil Sanctions Relief Imminent",
+      "analysis": "Trump confirmed the Strait of Hormuz would reopen upon deal signing, signaling a major geopolitical de-escalation in the Middle East. Markets are pricing in reduced supply-disruption risk, which explains today's sharp 3.2% crude oil drop despite rising equities. Watch for formal deal confirmation, Senate ratification signals, and Iran's compliance timeline — any breakdown would spike crude and VIX sharply."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI Crude -3.28% Despite Risk-On Rally Signals Demand Skepticism",
+      "analysis": "Oil falling sharply while equities surge is an unusual divergence that often signals either demand growth concerns or supply-side shock absorption. The Iran deal prospect floods the market with anticipated supply just as global PMI data remains mixed, creating a deflationary commodity impulse. Watch refiner margins, energy sector earnings guidance, and whether OPEC+ counters with output cuts."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold +3.55% and Silver +5.23% Surge Simultaneously With Equities — Stagflation Hedge in Play",
+      "analysis": "Precious metals rallying hard alongside equities suggests investors are simultaneously buying growth AND hedging inflation/currency debasement risk. The DXY weakness (-0.13%) and elevated 30Y yield (4.95%) support the thesis that real rates may be peaking, boosting gold's appeal. Watch the gold/10Y real yield inverse correlation and whether $4,300 becomes the next resistance for gold."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "SpaceX IPO Signals Emerging — Shotwell Addresses Investors",
+      "analysis": "Gwynne Shotwell's exclusive CNBC appearance marks a meaningful shift in SpaceX's public market posture after years of IPO resistance. A SpaceX listing would be the largest tech IPO in history, potentially reshaping index composition and drawing enormous capital flows into space/defense tech. Watch for any formal S-1 filing, valuation leaks (last private round ~$350B), and competitor reactions from Boeing/Northrop."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "J&J $1B Cancer Bet Reinforces Big Pharma's Oncology Arms Race",
+      "analysis": "Johnson & Johnson committing $1 billion to hard-to-treat cancers signals conviction in precision oncology pipelines even in a high-rate environment. This follows a pattern of mega-cap pharma deploying cash into high-margin therapeutic areas to offset biosimilar pressure on legacy drugs. Watch FDA pipeline decisions, partnership/acquisition targets in the oncology space, and competitor responses from Pfizer, Merck, and AbbVie."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "JNJ",
+      "company": "Johnson & Johnson",
+      "direction": "LONG",
+      "thesis": "$1B oncology investment confirms long-term pipeline conviction with a company trading below its 5-year average P/E; dividend growth and defensive characteristics suit a mixed risk environment."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust (via proxy: NEM)",
+      "direction": "LONG",
+      "thesis": "Gold's 3.55% surge with DXY weakness and real yield pressure creates a technically confirmed breakout — Newmont as gold equity amplifier offers leveraged upside to spot prices."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "SHORT",
+      "thesis": "Iran deal + anticipated supply surge creates a structural headwind for integrated oil majors; Exxon's valuation assumes $80+ sustained WTI which is now at risk."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday was a strong broad-based rally driven by one dominant theme: the proposed Iran-U.S. deal to reopen the Strait of Hormuz. Stocks surged globally, oil crashed, gold hit new highs, and bond yields fell — a rare combination that tells us markets are simultaneously celebrating geopolitical peace AND hedging against the uncertainty of whether this deal will actually hold.\nLO MÁS IMPORTANTE:\n• Iran-U.S. Hormuz deal — it's the single biggest catalyst today, directly causing oil's 3% crash and powering the global equity rally by reducing war risk premiums\n• Gold at $4,235 (+3.55%) rising alongside stocks — this is unusual and signals smart money is hedging against the deal falling apart or inflation staying sticky even if peace holds\n• USD/JPY at 160.12 — the Japanese yen is dangerously weak and if Japan's central bank intervenes suddenly to strengthen it, global markets could experience a sharp shock because trillions of dollars of \"carry trades\" depend on yen staying weak\nCONCEPTO DEL DÍA:\nToday's concept is **Geopolitical Risk Premium** — the extra price investors demand (or pay) because of uncertainty caused by wars, sanctions, or political instability. Think of it like paying extra for car insurance when you live in a high-accident neighborhood. When the Iran deal was announced, the geopolitical risk premium in oil prices collapsed, which is why crude fell 3% even though everything else was going up — the \"insurance cost\" was suddenly removed from oil prices.\nPARA MAÑANA:\nWatch for any official confirmation or denial of the Iran deal signing over the weekend — if Trump or Iranian officials walk back the agreement, Monday's open could see oil spike and equities gap lower sharply. Also monitor any BOJ statements on the yen, as USD/JPY at 160 is historically the level where Japanese authorities have previously intervened.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7394.2998046875,
+      "pct_change": 1.7518885564244784
+    },
+    "Nasdaq": {
+      "price": 25809.66015625,
+      "pct_change": 2.543396397425455
+    },
+    "10Y Treasury": {
+      "price": 4.4629998207092285,
+      "pct_change": -1.739321870763897
+    },
+    "DXY": {
+      "price": 99.72699737548828,
+      "pct_change": -0.1331896996298376
+    },
+    "Gold": {
+      "price": 4235.5,
+      "pct_change": 3.5498606321918835
+    },
+    "Bitcoin": {
+      "price": 63609.01171875,
+      "pct_change": 0.07545033902565386
+    }
+  }
+}
