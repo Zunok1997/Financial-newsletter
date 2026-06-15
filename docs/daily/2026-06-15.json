@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-15",
+  "today_theme": "• PEACE DIVIDEND: Iran deal reshapes energy, defense, and risk-asset pricing simultaneously\n• KEY LEVEL: WTI $78 support — break signals structural oil bear market entry\n• GOLD SIGNAL: Metals surging with equities = dollar debasement, not just safe haven\n• SPACE AGE: SpaceX $2T valuation creates new sector benchmark for commercial space\n• RISK EVENT: Iran deal signing Friday — any collapse triggers sharp reversal in oil/equities",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "U.S.-Iran Peace Deal Set for Friday Signing",
+      "analysis": "Washington and Tehran have reached a landmark agreement to end the Mideast conflict, with a formal signing ceremony expected Friday. This removes a major geopolitical risk premium from energy markets and global equities, explaining today's sharp oil selloff and equity rally. Watch for implementation details, Congressional reaction, and whether regional proxies honor the ceasefire."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "SpaceX Surpasses $2 Trillion Valuation After Record Debut",
+      "analysis": "SpaceX shares surged 6% in premarket trading following a historic first-day debut, pushing its market cap above $2 trillion and eclipsing Tesla's valuation. This signals massive institutional appetite for private-to-public space economy plays and could catalyze a broader aerospace/defense re-rating. Watch Rocket Lab, Intuitive Machines, and satellite-adjacent names for sympathy momentum."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI Crude Plunges 5.22% on Peace Deal and OPEC Supply Signals",
+      "analysis": "Oil executives simultaneously warned of lower prices ahead as geopolitical risk fades and OPEC+ members signal increased output tolerance. The dual pressure of peace-driven demand normalization and supply expansion creates structural downside for energy sector earnings. Watch XLE, refiner margins, and the $78 WTI support level for confirmation of trend break."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold Surges 3.46% to $4,361 Despite Risk-On Environment",
+      "analysis": "Gold's simultaneous rally alongside equities is unusual and signals currency debasement concerns rather than pure safe-haven demand, with DXY slipping to 99.50. Silver's 4.40% surge and copper's 1.03% gain confirm a broad metals complex bid, likely driven by USD weakness and inflation re-pricing. Watch the $4,400 gold resistance level and whether the DXY breaks below 99 decisively."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Nikkei 225 Surges 4.99% — Asia Leads Global Risk-On",
+      "analysis": "Japan's benchmark posted its strongest single-day gain in months, driven by peace deal euphoria, yen stability near 160, and tech export optimism. The move suggests global capital rotation into underweighted international equities, consistent with Dalio's diversification thesis. Watch USD/JPY at 160 for BOJ intervention risk and whether the Nikkei can hold above 69,000 on follow-through."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "SPCE",
+      "company": "Virgin Galactic (Space sector proxy)",
+      "direction": "LONG",
+      "thesis": "SpaceX's $2T valuation creates a rising-tide effect for commercial space plays; retail and institutional FOMO will chase smaller space names. Lynch's \"relativity of valuation\" suggests SPCE gets repriced as a category, not on fundamentals alone."
+    },
+    {
+      "ticker": "XLE",
+      "company": "Energy Select Sector SPDR",
+      "direction": "SHORT",
+      "thesis": "U.S.-Iran peace deal plus OPEC supply signals create a structural bear case for integrated oil; WTI breaking $80 confirms distribution. Soros's reflexivity framework: falling oil prices will trigger earnings revisions which further pressure energy equities in a self-reinforcing loop."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust",
+      "direction": "LONG",
+      "thesis": "Gold's 3.46% surge amid a weakening dollar and fiscal spending fears aligns with Dalio's \"paradigm shift\" thesis of store-of-value rotation. With real rates capped and geopolitical normalization not eliminating deficit risks, gold's structural bull market remains intact."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market was dominated by one giant headline: the U.S. and Iran have agreed to end the Mideast war, with a formal signing planned for Friday. This single event sent oil prices crashing over 5%, pushed gold to new highs, lifted global stock markets, and created a massive shift in how investors are thinking about risk — all at the same time. Add SpaceX going public at a $2 trillion valuation, and you have one of the most eventful market days of 2026.\nLO MÁS IMPORTANTE:\n• U.S.-Iran Peace Deal — this is the biggest geopolitical event in years; it reshapes oil prices, defense spending, and global risk appetite in one stroke\n• SpaceX surpasses $2 trillion — the space economy just became a legitimate asset class, and every related stock will be re-priced in the coming weeks\n• Gold surging while stocks also rise — this rare \"everything up except oil\" signal means markets are worried about dollar weakness and government debt, not just celebrating peace\nCONCEPTO DEL DÍA:\nToday's concept is the **Geopolitical Risk Premium** — the extra price investors pay for assets (like oil or defense stocks) because of the possibility of war or conflict. Think of it like paying extra for travel insurance before a hurricane season: when the storm risk disappears, the insurance price drops immediately. Today, the Iran deal \"canceled the hurricane warning,\" and oil fell over 5% as that risk premium evaporated almost instantly.\nPARA MAÑANA:\nWatch for any cracks in the Iran peace deal — Israeli government statements, Iranian hardliner reactions, or U.S. Senate opposition could cause a sharp reversal in oil and equities before Friday's signing. Also monitor the 10-year Treasury yield around 4.50% and any Fed speaker comments, as the bond market is quietly sending a warning signal that inflation and deficits haven't gone away just because a peace deal was signed.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7431.4599609375,
+      "pct_change": 0.5025513873057041
+    },
+    "Nasdaq": {
+      "price": 25888.83984375,
+      "pct_change": 0.3067831463903489
+    },
+    "10Y Treasury": {
+      "price": 4.486999988555908,
+      "pct_change": 0.5377586558555082
+    },
+    "DXY": {
+      "price": 99.49700164794922,
+      "pct_change": -0.2536324331336153
+    },
+    "Gold": {
+      "price": 4360.89990234375,
+      "pct_change": 3.4614448954626336
+    },
+    "Bitcoin": {
+      "price": 65846.40625,
+      "pct_change": 0.20698065410357072
+    }
+  }
+}
