@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-16",
+  "today_theme": "• WARSH DEBUT: New Fed chair's first meeting is the market's entire focus today\n• GOLD SUPREMACY: Gold at $4,369 breaks all historical norms — watch real yields\n• OIL SHOCK: Iran MOU triggers 4%+ crude drop — energy sector repricing underway\n• AI CONSOLIDATION: SpaceX's $60B Anysphere buy validates private AI at scale valuations\n• KEY LEVEL: USD/JPY 160.50 — BOJ intervention threshold; breach could reverse Nikkei surge",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Kevin Warsh's Fed debut signals potential policy pivot amid easing inflation",
+      "analysis": "Kevin Warsh takes the chair at his first FOMC meeting, replacing Powell in a highly anticipated leadership transition. Markets are pricing in a more hawkish-to-neutral stance, but any dovish surprise could spark a rally in rate-sensitive equities. Watch the Fed statement language closely for shifts in forward guidance and the dot plot revision."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Nikkei surges 5.13% as JPY weakness and global risk-on sentiment boost Japanese equities",
+      "analysis": "The Nikkei 225 jumped over 5% as USD/JPY climbed to 160.30, making Japanese exporters extremely competitive globally. This move reflects broad risk appetite, with European markets also rallying, suggesting a coordinated global equity bid. Watch whether the Bank of Japan intervenes verbally or physically to defend the yen, which could quickly reverse the equity tailwind."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "SpaceX acquires Anysphere (Cursor AI) for $60 billion, signaling mega-cap AI consolidation",
+      "analysis": "SpaceX's $60B acquisition of the Cursor AI coding platform marks one of the largest private-market AI deals in history. This validates astronomical valuations in the AI-tooling space and could lift sentiment across AI software names. Watch for regulatory scrutiny given Musk's cross-company concentration and spillover enthusiasm in AI-adjacent equities and ETFs."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI crude drops 4.26% amid Iran MOU and G7 geopolitical developments",
+      "analysis": "Oil fell sharply as Trump's G7 meeting produced signals of de-escalation with Iran through a Memorandum of Understanding, raising supply expectations. A potential return of Iranian barrels to the market could structurally pressure crude prices over the medium term. Watch the Iran deal details, OPEC+ response, and whether energy equities price in a sustained margin compression."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Ultra-wealthy Americans fleeing the US in record numbers signals deep structural confidence concerns",
+      "analysis": "A $40B industry helping high-net-worth individuals renounce or reduce US ties reflects growing concern over taxation, political instability, and rule of law. This capital flight dynamic is a slow-burn negative for domestic consumption, real estate in top-tier cities, and long-term tax revenue. Watch for policy responses from Treasury and any acceleration in wealth tax proposals heading into the 2026 midterm cycle."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corp",
+      "direction": "LONG",
+      "thesis": "SpaceX's $60B AI acquisition validates continued hyperscaler AI infrastructure spending, directly benefiting NVDA's data center GPU dominance; Cathie Wood's $529M mystery buy likely touches AI hardware. Fisher growth framework supports holding high-conviction compounders in secular AI capex cycle."
+    },
+    {
+      "ticker": "ARKK",
+      "company": "ARK Innovation ETF (proxy for Wood buy)",
+      "direction": "LONG",
+      "thesis": "Cathie Wood's $529M single-stock purchase signals concentrated conviction in a disruptive name likely within ARKK universe, creating momentum catalyst; VIX at 16 neutral zone provides manageable entry risk. Soros reflexivity suggests Wood's public move itself becomes a self-fulfilling price driver in the near term."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust",
+      "direction": "LONG",
+      "thesis": "Gold at $4,369 continues its historic run with DXY softening to 99.55 and 10Y yields rising — suggesting safe-haven demand is overriding rate pressure, a powerful signal. Dalio's all-weather framework mandates gold exposure when real rates and dollar credibility are questioned simultaneously."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market is laser-focused on one event above all else: Kevin Warsh stepping into the Fed chair role for the very first time. While global equities are broadly strong — especially Japan's explosive 5% rally — U.S. futures are cautiously drifting as traders wait to hear what the new sheriff at the Federal Reserve has to say. Meanwhile, oil is cratering on Iran deal news and gold keeps hitting historic highs, painting a picture of a world that's both excited about AI and quietly nervous about what comes next.\nLO MÁS IMPORTANTE:\n• Kevin Warsh's first Fed meeting — his tone on interest rates will set the direction for stocks, bonds, and the dollar for the rest of 2026, making this the single biggest market event of the week.\n• SpaceX buys Cursor AI for $60 billion — this validates sky-high AI valuations and could spark a wave of AI acquisitions, lifting sentiment across every tech name connected to artificial intelligence.\n• WTI crude oil drops 4%+ on Iran deal — cheaper oil sounds good for consumers, but a sudden 4% drop in one day signals serious supply surprises ahead and will hurt energy stocks and oil-producing economies.\nCONCEPTO DEL DÍA:\nToday's concept is **\"Yield Curve Steepening.\"** Think of the yield curve like a staircase: the short steps are short-term interest rates (like 3-month T-bills at 3.62%) and the long steps are long-term rates (like the 30-year Treasury at 4.975%). When the long steps grow faster than the short ones — as they are today — investors are demanding more compensation to lend money for a long time, usually because they're worried about future inflation or government debt. It's like agreeing to lend a friend money for 30 years instead of 3 months — you'd want a lot more interest for that risk.\nPARA MAÑANA:\nThe Fed decision and Warsh's press conference (today at 2PM ET) will dominate the next 48 hours — expect significant volatility in bonds, the dollar, and rate-sensitive stocks like utilities, REITs, and tech growth names based on his exact word choices. Also keep a close eye on whether Japan's Nikkei sustains today's 5% surge or whether the Bank of Japan steps in to defend the yen near the critical 160.50 level.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": NaN,
+      "pct_change": NaN
+    },
+    "Nasdaq": {
+      "price": NaN,
+      "pct_change": NaN
+    },
+    "10Y Treasury": {
+      "price": 4.486999988555908,
+      "pct_change": 0.5377586558555082
+    },
+    "DXY": {
+      "price": 99.55400085449219,
+      "pct_change": -0.1964903714364035
+    },
+    "Gold": {
+      "price": 4369.2001953125,
+      "pct_change": 0.951945363042976
+    },
+    "Bitcoin": {
+      "price": 66491.0078125,
+      "pct_change": 0.3039814940526026
+    }
+  }
+}
