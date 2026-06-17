@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-17",
+  "today_theme": "• FOMC UNCERTAINTY: Warsh's missing dot creates rare Fed guidance vacuum today.\n• YIELD CURVE WATCH: 10Y at 4.487% — break above 4.50% accelerates tech selloff.\n• GOLD BREAKOUT: $4,353 gold signals deep macro stress beneath calm VIX surface.\n• DEFENSIVE ROTATION: Dow outperforming Nasdaq — quality and value winning today.\n• GEOPOLITICAL RISK: G7 Iran bomb threat keeps tail-risk premium alive in oil and bonds.",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Fed Chair Warsh Expected to Withhold 'Dot' From Rate Outlook",
+      "analysis": "The Fed's FOMC meeting is releasing its quarterly dot plot, but incoming Chair Warsh is expected to omit his individual rate projection, creating unusual uncertainty around the central bank's forward guidance. Markets hate ambiguity from the Fed — this omission could signal a dovish shift or internal disagreement, both of which pressure rate-sensitive assets. Watch for volatility in the 10Y Treasury yield (currently 4.487%) and growth stocks post-announcement."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Trump Threatens 'Going Right Back to Dropping Bombs' If Iran Deal Falls Apart",
+      "analysis": "Trump's aggressive rhetoric at the G7 signals geopolitical risk premium remains elevated for Middle East tensions, which directly impacts energy markets and global risk appetite. Crude oil is already soft (-1% WTI), suggesting markets aren't fully pricing in a re-escalation scenario, making any deal collapse a sharp upside shock for oil. Watch Iran nuclear negotiation headlines and any movement in WTI above $78 as a risk-on signal for energy names."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Latest US Tariff Threat 'Will Hit Suppliers and Workers Hardest'",
+      "analysis": "New tariff escalation threats are reviving supply chain disruption fears, echoing 2018-2019 trade war dynamics that compressed industrial margins. The Dow's outperformance today (+0.64%) versus Nasdaq (-1.15%) may reflect rotation away from tech/global-supply-exposed names toward domestic defensives. Watch small-cap industrials and consumer discretionary names with heavy import exposure for earnings guidance cuts."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "China to Support IPOs by 'Future Industry' Startups and Large Model AI Companies",
+      "analysis": "Beijing's explicit policy support for AI and next-generation tech IPOs signals a capital formation tailwind for China's tech sector, potentially reigniting Hang Seng tech names. This is a direct policy put under Chinese AI companies at a time when global AI investment is already accelerating. Watch Hang Seng Tech Index (HSI currently -0.74% but could reverse), KWEB, and China-listed AI names for sentiment inflection."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Mark Cuban Issues Blunt Response to Coinbase CEO",
+      "analysis": "The public spat between Cuban and Coinbase's Brian Armstrong likely centers on crypto regulation or exchange practices, keeping crypto in the headlines during a broad risk-off crypto session (BTC -1.32%, ETH -1.28%). The debate adds narrative noise but no fundamental change to crypto's regulatory overhang in the US. Watch for any follow-up regulatory commentary from the SEC or CFTC that could escalate into a policy catalyst."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "BRK.B",
+      "company": "Berkshire Hathaway",
+      "direction": "LONG",
+      "thesis": "Buffett's fortress balance sheet and heavy cash reserves (~$180B) make BRK.B a natural beneficiary when equities wobble — rising 10Y yields favor its insurance float model and the Dow's outperformance today confirms defensive rotation."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust (proxy via Gold)",
+      "direction": "LONG",
+      "thesis": "Gold at $4,353 is breaking multi-year highs driven by dollar weakness (DXY 99.6), geopolitical risk (Iran/G7), and central bank buying — Dalio's 'all-weather' framework demands gold allocation during stagflationary regimes."
+    },
+    {
+      "ticker": "KWEB",
+      "company": "KraneShares CSI China Internet ETF (proxy for China AI exposure)",
+      "direction": "LONG",
+      "thesis": "China's policy pivot to support AI and future-industry IPOs is a classic Soros reflexivity setup — government-backed narrative creates self-fulfilling capital inflows into undervalued Chinese tech names."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market told two different stories: the Dow rose while the Nasdaq fell, which is a classic sign that investors are moving money from exciting-but-risky growth stocks into safer, more established companies. The big macro theme driving everything is the Federal Reserve meeting — specifically, the unusual situation where incoming Fed Chair Warsh is expected to skip putting his interest rate forecast in the official \"dot plot,\" creating rare uncertainty about where rates are headed.\nLO MÁS IMPORTANTE:\n• Fed Chair Warsh withholding his rate dot — this matters because markets use the dot plot as a roadmap for future interest rates, and removing one dot (especially the Chair's) is like getting directions with a key street missing.\n• 10-Year Treasury yield rising to 4.487% — this matters because when long-term interest rates rise, it makes borrowing more expensive and reduces the value of future earnings, which is why tech stocks fell harder today.\n• Gold hitting $4,353 — this matters because gold's breakout above all-time highs is signaling that sophisticated investors are worried about something deeper — geopolitical risk, dollar weakness, and inflation concerns all at once.\nCONCEPTO DEL DÍA:\n**The Yield Curve** is simply the difference between short-term and long-term interest rates. Think of it like a hotel: normally, booking a room for a whole year costs more per night than booking for one night (long-term = higher rate). Today, the 3-month T-Bill yield fell slightly while the 10-year yield rose — this \"steepening\" is like the long-stay rate getting more expensive relative to the short stay, which typically benefits banks (who borrow short and lend long) but hurts growth stocks.\nPARA MAÑANA:\nThe FOMC decision and press conference will be the single most important event in the next 24 hours — pay close attention to any language about the timing of rate cuts and whether Warsh speaks clearly about his personal rate outlook despite skipping the dot. Also watch for any Iran deal developments out of the G7 and Bitcoin's ability to hold the $64,000 support level.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7511.35009765625,
+      "pct_change": -0.5684179609759716
+    },
+    "Nasdaq": {
+      "price": 26376.33984375,
+      "pct_change": -1.1527518637769076
+    },
+    "10Y Treasury": {
+      "price": 4.486999988555908,
+      "pct_change": 0.5377586558555082
+    },
+    "DXY": {
+      "price": 99.59700012207031,
+      "pct_change": 0.05726261404331309
+    },
+    "Gold": {
+      "price": 4353.2001953125,
+      "pct_change": 0.5149112995357331
+    },
+    "Bitcoin": {
+      "price": 64735.69921875,
+      "pct_change": -1.3184953653034541
+    }
+  }
+}
