@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-18",
+  "today_theme": "• YIELD PRESSURE: Rising 10Y threatens 4.50% — equity valuations at risk\n• DOLLAR DOMINANCE: DXY above 100 compresses commodities and EM assets simultaneously\n• CHIP RENAISSANCE: Intel-Apple deal redefines U.S. domestic semiconductor industrial policy\n• KEY LEVEL: S&P 500 7,400 is immediate support — watch for close confirmation\n• RISK EVENT: BOJ intervention probability elevated with USD/JPY at 160.91 — monitor overnight",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Intel surges 9% on Apple-Trump chip partnership announcement",
+      "analysis": "Trump announced Intel will partner with Apple on U.S. chip design, accelerating Intel's domestic manufacturing revival narrative. This directly benefits the U.S. semiconductor supply chain and could re-rate Intel's valuation after years of market share erosion. Watch for formal contract announcements, TSMC competitive response, and whether other tech giants join similar domestic partnerships."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Gold drops 1.79% and silver falls 3.62% amid DXY strength and risk-off rotation",
+      "analysis": "A strengthening dollar (DXY +0.62%) is pressuring precious metals broadly, with silver's sharper decline suggesting industrial demand concerns are compounding monetary headwinds. The simultaneous drop in copper (-1.25%) confirms broad commodities weakness tied to global growth worries. Watch the $4,200 gold support level and whether WTI crude's -2.32% decline deepens into a deflationary signal."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "10Y Treasury yield rises to 4.487% (+0.54%) while equities sell off broadly",
+      "analysis": "Rising long-end yields alongside equity weakness signals a stagflationary undertone — markets are pricing in fiscal concerns rather than growth optimism. The 10Y-3M spread is widening, tightening financial conditions despite a falling VIX. Watch the 4.50% psychological resistance on the 10Y and Friday's macro data for confirmation of the trend."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Iran peace deal opens 60-day negotiation window, reducing Middle East tail risk",
+      "analysis": "The U.S.-Iran agreement commits both sides to further talks, materially reducing the probability of a military escalation that has been an oil and risk premium driver. Lower geopolitical risk premium partially explains WTI's decline today — supply-threat pricing is being unwound. Watch whether OPEC+ responds to the demand/supply recalibration and whether Iran sanctions relief becomes a formal agenda item."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Anthropic IPO preparation draws attention to private AI valuations and market readiness",
+      "analysis": "Anthropic's pending IPO would be a defining test of whether public markets will absorb premium AI valuations after the 2025-2026 AI run-up. Investor appetite for an unprofitable but strategically critical AI lab will reveal risk tolerance limits in the current rate environment. Watch the IPO pricing range, comparables to OpenAI's rumored listing timeline, and enterprise AI revenue growth metrics disclosed in the S-1."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "INTC",
+      "company": "Intel Corp",
+      "direction": "LONG",
+      "thesis": "Apple partnership validates Intel's Foundry Services pivot and creates a durable domestic revenue stream; politically protected status under Trump's tech policy reduces competitive risk. Lynch-style: this is a turnaround story with a concrete catalyst finally materializing after years of false starts."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust",
+      "direction": "SHORT",
+      "thesis": "DXY strength above 100 historically pressures gold, and with the Iran risk premium deflating and real yields rising, the fundamental case for gold weakens near-term. Soros-style reflexivity: sentiment shifted from fear-buying to profit-taking, and momentum could accelerate the downside."
+    },
+    {
+      "ticker": "TLT",
+      "company": "iShares 20+ Year Treasury ETF",
+      "direction": "SHORT",
+      "thesis": "Rising 10Y and 30Y yields with fiscal concerns unresolved create structural headwinds for long-duration bonds; the yield curve is steepening unfavorably for TLT holders. Dalio framework: debt monetization concerns and deficit spending create a secular bear case for long bonds."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday was a broad \"risk-off\" day where stocks fell across the board as bond yields climbed toward a key psychological level, the U.S. dollar strengthened, and commodities sold off together — a combination that signals investors are worried about inflation staying stubbornly high while economic growth slows. The one shining exception was Intel, which surged 9% on news of an Apple partnership, reminding us that even in tough market days, individual catalysts can create powerful opportunities.\nLO MÁS IMPORTANTE:\n• 10Y Treasury yield rising to 4.487% — when borrowing costs rise, stocks become relatively less attractive because investors can earn more from \"safe\" bonds instead\n• Intel-Apple domestic chip partnership — this is a rare case of government policy and corporate strategy aligning to create a genuine business catalyst, not just headlines\n• USD/JPY at 160.91 — the Japanese yen is at its weakest level in years, and Japan's central bank has intervened in currency markets at these levels before, which could create sudden volatility overnight\nCONCEPTO DEL DÍA:\n**Yield Curve Steepening**: Today the gap between short-term (3M at 3.62%) and long-term (10Y at 4.49%) U.S. interest rates widened — this is called a \"steepening yield curve.\" Think of it like this: if a bank charges you more interest for a 30-year mortgage than a 1-year loan, that's normal — but when that gap grows suddenly, it often means bond investors are demanding extra compensation for holding long-term debt, usually because they're worried about government deficits or sticky inflation. When this happens, it typically puts downward pressure on growth stocks because their future profits get discounted more heavily.\nPARA MAÑANA:\nWatch whether the 10Y Treasury yield breaks and holds above 4.50% — if it does, expect continued pressure on tech and growth stocks over the next 48 hours. Also keep a close eye on any overnight news out of Japan regarding BOJ intervention in the currency market, as USD/JPY at 160.91 is at historically dangerous levels that can move all global markets quickly.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7420.10009765625,
+      "pct_change": -1.214828210822879
+    },
+    "Nasdaq": {
+      "price": 26021.66015625,
+      "pct_change": -1.3446887991323901
+    },
+    "10Y Treasury": {
+      "price": 4.486999988555908,
+      "pct_change": 0.5377586558555082
+    },
+    "DXY": {
+      "price": 100.71299743652344,
+      "pct_change": 0.6224409245951443
+    },
+    "Gold": {
+      "price": 4281.0,
+      "pct_change": -1.787145933354968
+    },
+    "Bitcoin": {
+      "price": 64090.8515625,
+      "pct_change": -0.5085402921644749
+    }
+  }
+}
