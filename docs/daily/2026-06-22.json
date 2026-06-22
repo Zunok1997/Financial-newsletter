@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-22",
+  "today_theme": "• POWER IS THE NEW SILICON: AI's bottleneck shifts from chips to electricity grid capacity\n• HORMUZ WILDCARD: Oil -1.67% today but closure threat creates violent snap-back risk\n• UK POLITICAL FRAGILITY: Seventh PM in 10 years — sterling and gilts are the stress gauges\n• LEVEL TO WATCH: S&P 7,500 as new psychological support; hold or fail defines week's tone\n• VIX DIVERGENCE: Spot VIX rising while 3M VIX falls — short-term calm, medium-term caution",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Strait of Hormuz closure declared by Iran as shipping stalls",
+      "analysis": "Iran has again declared the Strait of Hormuz closed, disrupting one of the world's most critical oil transit chokepoints through which ~20% of global oil flows. Despite Iranian tankers reportedly still moving, the threat alone injects significant geopolitical risk premium into energy markets and supply chains. Watch WTI/Brent spread widening, tanker stocks (FRO, STNG), and whether U.S./GCC respond militarily or diplomatically."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "UK PM Starmer resigns triggering seventh leadership change in 10 years",
+      "analysis": "Keir Starmer's resignation deepens Britain's chronic political instability, injecting uncertainty into fiscal policy, trade negotiations, and investor confidence in UK assets. GBP and FTSE 100 face headwinds as markets price in leadership vacuum risk and potential snap elections. Watch GBP/USD pressure, UK gilt yields, and whether the Labour successor pivots on spending or Brexit-related trade frameworks."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "AI power bottleneck narrative gains traction as next infrastructure supercycle",
+      "analysis": "Market recognition that power infrastructure — not chips — is AI's next constraint redirects capital toward utilities, grid operators, and energy infrastructure names. This theme validates outsized positioning in VST, CEG, ETR, and independent power producers as secular growth stories. Watch for analyst upgrades in power sector and capex announcements from hyperscalers (MSFT, AMZN, GOOGL) confirming energy commitments."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Nikkei surges 1.55% as USD/JPY holds above 161, risk appetite returns to Asia",
+      "analysis": "A weakening yen continues to supercharge Japanese export earnings, with USD/JPY at 161.73 providing tailwinds for Toyota, Sony, and exporters broadly. Combined with global risk-on tone (Nasdaq +1.91%), Asian equity momentum looks constructive near-term. Watch BOJ intervention signals, any comments from Finance Minister Kato, and whether yen weakness accelerates past 163."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Michael Burry flags $3 trillion SpaceX structural concern",
+      "analysis": "Burry's bearish view on SpaceX highlights concentration risk and valuation concerns in the private space/tech complex with potential spillover to satellite internet and defense tech comps. As SpaceX valuation underpins secondary market pricing for a generation of private unicorns, any credibility hit ripples through VC-backed tech ecosystems. Watch ARKX, RKLB, and sentiment around IPO pipeline for space/defense tech."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "SPY",
+      "company": "SPDR S&P 500 ETF",
+      "direction": "LONG",
+      "thesis": "S&P 500 breakout above 7,500 with VIX at neutral 17.4 and positive breadth across Nasdaq (+1.91%) and Nikkei confirms risk-on; momentum favors continuation toward 7,750 measured move."
+    },
+    {
+      "ticker": "QQQ",
+      "company": "Invesco Nasdaq-100 ETF",
+      "direction": "LONG",
+      "thesis": "Nasdaq's outperformance (+1.91%) driven by AI infrastructure theme and rate curve flattening (10Y -0.27%) removes a key headwind for growth multiples; power bottleneck narrative keeps AI capex stocks elevated."
+    },
+    {
+      "ticker": "CEG",
+      "company": "Constellation Energy",
+      "direction": "LONG",
+      "thesis": "AI power bottleneck theme directly benefits nuclear baseload providers; CEG's contracted revenue with hyperscalers and regulatory moat make it a Lynch-style compounder in an under-owned sector."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMonday June 22 opened with strong risk-on momentum — the Nasdaq jumped nearly 2% and the S&P 500 crossed the symbolic 7,500 level — powered by AI infrastructure enthusiasm and a friendly bond market where longer-term yields fell. However, beneath the surface, Iran's Hormuz closure threat and UK Prime Minister Starmer's surprise resignation injected geopolitical noise that kept VIX elevated and created sharp divergences across global markets.\nLO MÁS IMPORTANTE:\n• AI Power Bottleneck — the market is realizing that electricity grids, not computer chips, are now the true limit on AI growth, making utility and energy infrastructure stocks the next major investment theme.\n• Hormuz Strait Closure — Iran blocking one of the world's most important oil shipping lanes could cause a sudden, violent spike in oil prices if the threat becomes reality, even though markets shrugged it off today.\n• UK Political Crisis — Starmer's resignation makes Britain the most politically unstable major democracy in the world right now, and that instability directly weakens the British pound and government bonds.\nCONCEPTO DEL DÍA:\n**Bull Flattening** — today, longer-term interest rates (10Y, 30Y) fell while short-term rates held steady, which is called a \"bull flattening\" of the yield curve. Think of it like a seesaw where the far end is dropping — this usually happens when investors believe economic growth will slow, so they rush into long-term bonds for safety, pushing their yields down. For stock investors, this is generally good news for growth companies (like tech) because their future profits become worth more when long-term rates fall.\nPARA MAÑANA:\nWatch whether Iran's Hormuz situation escalates with any confirmed shipping incidents — a single confirmed blockage could send oil up 5-10% overnight and reverse today's equity gains sharply. Also monitor GBP/USD and UK gilt yields for the first full market session pricing in the Starmer resignation, as this could create spillover volatility into European equities early Tuesday.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7500.580078125,
+      "pct_change": 1.0846212235623454
+    },
+    "Nasdaq": {
+      "price": 26517.9296875,
+      "pct_change": 1.907140160428249
+    },
+    "10Y Treasury": {
+      "price": 4.451000213623047,
+      "pct_change": -0.26886864369792307
+    },
+    "DXY": {
+      "price": 100.86799621582031,
+      "pct_change": 0.017846050541921538
+    },
+    "Gold": {
+      "price": 4223.60009765625,
+      "pct_change": -0.011836840710224315
+    },
+    "Bitcoin": {
+      "price": 64043.51171875,
+      "pct_change": 1.2745161627074504
+    }
+  }
+}
