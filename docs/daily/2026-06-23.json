@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-23",
+  "today_theme": "• AI MONETIZATION RECKONING: Markets finally questioning whether AI spend converts to earnings.\n• KEY LEVEL: Nasdaq 26,000 — breach signals broader technical breakdown.\n• SECTOR DIVERGENCE: Dow vs. Nasdaq split reveals defensive rotation in progress.\n• RISK EVENT: Any Fed speaker today could either calm or amplify tech selloff fears.\n• COMMODITY SIGNAL: Copper + silver + oil all falling = watch for growth downgrade cycle.",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Global Chip & AI Tech Selloff Wipes $1T+ from Nasdaq 100",
+      "analysis": "A broad-based semiconductor and AI-related equity rout accelerated Tuesday, with the Nasdaq falling -1.32% and futures pointing to deeper losses as AI spending doubts resurface. The selloff signals a potential inflection point where markets are questioning whether AI capex translates to earnings, pressuring hyperscalers and chipmakers alike. Watch NVDA, AMD, and TSMC price action plus any Fed or earnings commentary that could either validate or arrest the trend."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Nikkei Collapses -3.55% Leading Global Equity Decline",
+      "analysis": "Japan's Nikkei 225 suffered its sharpest single-day drop in recent sessions, dragging Asian and European markets lower in a synchronized risk-off move. The breadth of the selloff across DAX (-1.15%), Hang Seng (-1.82%), and CAC 40 (-0.78%) suggests systemic fear rather than isolated sector rotation. Watch USD/JPY stability near 161.46 and whether BOJ intervention rhetoric emerges to stabilize yen-sensitive export stocks."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "VIX Spikes +15.74% to 20 as Fear Premium Builds",
+      "analysis": "The VIX jumping nearly 16% in a single session to 20.00 while VIX 3M sits at 19.57 signals near-term fear is now running hotter than medium-term expectations — a structural inversion worth noting. This term structure configuration often precedes short-covering rallies but also confirms that options markets are pricing genuine tail risk for the immediate horizon. Watch whether VIX closes above 22 as the next threshold that could trigger systematic de-risking from volatility-targeting funds."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Oracle Cuts 21,000 Jobs Amid AI Displacement Wave",
+      "analysis": "Oracle's workforce reduction of 21,000 over the past year, explicitly attributed to AI adoption, is a leading indicator of a broader tech employment contraction that will ripple through consumer spending and sector sentiment. The admission in corporate filings that AI \"may continue to result in reductions\" is unusually candid and could trigger re-rating of other enterprise software names with similar cost structures. Watch whether peers like SAP, Salesforce, and IBM issue similar disclosures, as this could reframe AI from a growth narrative to a margin-through-layoffs story."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Oil Falls on Hormuz Peace Talk Progress, Demand Concerns Persist",
+      "analysis": "WTI crude dropped -1.32% to $73.83 as diplomatic signals around the Strait of Hormuz reduced the geopolitical risk premium that had been embedded in energy prices. However, weakening copper (-2.60%) and silver (-4.84%) simultaneously suggest demand-side concerns are the real driver, not just geopolitical relief. Watch OPEC+ commentary and weekly EIA inventory data to determine whether this is a supply-relief dip or the start of a demand-driven leg lower."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "direction": "SHORT",
+      "thesis": "AI capex skepticism and the $1T+ Nasdaq tech rout put NVDA at the epicenter of multiple compression risk as forward earnings estimates face downward revision; sentiment shift from consensus long creates asymmetric short opportunity. Watch for break below 50-day MA as confirmation of trend change."
+    },
+    {
+      "ticker": "SMH",
+      "company": "VanEck Semiconductor ETF",
+      "direction": "SHORT",
+      "thesis": "The global chip selloff is sector-wide, not idiosyncratic, making an ETF short more efficient than single-name risk; deteriorating AI monetization narrative removes the primary demand catalyst that justified premium valuations across the semiconductor complex. A close below $235 would confirm the breakdown."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust",
+      "direction": "HEDGE",
+      "thesis": "Gold pulled back -0.98% today but the macro backdrop — VIX spike, global equity selloff, and 10Y yield declining — is classically gold-supportive; the dip toward support offers a risk-managed hedge entry against accelerating risk-off conditions. Dalio's all-weather framework positions gold as the natural counterweight when equities and growth assets deflate simultaneously."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy fue un día de miedo real en los mercados. El Nasdaq cayó más del 1% mientras el sector tecnológico y de semiconductores sufrió pérdidas masivas a nivel global, con el índice japonés Nikkei desplomándose casi un 4%. El VIX — el \"medidor del miedo\" del mercado — saltó casi un 16%, señalando que los inversionistas están asustados y buscando protección.\nLO MÁS IMPORTANTE:\n• Colapso global de chips/IA — el mercado está cuestionando si el gasto billonario en inteligencia artificial realmente generará ganancias, lo cual sacude los cimientos de la narrativa que ha impulsado Wall Street por dos años.\n• Oracle anuncia 21,000 despidos por IA — confirma que la IA no solo crea empleos, sino que los elimina a escala industrial, cambiando cómo valoramos las empresas tecnológicas.\n• VIX sube a 20 con curva invertida — cuando el miedo de hoy supera el miedo de los próximos meses, suele señalar que el mercado está en un momento de pánico que puede crear oportunidades, pero también más dolor a corto plazo.\nCONCEPTO DEL DÍA:\n**Correlación en Pánico** — En tiempos normales, diferentes tipos de activos (acciones, bonos, materias primas) se mueven de forma independiente, lo que te protege si uno cae. Pero hoy vimos acciones, cobre, plata, petróleo, oro Y criptomonedas caer juntos — esto se llama \"correlación en pánico\" y significa que la diversificación deja de funcionar cuando todos quieren salir al mismo tiempo. Es como si en un teatro con humo, todos corrieran hacia la misma puerta: el problema no es el humo, sino la aglomeración.\nPARA MAÑANA:\nObserva si el Nasdaq logra estabilizarse alrededor del nivel psicológico de 26,000 puntos y si algún funcionario de la Fed hace declaraciones que calmen los nervios; cualquier dato económico o comentario corporativo sobre el gasto en IA podría ser el catalizador que determine si este selloff fue un susto de un día o el inicio de una corrección más profunda.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7472.7900390625,
+      "pct_change": -0.3705051979052662
+    },
+    "Nasdaq": {
+      "price": 26166.599609375,
+      "pct_change": -1.324877478239222
+    },
+    "10Y Treasury": {
+      "price": 4.451000213623047,
+      "pct_change": -0.26886864369792307
+    },
+    "DXY": {
+      "price": 101.21700286865234,
+      "pct_change": 0.19501705813950765
+    },
+    "Gold": {
+      "price": 4140.89990234375,
+      "pct_change": -0.9804156234591246
+    },
+    "Bitcoin": {
+      "price": 62294.0,
+      "pct_change": -2.592730069786722
+    }
+  }
+}
