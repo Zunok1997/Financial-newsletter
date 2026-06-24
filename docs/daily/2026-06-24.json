@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-24",
+  "today_theme": "• AI REALITY CHECK: Tech selloff questions whether AI capex cycle has peaked\n• KEY LEVEL: Nasdaq 25,000 is critical support — a break triggers broader selling\n• MICRON TONIGHT: Single most important earnings print of the month\n• ENERGY LEGISLATION: Data centre cost bill could reprice entire cloud sector margins\n• CRUDE WATCH: WTI $70 psychological support — break signals global demand fear",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Tech Sector Rout Deepens as Nasdaq Drops 2.21%",
+      "analysis": "A broad-based selloff hit technology stocks hard Wednesday, with the Nasdaq falling more than twice the S&P 500's decline, signaling sector-specific pressure beyond general market weakness. This divergence suggests institutional rotation out of high-multiple tech names, potentially unwinding the AI-driven momentum trade that has dominated 2025-2026. Watch whether Micron's earnings after the close confirm or deny that AI hardware demand remains intact, as that will set the tone for Thursday's open."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Proposed Legislation Forces Tech to Pay AI Data Center Energy Costs",
+      "analysis": "A House subcommittee is advancing a bill requiring tech companies to absorb energy costs for AI data center operations, removing a structural subsidy that has benefited hyperscalers and cloud providers. This introduces meaningful margin compression risk for MSFT, GOOGL, AMZN, and META if passed, as energy is among the fastest-growing cost lines in AI infrastructure buildout. Watch the committee vote outcome and lobbying responses from Big Tech over the next 48 hours for signals on legislative momentum."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Brent Crude Falls Below $76 to Post-Iran-War Lows, Trump Pressures Oil Firms",
+      "analysis": "Brent crude touching its lowest level since before the U.S.-Iran military engagement reflects a combination of demand pessimism and political pressure from President Trump on energy companies to cut gasoline prices. Lower oil is a double-edged sword: it relieves inflation pressure but signals weakening global growth expectations, which the commodity complex broadly confirmed today with copper and silver also declining. Watch whether WTI holds the $70 psychological support level, which if broken could trigger further energy sector equity selling."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Micron Earnings Due After Close — AI Memory Demand in Focus",
+      "analysis": "Micron's quarterly report is the single most important near-term data point for the semiconductor and AI infrastructure trade, coming at a moment of acute sector vulnerability. A beat with strong HBM (high-bandwidth memory) guidance would likely stabilize the Nasdaq; a miss or cautious outlook could accelerate the tech rout into a more serious correction. Watch forward revenue guidance and gross margin trajectory, particularly commentary on data center vs. consumer memory demand mix."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Tata Data Centre Fire in Delhi Highlights AI Infrastructure Fragility",
+      "analysis": "A fire causing \"extensive damage\" at a Tata-operated Delhi data centre underscores concentration and physical risk in the global AI infrastructure stack, a factor markets persistently underprice. For investors, this is a reminder that data centre REITs, hyperscaler cloud revenues, and enterprise IT SLAs carry tail risks beyond software and valuation. Watch for insurance loss estimates, client migration disclosures, and any ripple effects on Indian IT sector equities including Infosys and Wipro ADRs."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "direction": "LONG",
+      "thesis": "Micron enters earnings at a technically oversold juncture with HBM3E ramp providing a structural growth driver that the market is temporarily discounting during the broader tech selloff. A beat-and-raise scenario could trigger a sharp short-covering rally; position sized conservatively given binary event risk."
+    },
+    {
+      "ticker": "SOXS",
+      "company": "Direxion Daily Semiconductor Bear 3X",
+      "direction": "HEDGE",
+      "thesis": "If Micron disappoints or guides conservatively, the leveraged inverse semiconductor ETF provides outsized downside protection during a period when the Philadelphia Semiconductor Index is technically breaking key moving averages. Acts as a portfolio hedge against continued AI trade unwind; hold no more than 48-72 hours given decay characteristics of leveraged products."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "SHORT",
+      "thesis": "Brent below $76 combined with Trump's political pressure on energy companies to cut prices creates a double headwind for integrated oil majors, compressing both realized prices and political goodwill. Technically XOM is rolling over from resistance, and energy sector earnings revisions are skewed negatively given the crude trajectory."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nWednesday, June 24, 2026 was a tech-led risk-off day where the Nasdaq fell 2.21% — more than twice the S&P 500's decline — signaling that the AI-driven momentum trade is under real pressure. The macro backdrop featured falling oil prices, a stronger dollar, and a broad commodity selloff, all pointing toward a market reassessing global growth expectations at the same time that U.S. lawmakers are threatening to raise costs for tech companies. The most important event of the day hasn't happened yet: Micron's earnings after the close will tell us whether the AI hardware boom is still intact or starting to crack.\nLO MÁS IMPORTANTE:\n• Micron earnings tonight — this single report will either calm or accelerate the tech selloff that spooked markets today\n• AI data centre energy cost legislation — if passed, this directly cuts profits for the biggest tech companies that have driven the market higher for two years\n• Brent crude below $76 — oil at its lowest since before the U.S.-Iran war signals the market is worried about global economic growth slowing down\nCONCEPTO DEL DÍA:\n**Sector Rotation** is when investors move money from one industry group to another rather than leaving the stock market entirely. Today is a textbook example: money flowed OUT of high-growth technology stocks (Nasdaq -2.21%) but the Dow Jones barely moved (-0.09%) because it holds more \"boring\" companies like industrials and healthcare that investors ran toward for safety. Think of it like a crowded restaurant — when the trendy section gets too noisy and expensive, some diners quietly move to the quieter, more reliable part of the room without actually leaving the building.\nPARA MAÑANA:\nThe single biggest thing to watch overnight and into Thursday morning is Micron's earnings call — pay attention not just to whether they beat expectations but specifically to what management says about AI data centre memory demand for the next two quarters, because that guidance will set the tone for every semiconductor and AI-related stock. Additionally, watch whether the Congressional energy cost bill advances out of committee, as that headline could add a second wave of pressure on tech stocks if it gains momentum.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7365.4599609375,
+      "pct_change": -1.4362785193208119
+    },
+    "Nasdaq": {
+      "price": 25587.0390625,
+      "pct_change": -2.214886746948023
+    },
+    "10Y Treasury": {
+      "price": 4.451000213623047,
+      "pct_change": -0.26886864369792307
+    },
+    "DXY": {
+      "price": 101.67900085449219,
+      "pct_change": 0.2652570581489093
+    },
+    "Gold": {
+      "price": 4078.300048828125,
+      "pct_change": -1.249421408163953
+    },
+    "Bitcoin": {
+      "price": 62376.6015625,
+      "pct_change": -0.46501863459189363
+    }
+  }
+}
