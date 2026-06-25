@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-25",
+  "today_theme": "• DIVERGENCE SIGNAL: Copper up, oil down — industrial vs. energy demand splitting\n• KEY LEVEL: Gold $4,000 and USD/JPY 162 — both at critical inflection points\n• GEOPOLITICAL WILDCARD: Iran Hormuz threat could reprice oil and risk assets overnight\n• ROTATION ALERT: Dow outperforming Nasdaq signals growth-to-value shift accelerating\n• RISK EVENT: BOJ intervention risk at USD/JPY 161.88 — watch Tokyo open Friday",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Iran Threatens Strait of Hormuz Transit Rights",
+      "analysis": "Iran warned ships that transiting the Strait of Hormuz without its approval is \"unacceptable and dangerous,\" raising the specter of a critical chokepoint disruption. Roughly 20% of global oil supply passes through the Strait, meaning any escalation could spike energy prices and rattle risk assets. Watch tanker insurance premiums, Brent crude reactions, and U.S. Navy posture in the Persian Gulf for next-move signals."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Nikkei Surges 4.61% on Yen Weakness as USD/JPY Hits 161.88",
+      "analysis": "The Nikkei's outsized rally is fueled by yen depreciation rather than earnings strength, masking structural currency risk for international investors. A yen at 161+ historically triggers Bank of Japan intervention warnings, which could cause sudden unwinds of carry trades funding global equity exposure. Watch BOJ commentary, any intervention signals, and the spread between JGB yields and U.S. Treasuries."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Copper Spikes +2.52% Signaling Industrial Demand Acceleration",
+      "analysis": "Copper's sharp single-day gain suggests renewed optimism around global manufacturing, infrastructure spending, or a China stimulus pulse. As the metal most sensitive to economic expansion, this move diverges bullishly from falling oil and weak crypto, pointing to selective risk-on in real assets. Watch China PMI data, copper inventories on LME/COMEX, and mining equities for confirmation."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Gold Holds $4,000 Level Amid Mixed Risk Signals",
+      "analysis": "Gold maintaining the psychologically critical $4,000 level despite a rising dollar and calmer VIX reflects persistent demand for hard-asset protection. This suggests institutional investors remain cautious about geopolitical tail risks (Iran, trade) even as near-term volatility subsides. Watch real yields, central bank purchasing data, and any Hormuz escalation that could push gold decisively through $4,050."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI Crude Drops -1.08% Despite Strait of Hormuz Tension",
+      "analysis": "Oil declining while Hormuz threats emerge implies weak underlying demand is overwhelming geopolitical fear premiums — a bearish demand signal. This disconnect between supply risk and price action may indicate the market is pricing a softer global growth trajectory. Watch U.S. inventory data, OPEC+ compliance reports, and whether the Iran headline gains diplomatic traction that forces a supply-premium repricing."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "CVX",
+      "company": "Chevron",
+      "direction": "SHORT",
+      "thesis": "Chevron's admission that gas prices won't fall quickly, combined with Trump political pressure and weak WTI crude, creates earnings headwind and regulatory risk. Demand softness and political overhang make this a textbook Marks-style fading of the cycle high."
+    },
+    {
+      "ticker": "FCX",
+      "company": "Freeport-McMoRan",
+      "direction": "LONG",
+      "thesis": "Copper's +2.52% surge directly benefits FCX as the world's largest publicly traded copper producer, and the move signals infrastructure-driven demand acceleration. Lynch's \"invest in what you know\" applies — copper demand from EVs and AI data centers is structural, not cyclical."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust",
+      "direction": "LONG",
+      "thesis": "Gold holding $4,000 amid geopolitical stress (Iran) and dollar stability signals institutional accumulation as a tail-risk hedge. Dalio's all-weather principle supports gold at ~10% portfolio weight when real yields plateau and geopolitical uncertainty spikes."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy los mercados mostraron una señal clásica de rotación: las acciones de valor (Dow +0.35%) superaron a la tecnología (Nasdaq -0.43%), mientras el cobre disparó +2.52% y el oro se mantuvo firme en $4,000. El tema macro dominante fue la divergencia entre señales de demanda industrial fuerte (cobre) y debilidad energética (petróleo -1.08%), todo esto bajo la sombra de la amenaza de Irán sobre el Estrecho de Ormuz.\nLO MÁS IMPORTANTE:\n• Irán amenaza el Estrecho de Ormuz — controla el paso del 20% del petróleo mundial; cualquier escalada puede disparar los precios de energía de golpe\n• USD/JPY en 161.88 — el yen está tan débil que el Banco de Japón podría intervenir esta noche, lo que sacudiría mercados globales\n• Cobre +2.52% — el \"metal del Dr. Cobre\" predice crecimiento económico; este movimiento sugiere que la demanda industrial global puede estar acelerándose\nCONCEPTO DEL DÍA:\nEl **Estrecho de Ormuz** es un cuello de botella geográfico por donde pasa aproximadamente el 20% del petróleo mundial, especialmente el del Golfo Pérsico. Piénsalo como la única puerta de salida de un edificio lleno de gente: si alguien bloquea esa puerta, aunque sea por unas horas, crea un pánico enorme. Por eso los mercados de energía reaccionan tan fuerte a cualquier amenaza en esa zona.\nPARA MAÑANA:\nPresta atención a la apertura de los mercados asiáticos y cualquier respuesta de la Marina de EE.UU. o escalada diplomática con Irán, ya que podría repreciar el petróleo violentamente al alza; también vigila el yen japonés — si el Banco de Japón interviene durante la sesión de Tokio, espera turbulencia en todos los activos de riesgo globales.",
+  "market_snapshot": {
+    "Nasdaq": {
+      "price": 25476.640625,
+      "pct_change": -0.4314623400946707
+    },
+    "10Y Treasury": {
+      "price": 4.451000213623047,
+      "pct_change": -0.26886864369792307
+    },
+    "DXY": {
+      "price": 101.65399932861328,
+      "pct_change": 0.04330156283577107
+    },
+    "Gold": {
+      "price": 4000.300048828125,
+      "pct_change": 0.2506077206634325
+    },
+    "Bitcoin": {
+      "price": 61235.1484375,
+      "pct_change": 0.39349963502466956
+    }
+  }
+}
