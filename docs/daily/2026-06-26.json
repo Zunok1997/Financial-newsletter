@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-26",
+  "today_theme": "• FEAR REGIME ACTIVE: VIX above 20 signals institutional de-risking weekend|\n• KEY LEVEL: S&P 7,300 is the line between correction and breakdown|\n• BIFURCATION: Oil down hard, gold up — classic stagflation signal emerging|\n• ASIA CONTAGION: Nikkei -4.15% risks Monday gap-down in US futures|\n• RISK EVENT: Weekend geopolitical developments in Middle East shipping lanes|",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Nikkei Plunges 4.15% as Asian Risk-Off Accelerates",
+      "analysis": "Japan's equity benchmark suffered its sharpest single-session drop in recent weeks, dragging pan-Asian sentiment and signaling broad institutional deleveraging. The selloff likely reflects yen-carry trade unwinding pressure combined with global growth concerns, amplifying volatility into the weekend. Watch USD/JPY stability around 161 and whether Asian weakness bleeds further into Monday's European open."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI Crude Breaks Below $70 on Cargo Ship Attack Near Oman",
+      "analysis": "Oil slid over 3% as markets paradoxically sold the geopolitical headline, suggesting demand destruction fears outweigh supply-disruption risk premiums. The sub-$70 breach is technically significant and may pressure energy sector earnings estimates for H2 2026. Watch whether OPEC+ responds verbally or with emergency production adjustments next week."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold Hits $4,065 as VIX Spikes 6.88% — Safe Haven Rotation Intensifies",
+      "analysis": "Gold's advance alongside a surging VIX confirms a textbook flight-to-safety trade, with institutional capital rotating out of risk assets. The $4,000 level is now confirmed support, and momentum models will target $4,100–$4,150 next. Watch real yields and DXY weakness — a continued dollar decline below 101 accelerates gold's upside."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "VIX Jumps 6.88% to 20.19 on Mixed Equity Tape — Fear Regime Confirmed",
+      "analysis": "A VIX print above 20 with Nasdaq down 0.46% and DAX off 1.24% signals the market has entered a fear regime heading into the weekend. Options skew will widen, making hedging more expensive and likely triggering systematic de-risking from vol-targeting funds. Watch whether VIX closes the week above 20 — sustained readings here historically precede 5–10% equity drawdowns."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "DXY Slips to 101.21 as EUR/USD Advances 0.48% to 1.1409",
+      "analysis": "The dollar's modest softness reflects diverging rate expectations as European data surprises persist and Fed cut expectations get repriced. EUR/USD above 1.14 is a six-month high zone and could attract technical sellers near 1.1450. Watch ECB speakers and next week's US PCE data for the next directional catalyst."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares",
+      "direction": "LONG",
+      "thesis": "Gold is in a confirmed uptrend with VIX fear regime and DXY weakness providing dual tailwinds for precious metals allocation; real assets historically outperform during late-cycle stagflation scares. Dalio's all-weather framework explicitly overweights gold during rising volatility and currency debasement periods."
+    },
+    {
+      "ticker": "QQQ",
+      "company": "Invesco QQQ Trust",
+      "direction": "SHORT",
+      "thesis": "Nasdaq's underperformance relative to Dow signals tech multiple compression risk as rates stay higher-for-longer and VIX expands; the index is vulnerable to a 4–5% correction from current levels. Soros's reflexivity framework supports shorting momentum deterioration when macro sentiment flips negative heading into a weekend gap risk."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "SHORT",
+      "thesis": "WTI below $70 structurally compresses energy sector margins and ExxonMobil's earnings are highly levered to oil prices; consensus estimates for 2026 EPS need a downward revision. Graham's margin of safety principle inverted — at current prices with declining commodity support, the stock trades above intrinsic value."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market painted a clear picture of a world moving into \"fear mode\" — the VIX fear index jumped nearly 7% to 20.19, Japan's stock market had one of its worst days of the year (down over 4%), and oil fell below $70 a barrel. Meanwhile, gold continued climbing past $4,065, silver rose, and copper gained — signaling that investors are nervous about the economy's health and rotating into safer, tangible assets.\nLO MÁS IMPORTANTE:\n• VIX spiking above 20 — this is like a smoke detector going off in the market; it doesn't mean the house is burning, but it means you should pay close attention and have your exit plan ready.\n• Nikkei crashing 4.15% in one day — Japan's market collapse matters because it often signals that a large, global \"carry trade\" (borrowing cheap yen to buy risky assets worldwide) is unwinding, which can create a chain reaction across global markets.\n• Oil breaking below $70 despite a geopolitical attack — normally, threats to oil shipping send prices UP; the fact that prices fell ANYWAY tells you markets are more worried about weak demand (slowing economy) than supply disruptions, which is a serious warning sign.\nCONCEPTO DEL DÍA:\n**The Fear Index (VIX):** The VIX measures how much investors expect the stock market to swing up or down over the next 30 days — think of it as the market's \"anxiety thermometer.\" When VIX is above 20, like today, it means investors are genuinely nervous and buying insurance (options) against losses. A good analogy: imagine the VIX is the weather forecast — a reading above 20 is like a 60% chance of storms, not a guarantee of rain, but enough to make you carry an umbrella.\nPARA MAÑANA:\nOver the next 48 hours, watch for any weekend developments in the Middle East (another attack could shift oil prices dramatically in either direction when markets reopen Monday), and pay close attention to whether Bitcoin holds the critical $58,000 support level — a break below it over the weekend could set a negative tone for risk assets when Wall Street opens Monday morning.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7357.490234375,
+      "pct_change": -0.009920611879451625
+    },
+    "Nasdaq": {
+      "price": 25358.599609375,
+      "pct_change": -0.46333037923833414
+    },
+    "DXY": {
+      "price": 101.20899963378906,
+      "pct_change": -0.2178849164170233
+    },
+    "Gold": {
+      "price": 4065.699951171875,
+      "pct_change": 0.8733395651128892
+    },
+    "Bitcoin": {
+      "price": 59247.7109375,
+      "pct_change": -0.7936228137436229
+    }
+  }
+}
