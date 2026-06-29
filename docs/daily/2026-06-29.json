@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-29",
+  "today_theme": "• SPIN-OFF SEASON: Comcast's split signals conglomerate discount destruction accelerating in 2H 2026.\n• KEY LEVEL: Bitcoin $60K and 10Y yield 4.35% are the two lines markets cannot ignore today.\n• AI INFRASTRUCTURE: AMD, Micron, NVIDIA news confirms sovereign AI spending is the decade's dominant capex theme.\n• RISK EVENT: USD/JPY at 161.84 — BoJ intervention could trigger violent cross-asset unwind within 48h.\n• RATES SIGNAL: Front-end T-Bill drop screams rate cuts coming; bond market leading equities on this call.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Comcast Surges 23% on NBCUniversal/Sky Spin-Off Announcement",
+      "analysis": "Comcast announced a tax-free spin-off separating NBCUniversal and Sky into a standalone public company, unlocking hidden value in its media assets and signaling management's confidence in independent valuation. Markets reacted sharply positive as conglomerate discount erasure typically adds 15-30% to sum-of-parts valuations. Watch for copycat spin-off announcements at other media conglomerates (Warner Bros. Discovery, Paramount) and activist pressure on similarly structured companies."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Volkswagen Eyes 100,000 Job Cuts and Four Plant Closures",
+      "analysis": "The scale of VW's restructuring—100,000 jobs and four plants—signals a deeper-than-expected crisis in European legacy auto amid EV transition pressures and Chinese competition. This is a macro signal for European industrial weakness, pressuring DAX components and suppliers across Germany's manufacturing base. Watch EUR weakness, German Bund spreads, and contagion to Stellantis and BMW as labor unions respond."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "AMD Commits £2 Billion to UK AI Supercomputer Infrastructure",
+      "analysis": "AMD's £2B UK commitment at Cambridge signals continued hyperscaler-adjacent infrastructure buildout and positions AMD as a credible alternative to NVIDIA in sovereign AI deployments. Government-backed AI infrastructure contracts provide recurring, high-margin revenue visibility often underappreciated by markets. Watch for similar announcements from Intel and Qualcomm as nations compete for AI sovereignty partnerships."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Micron Secures Deal with Anthropic for AI Memory Market",
+      "analysis": "Micron's Anthropic partnership cements HBM (High Bandwidth Memory) demand visibility precisely when memory cycle inflection is debated by analysts. This validates Micron's AI-specific product roadmap and creates a moat against Samsung in the inference memory stack. Watch Micron's next earnings guide, SK Hynix capacity announcements, and Anthropic's compute spending trajectory."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "SpaceX $25B Bond Sale Draws Heavy Demand but Flags Investor Concentration Risk",
+      "analysis": "SpaceX successfully placed $25B in debt—one of the largest private bond sales in history—reflecting extraordinary institutional confidence in Elon Musk's aerospace enterprise. However, analysts flag capital expenditure intensity, refinancing risk in a still-elevated rate environment, and dangerous single-name concentration for buyers. Watch secondary market spreads, credit rating agency commentary, and whether demand crowding out affects other high-yield issuances this week."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "CMCSA",
+      "company": "Comcast Corp",
+      "direction": "LONG",
+      "thesis": "Spin-off of NBCUniversal and Sky unlocks significant conglomerate discount with sum-of-parts valuation implying 20%+ upside even post-surge; Lynch's asset-play framework identifies this as a classic hidden-value event."
+    },
+    {
+      "ticker": "MU",
+      "company": "Micron Technology",
+      "direction": "LONG",
+      "thesis": "Anthropic partnership validates Micron's HBM3E ramp and AI memory positioning; Fisher's growth-at-reasonable-price lens sees earnings power materially underpriced given memory supercycle early innings."
+    },
+    {
+      "ticker": "AMD",
+      "company": "Advanced Micro Devices",
+      "direction": "LONG",
+      "thesis": "£2B UK AI infrastructure commitment signals durable government and enterprise demand diversification away from NVIDIA dependency; Buffett-style moat widening in a duopoly compute market."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMonday June 29, 2026 was a quiet but information-rich day for markets — the major US indexes barely moved (all within -0.25%), but underneath the surface, enormous stories unfolded in media, semiconductors, and European autos. The dominant macro theme was AI infrastructure spending validation, with AMD, Micron, and NVIDIA all generating major headlines, while Comcast's historic spin-off reminded investors that old-economy asset unlocking is just as powerful as technology disruption.\nLO MÁS IMPORTANTE:\n• Comcast +23% on spin-off announcement — this shows that breaking up complex companies can instantly create billions in value that the market was ignoring.\n• VW planning 100,000 job cuts — this signals that Europe's industrial economy is under serious structural pressure, not just a temporary slowdown, and that will affect European markets for years.\n• 10Y Treasury yield falling to 4.37% — bond markets are quietly signaling that interest rate cuts are coming sooner than many expect, which is a big deal for every investment you own.\nCONCEPTO DEL DÍA:\n**Conglomerate Discount** — when one company owns many very different businesses, the stock market often values the whole thing for less than the individual pieces would be worth separately. Think of it like buying a combo meal that costs less than ordering each item individually, except here, breaking it apart actually *creates* value for shareholders. Comcast's 23% jump today is a textbook example of the market repricing the pieces now that they'll be sold separately.\nPARA MAÑANA:\nKeep your eyes on Bitcoin's ability to hold above $60,000 and the USD/JPY exchange rate near 162 — if Japan's central bank intervenes to strengthen the yen, it could trigger a fast, sharp move across stocks, bonds, and crypto simultaneously. Also watch for any analyst upgrades on Comcast and whether media sector peers like Warner Bros. Discovery start getting spin-off speculation of their own.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7354.02001953125,
+      "pct_change": -0.047165741757111364
+    },
+    "Nasdaq": {
+      "price": 25297.619140625,
+      "pct_change": -0.24047254063452186
+    },
+    "10Y Treasury": {
+      "price": 4.372000217437744,
+      "pct_change": -0.4553729513482809
+    },
+    "DXY": {
+      "price": 101.24400329589844,
+      "pct_change": -0.1144409172796301
+    },
+    "Gold": {
+      "price": 4049.800048828125,
+      "pct_change": -0.7085567138971965
+    },
+    "Bitcoin": {
+      "price": 59986.01171875,
+      "pct_change": 0.7620595397236495
+    }
+  }
+}
