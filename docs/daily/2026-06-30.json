@@ -1,0 +1,78 @@
+{
+  "date": "2026-06-30",
+  "today_theme": "• QUARTER-END FLOWS: Window dressing inflates today's gains — reversal risk is real tomorrow.\n• KEY LEVEL: S&P 500 7,440 — holds = bull trend intact, breaks = correction begins.\n• AI ROI RECKONING: Mag 7 capex scrutiny will define July earnings season narrative.\n• METALS BREAKOUT: Copper + silver surge signals electrification demand acceleration.\n• RISK EVENT: U.S.-Iran oil talks in Doha today — outcome moves crude and energy sector Thursday.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Global Equities Rally on Quarter-End Momentum — S&P 500 +1.18%, Nasdaq +2.07%",
+      "analysis": "Major indices posted strong gains heading into Q2 close, with tech leading as AI chipmaker optimism offset Mag 7 spending jitters. Quarter-end rebalancing flows and window dressing amplified buying pressure, pushing S&P 500 toward 7,440. Watch whether July 1 opens with continuation or profit-taking reversal as institutional rebalancing concludes."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Mag 7 Loses $2.3 Trillion in Value Amid AI Spending Concern",
+      "analysis": "Investors are questioning when hyperscaler AI capex — running into hundreds of billions — will generate measurable returns, compressing multiples on the largest index constituents. This concentration risk means any further de-rating of Meta, Alphabet, Microsoft, or Amazon disproportionately drags the S&P 500 and Nasdaq. Watch Q2 earnings calls in mid-July for forward capex guidance and any margin compression signals."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Bitcoin and Crypto Broadly Down ~1.5-1.9% as Risk Appetite Bifurcates",
+      "analysis": "Crypto sold off even as equities rallied, signaling a divergence between traditional risk assets and digital assets that may reflect rotation back into equities and tightening liquidity at quarter-end. The DXY ticking up +0.23% adds mild headwind to crypto prices denominated in USD. Watch Bitcoin's $58,000 support level; a break could accelerate selling toward $54,000."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Oil Set for Steep Monthly Drop — Iran Talks Add Uncertainty",
+      "analysis": "WTI at $70.66 faces supply overhang fears as U.S.-Iran diplomatic talks in Doha raise the prospect of sanctions relief and incremental Iranian barrels hitting the market. Monthly performance for crude remains deeply negative, weighing on energy sector earnings. Watch the outcome of Doha talks and OPEC+ compliance data due early July."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "79-Year-Old Fashion Retailer Closes 136 Stores, Kills a Brand",
+      "analysis": "The closure signals ongoing structural pressure on brick-and-mortar mid-market retail as consumer spending shifts to discount and luxury poles. Market implication is modest — stock likely already pricing distress — but it reinforces the secular short thesis on legacy retail. Watch whether the surviving brand stabilizes comp-store sales or enters a further liquidation spiral."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corp",
+      "direction": "LONG",
+      "thesis": "Despite Mag 7 AI capex jitters, chipmakers remain the direct infrastructure beneficiaries of AI buildout regardless of which hyperscaler wins; NVDA's data center moat is unmatched and a Q2 guide-up is likely. RSI pullback from overbought territory offers a technically cleaner entry with defined risk below the 50-day MA."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust (proxy for gold exposure)",
+      "direction": "LONG",
+      "thesis": "Gold at $4,043/oz reflects persistent de-dollarization demand, central bank buying, and geopolitical risk premium; the breakout above $4,000 is structurally significant and not yet overextended. Real yields are capped by a Fed on hold, keeping the opportunity cost of holding gold low."
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil",
+      "direction": "SHORT",
+      "thesis": "WTI near $70 with potential Iranian supply re-entry creates a deteriorating earnings environment for integrated majors; monthly oil price decline pressures free cash flow and dividend coverage assumptions embedded in current valuations. A break below $105 opens technical downside toward the 200-day MA."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy los mercados cerraron el segundo trimestre del año con una nota muy positiva — el S&P 500 subió +1.18%, el Nasdaq lideró con +2.07%, y los mercados europeos y asiáticos acompañaron el optimismo global. Sin embargo, debajo de esta superficie de color verde, hay señales mixtas importantes: las criptomonedas cayeron, el petróleo sigue bajo presión, y las grandes tecnológicas (el llamado \"Magnificent 7\") perdieron $2.3 billones de dólares en valor por dudas sobre si el gasto masivo en inteligencia artificial realmente generará ganancias.\nLO MÁS IMPORTANTE:\n• Fin de trimestre con rally — los gestores de fondos \"maquillaron\" sus portafolios comprando en el último día del trimestre, lo que inflará artificialmente los números de junio pero puede revertirse mañana.\n• Mag 7 bajo presión por IA — las empresas más grandes del mundo están gastando cientos de miles de millones en inteligencia artificial sin demostrar aún el retorno, lo que asusta a los inversores y es el tema central de julio.\n• Cobre y plata disparados +2%+ — estos metales industriales subiendo fuerte señalan que el mercado espera una aceleración en la construcción de infraestructura eléctrica global (autos eléctricos, centros de datos, redes eléctricas), lo que es una señal económica muy importante.\nCONCEPTO DEL DÍA:\n**Window Dressing** (o \"maquillaje de portafolio\") es cuando los gestores de fondos de inversión compran acciones que han subido mucho justo antes de que termine el trimestre, para que sus informes a clientes muestren que tenían esas acciones ganadoras. Es como si un chef añadiera hierbas frescas a un plato justo antes de sacarlo — el plato es el mismo, pero la presentación mejora. El problema es que estas compras son artificiales y a veces se revierten en los primeros días del nuevo trimestre, creando una pequeña ola de ventas que puede confundir a los inversores novatos.\nPARA MAÑANA:\nEl 1 de julio marca el inicio del tercer trimestre y el mercado mostrará su verdadera dirección sin el apoyo de los flujos de fin de trimestre — observa si el S&P 500 mantiene los 7,400 puntos como soporte y sigue de cerca cualquier comunicado sobre las negociaciones EE.UU.-Irán en Doha, ya que el resultado moverá el precio del petróleo y afectará al sector energético globalmente.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7440.43017578125,
+      "pct_change": 1.1750057250389132
+    },
+    "Nasdaq": {
+      "price": 25820.140625,
+      "pct_change": 2.0654966835827326
+    },
+    "10Y Treasury": {
+      "price": 4.372000217437744,
+      "pct_change": -0.4553729513482809
+    },
+    "DXY": {
+      "price": 101.33799743652344,
+      "pct_change": 0.22549384313675186
+    },
+    "Gold": {
+      "price": 4043.10009765625,
+      "pct_change": 0.5171182799797588
+    },
+    "Bitcoin": {
+      "price": 59235.109375,
+      "pct_change": -1.5019851676715648
+    }
+  }
+}
