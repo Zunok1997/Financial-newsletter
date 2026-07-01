@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-01",
+  "today_theme": "• H2 KICKOFF: Institutional rebalancing drives tech-led opening surge\n• CRITICAL LEVEL: S&P 7,500 — new support or rejection zone decides July tone\n• JOBS RISK: NFP report is today/tomorrow's binary event for rate expectations\n• IRAN WILDCARD: Collapsed talks inject oil supply premium; watch $72 Brent\n• METALS WARNING: Copper + Silver simultaneous drop signals global growth fear",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "S&P 500 Opens H2 at Record Territory, Tech Leads Gains",
+      "analysis": "The S&P 500 crossed 7,499 and Nasdaq surged +1.52% as institutional investors deployed capital at the start of H2 2026, with tech rotation driving the move. This signals portfolio rebalancing inflows and risk-on appetite that typically persist into early July. Watch whether S&P holds 7,500 as new psychological support and whether volume confirms institutional conviction."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Iran-U.S. Talks Collapse, Oil Supply Risk Resurfaces",
+      "analysis": "Iran refused to meet U.S. delegates in Qatar, breaking down diplomatic progress and injecting fresh geopolitical risk into energy markets. WTI fell -0.88% to $68.89 but the real risk is a spike if tensions escalate into sanctions reinforcement or regional conflict. Watch Strait of Hormuz shipping reports and OPEC+ commentary for secondary confirmation of supply disruption risk."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Commodities Complex Under Pressure: Gold, Silver, Copper All Down",
+      "analysis": "Gold -0.42%, Silver -1.57%, and Copper -1.49% fell simultaneously, signaling either dollar strength concerns or a growth deceleration signal from industrial metals. Copper's sharp drop is particularly significant as a leading economic indicator for global manufacturing demand. Watch China PMI updates and USD/CNY for directional confirmation on industrial demand."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Jobs Report Looms, Futures Pull Back Pre-Data",
+      "analysis": "Markets are pricing in caution ahead of a key U.S. jobs report, with Dow futures pulling back and VIX rising +1.76% despite a neutral reading. A strong print could push yields higher and pressure rate-sensitive growth stocks, while a weak print revives Fed cut expectations. Watch NFP consensus vs. actual and the immediate 10Y Treasury yield reaction."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "German Retail Sales +1.1% in May, European Consumer Shows Resilience",
+      "analysis": "Germany's retail sales beat adds evidence that European consumer spending is holding despite ECB tightening residue, supporting the euro-area recovery narrative. DAX gained +0.28% in response, though CAC and FTSE lagged, suggesting selectivity in European exposure. Watch upcoming Eurozone CPI and ECB speakers for policy path implications."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "QQQ",
+      "company": "Invesco Nasdaq-100 ETF",
+      "direction": "LONG",
+      "thesis": "Nasdaq's +1.52% H2 opening surge confirms tech leadership with institutional rebalancing flows; momentum and breadth favor continuation into earnings season. Fisher growth framework supports holding tech compounders through macro noise."
+    },
+    {
+      "ticker": "BE",
+      "company": "Bloom Energy",
+      "direction": "LONG",
+      "thesis": "Bloom Energy surged on news flow and fits Lynch's \"buy what you know\" energy transition theme as AI data center power demand drives distributed energy adoption. Watch for institutional accumulation and clean energy policy tailwinds reinforcing the move."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "SHORT",
+      "thesis": "Iran talks collapse is near-term supportive for oil, but WTI at $68.89 signals structural demand softness; Soros's reflexivity suggests overshoot risk to downside as macro slowdown narratives build. Short offers hedge against energy sector rotation out of commodities."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMarkets kicked off the second half of 2026 with a tech-driven rally — the Nasdaq surged +1.52% and the S&P 500 touched 7,499 — but the enthusiasm is being tempered by a critical jobs report coming up and geopolitical noise from the Iran situation. Think of today like the first day back after a long vacation: everyone's energized, but there's a big test sitting on the desk that could change the mood quickly.\nLO MÁS IMPORTANTE:\n• Jobs Report (NFP) — This is the single biggest event of the week because it tells the Fed whether to cut rates or hold, which directly affects stock and bond prices.\n• Iran-U.S. Talks Collapse — Oil supply risk jumped back onto the radar; energy prices could spike suddenly if tensions escalate, affecting everything from airline stocks to inflation.\n• Copper & Silver Both Dropped Sharply — Industrial metals falling together is Wall Street's version of a \"check engine light\" — it often warns of slowing global economic growth before it shows up in headlines.\nCONCEPTO DEL DÍA:\n**H2 Rebalancing** — At the start of every new half-year, large funds like pension plans and mutual funds automatically buy or sell assets to get back to their target allocations. Think of it like tidying your room: if tech stocks grew so much that they now take up 40% of your portfolio when you wanted 30%, you sell some tech and buy other things. This mechanical buying and selling can create exaggerated moves in the first days of July that don't always reflect real fundamental news — so be careful not to chase momentum blindly this week.\nPARA MAÑANA:\nThe NFP jobs report is the dominant event to watch in the next 24 hours — a number above 200K with rising wages would likely push Treasury yields higher and pressure tech stocks, while a miss below 150K would revive Fed rate-cut hopes and potentially push markets to new highs. Also keep one eye on any Iran-related headlines out of Qatar, as an unexpected diplomatic development in either direction could move oil prices 3-5% overnight.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7499.35986328125,
+      "pct_change": 0.7920198981480575
+    },
+    "Nasdaq": {
+      "price": 26213.720703125,
+      "pct_change": 1.5243142314411775
+    },
+    "10Y Treasury": {
+      "price": 4.372000217437744,
+      "pct_change": -0.4553729513482809
+    },
+    "DXY": {
+      "price": 101.3219985961914,
+      "pct_change": 0.13044386955281298
+    },
+    "Gold": {
+      "price": 4005.89990234375,
+      "pct_change": -0.4225807356055706
+    },
+    "Bitcoin": {
+      "price": 58563.76953125,
+      "pct_change": 0.008384992983822101
+    }
+  }
+}
