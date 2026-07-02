@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-02",
+  "today_theme": "• AI GOVERNANCE INFLECTION: OpenAI-Trump stake deal reshapes DC-tech relationship permanently.\n• KEY LEVEL: S&P 7,500 — psychological resistance; break holds or rejects next leg.\n• YEN WATCH: USD/JPY 160 — carry trade unwind risk if breached sharply.\n• PAYROLLS FRIDAY: 115K consensus; World Cup distorts; real signal is unemployment rate.\n• DOLLAR WEAKNESS: DXY sub-101 is the macro pivot powering gold, silver, and EM trades.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "S&P 500 & Nasdaq Post Record First-Half on AI Boom",
+      "analysis": "Major indices closed H1 2026 at all-time highs driven by relentless AI-infrastructure spending and mega-cap tech earnings beats. This confirms the secular AI capital expenditure cycle remains intact and supports continued multiple expansion for software and semiconductor names. Watch whether Q2 earnings guidance maintains the AI revenue trajectory or shows first signs of hyperscaler spending fatigue."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "OpenAI Offers 5% Stake to Trump Administration",
+      "analysis": "OpenAI's proposal to grant the U.S. government a 5% ownership stake signals a strategic détente that could defuse regulatory pressure and accelerate federal AI procurement contracts. Markets should interpret this as a competitive moat expansion for OpenAI's ecosystem partners and a policy tailwind for the broader AI sector. Watch Microsoft (MSFT) and NVIDIA (NVDA) as primary beneficiaries of reduced regulatory overhang and potential government AI deployment mandates."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Nikkei 225 Drops 2.47% Amid USD/JPY Volatility",
+      "analysis": "The yen strengthened sharply (-0.78% vs USD) to 161.35, squeezing Japanese exporters and sparking the largest single-day Nikkei selloff in recent weeks. A stronger yen erodes overseas earnings for Toyota, Sony, and similar export-dependent giants, threatening consensus earnings revisions for Q2. Watch Bank of Japan policy signals and whether USD/JPY tests the 160 psychological support level that could amplify further equity pressure."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI Crude Falls 1.39% as Indian Russian Oil Flows Normalize",
+      "analysis": "India's continued absorption of discounted Russian crude outlives the Hormuz supply shock, reinforcing global oil oversupply dynamics and keeping energy prices structurally capped. WTI at $67.63 pressures U.S. shale producers' free cash flow assumptions and threatens dividend sustainability for high-yield E&P names. Watch OPEC+ compliance data and whether WTI breaks below $65 support, which would trigger energy sector earnings downgrades."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "June Nonfarm Payrolls Projected +115K with World Cup Distortion",
+      "analysis": "Goldman Sachs estimates the FIFA World Cup temporarily boosted June employment by ~40,000 jobs, masking underlying labor market softness in the 75,000 organic jobs range. This creates a headline-beat risk that could be misleading, causing the Fed to misread labor resilience while actual momentum decelerates. Watch core payrolls ex-hospitality and the unemployment rate; a 4.2%+ print would reignite September rate-cut expectations and steepen the yield curve."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corp",
+      "direction": "LONG",
+      "thesis": "AI infrastructure buildout is structurally accelerating and OpenAI's government stake deal expands the federal procurement pipeline directly benefiting NVDA's H100/H200 data center demand; valuation remains stretched but growth more than compensates at this cycle stage."
+    },
+    {
+      "ticker": "SLV",
+      "company": "iShares Silver Trust (via AG)",
+      "direction": "LONG",
+      "thesis": "Silver at $60.30/oz benefits from dual industrial demand (solar panels, EVs) and monetary safe-haven flows as DXY softens below 101.50; the gold/silver ratio remains historically elevated suggesting silver is the relative value play in precious metals."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil Corp",
+      "direction": "SHORT",
+      "thesis": "WTI crude at $67.63 and structurally oversupplied global oil market driven by sustained Indian-Russian flows compress refining and upstream margins, threatening consensus FY2026 EPS estimates of ~$8.50/share; technically XOM failed to reclaim its 200-day MA on the last bounce."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMarkets traded with mild caution on Thursday July 2nd, with U.S. equities giving back a sliver of their record first-half gains while global markets sent mixed signals — European stocks rose, the Nikkei fell sharply, and crypto staged a quiet comeback. The two dominant themes of the day were the AI governance breakthrough (OpenAI's government stake proposal) and the currency market warning signal from a rapidly strengthening Japanese yen. Investors are positioning carefully ahead of Friday's June jobs report, which will be the next major piece of information the Federal Reserve uses to decide whether to cut interest rates later this year.\nLO MÁS IMPORTANTE:\n• OpenAI's 5% government stake proposal — this could be the most important AI policy moment of 2026, opening federal contracts and reducing regulation risk for the entire tech sector.\n• Nikkei dropped 2.47% on yen strength — this matters because trillions of dollars in global trades are funded by borrowing in yen; if the yen keeps strengthening, those trades unwind and create volatility everywhere.\n• WTI crude fell to $67.63 — cheaper oil sounds good for consumers, but it signals global demand worry and puts real pressure on energy company profits and U.S. shale producers.\nCONCEPTO DEL DÍA:\nToday's concept is the **Carry Trade**. A carry trade is when investors borrow money in a low-interest currency (like the Japanese yen at near-zero rates) and invest it in higher-yielding assets elsewhere — pocketing the difference. Think of it like borrowing from a friend who charges you 0% interest and putting that money in a savings account paying 4.5%. The danger: if the yen suddenly strengthens (as it did today, -0.78%), the cost of repaying that loan in yen terms jumps, forcing investors to sell their investments quickly — which is why a strong yen can cause market selloffs thousands of miles away.\nPARA MAÑANA:\nThe June Nonfarm Payrolls report on Friday morning is the single most important event of the next 24 hours — a headline beat distorted by World Cup hiring could mislead on labor market health, so focus on the unemployment rate and whether it moves above 4.2%, which would be the clearest signal yet that the Fed will cut rates in September. Also watch for any official White House response to OpenAI's stake proposal, which could move AI stocks significantly at the open.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7483.22998046875,
+      "pct_change": -0.21508346187620572
+    },
+    "Nasdaq": {
+      "price": 26040.029296875,
+      "pct_change": -0.6625973024473929
+    },
+    "10Y Treasury": {
+      "price": 4.372000217437744,
+      "pct_change": -0.4553729513482809
+    },
+    "DXY": {
+      "price": 101.0780029296875,
+      "pct_change": -0.30771916543949723
+    },
+    "Gold": {
+      "price": 4076.300048828125,
+      "pct_change": 0.1966423298179396
+    },
+    "Bitcoin": {
+      "price": 61192.1015625,
+      "pct_change": 1.9804488807406724
+    }
+  }
+}
