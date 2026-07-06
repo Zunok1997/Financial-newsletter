@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-06",
+  "today_theme": "• ROTATION: Value beats growth — Dow +1.14% vs Nasdaq -0.80% tells the story\n• METALS BREAKOUT: Gold $4,167, silver +3.22%, copper +1.78% — rare triple surge\n• KEY LEVEL: S&P 500 at 7,483 — flat today but sitting at all-time high territory\n• GEOPOLITICAL RISK: Russia-Ukraine + Trump diplomacy = binary volatility event\n• YIELD WATCH: 30Y at 4.985% — a close above 5.0% changes everything for equities",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Gold & Silver Surge Signal Safe-Haven + Inflation Rotation",
+      "analysis": "Gold hit $4,167 (+1.32%) and silver surged +3.22%, alongside copper +1.78%, suggesting simultaneous safe-haven demand and industrial reflation bets. This broad metals rally may reflect institutional hedging against geopolitical risk (Russia-Ukraine escalation) while also pricing in dollar weakness despite DXY edging up. Watch whether the metals rally broadens into mining equities (GDX, SLV) and whether copper sustains above $6.20 as a global growth signal."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Geopolitical Escalation: Russia Barrage on Kyiv + Trump Diplomacy Uncertainty",
+      "analysis": "Trump reportedly spoke with both Putin and Zelenskyy while Ukraine struck Russian targets and Moscow launched new attacks on Kyiv, creating a binary risk event. Markets are pricing uncertainty rather than resolution — the 10Y yield rising +0.22% and gold surging simultaneously suggest a \"fear premium\" is building. Watch for any ceasefire signals or breakdown in talks as a major volatility catalyst across energy, defense, and European equities."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Dow Jones +1.14% Divergence Points to Rotation into Value/Industrials",
+      "analysis": "The Dow outperforming Nasdaq (-0.80%) by nearly 200bps on the same day signals classic rotation from growth into value and cyclicals. This divergence, consistent with rising 10Y yields (+4.485%), favors Buffett-style value names and industrials over rate-sensitive tech. Watch whether this rotation has legs as earnings season approaches — sector ETFs like XLI and XLF are key tells."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "USD/JPY at 162.31 — Yen Weakness Persists, BoJ Policy Watch Intensifies",
+      "analysis": "USD/JPY surged to 162.31 (+0.53%), approaching multi-decade stress levels for the yen and raising intervention risk from the Bank of Japan. This extreme weakness boosts Japanese exporters (Nikkei flat at 69,737) but pressures import costs and inflation in Japan. Watch for any verbal or actual BoJ intervention, which could trigger a violent yen reversal and unwind carry trades globally."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Crypto Broad Selloff — Bitcoin -1.20%, Altcoins Underperform",
+      "analysis": "Bitcoin fell to $62,782 with Ethereum, Solana, XRP, and BNB all declining 0.73%-1.60%, suggesting broad risk-off sentiment within the crypto complex. With VIX ticking up +1.30% and gold rallying, capital appears to be rotating from speculative assets toward hard assets and safe havens. Watch the $60,000 BTC support level — a break would signal deeper deleveraging and potential spillover into high-beta tech equities."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust",
+      "direction": "LONG",
+      "thesis": "Gold is breaking out on dual safe-haven + inflation demand with geopolitical catalysts intact and real yields still suppressed; the Dalio all-weather thesis supports gold as a portfolio anchor at these macro conditions."
+    },
+    {
+      "ticker": "SLV",
+      "company": "iShares Silver Trust",
+      "direction": "LONG",
+      "thesis": "Silver's +3.22% surge combines industrial demand (copper correlated) with monetary metal characteristics, offering a leveraged play on the metals complex breakout; Fisher growth + Dalio macro confirms the setup."
+    },
+    {
+      "ticker": "XLI",
+      "company": "Industrial Select Sector SPDR",
+      "direction": "LONG",
+      "thesis": "Dow +1.14% vs Nasdaq -0.80% confirms institutional rotation into industrials and cyclicals; Lynch's GARP framework favors industrials with earnings tailwinds as infrastructure spending remains elevated."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market told two different stories at once: the Dow rallied over 1% while the Nasdaq fell, signaling that big money is rotating from expensive tech stocks into more traditional, value-oriented companies. Meanwhile, gold, silver, and copper all surged simultaneously — a rare event that reflects both fear (Russia-Ukraine escalation) and confidence in global industrial growth.\nLO MÁS IMPORTANTE:\n• Metals triple surge (gold +1.32%, silver +3.22%, copper +1.78%) — this rarely happens and signals major institutional repositioning that could last weeks, not days.\n• Dow vs Nasdaq divergence (+1.14% vs -0.80%) — this is the market telling you \"growth is expensive, value is safer right now,\" and it often marks the beginning of multi-week rotations.\n• Russia-Ukraine-Trump diplomacy — a single tweet or press conference could move markets 1-2% in either direction; this is live binary risk that demands you manage position sizes carefully today.\nCONCEPTO DEL DÍA:\n**Sector Rotation** is when investors move money out of one group of stocks (like tech) and into another (like industrials or commodities) — not because they're leaving the market, but because they're repositioning for the next phase of the economic cycle. Think of it like a restaurant shifting its menu from summer salads to hearty fall stews — the customers don't leave, they just order differently. Today's Dow outperforming Nasdaq is a textbook example: rising interest rates make future tech profits worth less today, so money flows toward companies that earn profits right now.\nPARA MAÑANA:\nWatch for any geopolitical headlines from the Trump-Putin-Zelenskyy talks overnight and whether the 30-year Treasury yield breaks above the critical 5.0% level — these two events alone could define whether today's rotation accelerates or reverses before Wednesday's early earnings reports begin hitting.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7483.240234375,
+      "pct_change": 0.00013702513856667139
+    },
+    "Nasdaq": {
+      "price": 25832.669921875,
+      "pct_change": -0.7963100679955253
+    },
+    "10Y Treasury": {
+      "price": 4.485000133514404,
+      "pct_change": 0.22346880659111507
+    },
+    "DXY": {
+      "price": 101.0780029296875,
+      "pct_change": 0.21614348405383935
+    },
+    "Gold": {
+      "price": 4166.7998046875,
+      "pct_change": 1.3154279866220417
+    },
+    "Bitcoin": {
+      "price": 62782.6015625,
+      "pct_change": -1.2042592390654243
+    }
+  }
+}
