@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-07",
+  "today_theme": "• GEOPOLITICAL PREMIUM: Oil supply shock from two simultaneous conflict zones reprices energy risk.\n• KEY LEVEL: Brent $75 and 30Y Treasury 5.00% — both are line-in-the-sand levels.\n• DIVERGENCE ALERT: U.S. equities up while Nikkei -2.12% and crypto bleed signals fragility.\n• CHINA DECOUPLING: AI model restrictions accelerate bifurcation of global tech ecosystems permanently.\n• RISK EVENT: NATO summit tomorrow — defense, energy, and FX volatility expected to spike.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Oil Surges on Iranian Attack in Strait of Hormuz",
+      "analysis": "Iran reportedly attacked commercial ships in the Strait of Hormuz, a critical chokepoint for global oil flows, pushing Brent +1.26% and WTI +1.11%. This geopolitical supply shock benefits energy producers and hedgers while pressuring transport and manufacturing margins. Watch for confirmation of damage, U.S./NATO response posture, and whether Brent breaks the $75 resistance level."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Nikkei Drops 2.12% as USD/JPY Hits 161.94",
+      "analysis": "Japan's equity market sold off sharply as the yen continued weakening past 161, raising fears of BOJ intervention and import-cost inflation squeezing corporate margins. A weak yen historically triggers capital outflow concerns from Japanese institutions and increases pressure on the BOJ to act. Watch for any BOJ verbal intervention or emergency rate signals in the next 24 hours."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Beijing Eyes Curbs on Overseas Access to Chinese AI Models",
+      "analysis": "China is considering restricting foreign access to its top domestic AI models, escalating tech decoupling and threatening revenue for Chinese AI firms with global ambitions. This move complicates U.S.-China tech relations and could accelerate parallel AI ecosystems, adding uncertainty to multinational tech valuations. Watch for MOFCOM or Cyberspace Administration guidance and retaliatory U.S. export control responses."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Best Buy and Apple Flag Consumer Price Shock Ahead",
+      "analysis": "Both retailers are signaling meaningful price increases for consumer electronics, likely driven by tariffs and supply chain repricing, threatening to compress consumer discretionary spending. This is a stagflationary signal — higher prices without income growth — that could hurt retail margins and dampen Q3 guidance across consumer tech. Watch same-store sales trends and consumer confidence data for demand destruction signals."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Ukrainian Drones Strike Russia's Largest Oil Refinery",
+      "analysis": "Ukraine's drones struck a major Russian oil refinery, escalating long-range strike capabilities ahead of a NATO summit and adding a new dimension to energy supply risk from Eastern Europe. Markets are weighing this as incrementally bearish for European energy security but bullish for oil prices globally. Watch NATO summit communiqué language, Russian production impact reports, and European natural gas prices."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "Strait of Hormuz attack and Ukrainian refinery strike create dual geopolitical supply shock boosting oil prices; XOM's integrated model and strong FCF generation make it the highest-quality beneficiary."
+    },
+    {
+      "ticker": "USO",
+      "company": "U.S. Oil Fund ETF",
+      "direction": "LONG",
+      "thesis": "WTI momentum is building on real supply disruption narrative, not just speculation; a break above $72 on Brent confirms the bullish trend continuation."
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corp",
+      "direction": "LONG",
+      "thesis": "AI data center demand remains secular and accelerating despite China restrictions; Nasdaq's +1.12% leadership suggests tech risk appetite is healthy and NVDA leads every meaningful AI infrastructure buildout."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday, July 7, 2026, U.S. markets traded broadly higher — led by Nasdaq's +1.12% gain on continued AI enthusiasm — but beneath the surface, serious geopolitical risks are building that the market seems to be partially ignoring. Two major energy supply disruption events happened simultaneously: Iran attacked ships near the Strait of Hormuz, and Ukrainian drones struck Russia's biggest oil refinery, both pushing oil prices meaningfully higher. The VIX at 15.94 tells us investors are relatively calm, but tomorrow's NATO summit and 30-year Treasury yields approaching the dangerous 5% level suggest that complacency may be misplaced.\nLO MÁS IMPORTANTE:\n• Iran attacked ships in the Strait of Hormuz — this is the world's most important oil shipping lane, and any sustained blockage could spike energy prices globally and hurt economic growth.\n• Beijing is considering blocking foreign access to Chinese AI models — this accelerates the split of the world into two separate technology ecosystems, which has lasting consequences for global trade and tech investing.\n• The 30-year U.S. Treasury yield is approaching 5.00% — this level previously caused stock market turbulence because it means long-term borrowing becomes very expensive for companies, governments, and homebuyers.\nCONCEPTO DEL DÍA:\nToday's concept is **Bear Steepening** — this happens when long-term interest rates rise faster than short-term rates, widening the gap between them. Think of it like a seesaw tilting: the long end (30Y at 4.985%) is rising much faster than the short end (3M at 3.668%). This pattern often signals that investors are worried about future inflation or too much government borrowing — and historically, it has been a warning sign that precedes market stress, not a sign of healthy economic growth.\nPARA MAÑANA:\nKeep your eyes on the NATO summit communiqué — any strong language on Ukraine weapons support or Iran could move energy, defense, and currency markets sharply. Also watch whether the 30-year Treasury yield crosses 5.00% and whether Bitcoin holds the $62,000 support level, as both would be early warning signals of broader risk appetite deterioration.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7537.43017578125,
+      "pct_change": 0.7241507650298753
+    },
+    "Nasdaq": {
+      "price": 26121.16015625,
+      "pct_change": 1.116765070151373
+    },
+    "10Y Treasury": {
+      "price": 4.485000133514404,
+      "pct_change": 0.22346880659111507
+    },
+    "DXY": {
+      "price": 100.94599914550781,
+      "pct_change": 0.09519154470919827
+    },
+    "Gold": {
+      "price": 4146.2001953125,
+      "pct_change": -0.21419224891285124
+    },
+    "Bitcoin": {
+      "price": 63125.44921875,
+      "pct_change": -1.3588033345370403
+    }
+  }
+}
