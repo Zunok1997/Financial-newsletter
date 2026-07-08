@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-08",
+  "today_theme": "• IRAN SHOCK: Ceasefire collapse is the session's singular macro driver\n• KEY LEVEL: Brent $80 — breach triggers second-wave energy inflation repricing\n• DIVERGENCE: Hang Seng +3% vs. global -2% — China decoupling trade is live\n• FED RISK: Minutes today could reveal Warsh's guidance curtailment intentions\n• WATCH: VIX 20 — if breached, algo de-risking accelerates across all assets",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Trump declares Iran ceasefire 'over' as Middle East strikes escalate",
+      "analysis": "Trump announced the U.S.-Iran ceasefire has ended following a new round of strikes, injecting acute geopolitical risk into markets. Oil surged 5%+ on supply disruption fears while safe-haven gold paradoxically fell on dollar dynamics, suggesting forced de-risking. Watch Strait of Hormuz shipping data, OPEC+ emergency statements, and any U.S. military deployment news."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Apple commits $30B+ to Broadcom for U.S. chipmaking push",
+      "analysis": "Apple signed its largest-ever American manufacturing deal with Broadcom, reinforcing the domestic semiconductor supply chain narrative. This validates the onshoring trade, benefits Broadcom's revenue visibility, and aligns with reshoring policy tailwinds. Watch AVGO guidance revisions, peer chip names like Qualcomm and Texas Instruments, and any supply chain read-throughs."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Bank of America warns U.S. now has 'two economies'",
+      "analysis": "BofA's bifurcation thesis signals a K-shaped recovery hardening, with affluent consumers still spending while lower-income cohorts retrench. This pressures consumer discretionary broadly and retail names exposed to middle/lower income demographics. Watch upcoming consumer confidence data, credit card delinquency trends, and discount retailer comps."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Fed minutes due amid debate over Warsh curtailing disclosures",
+      "analysis": "Markets await FOMC minutes while speculation grows that Fed Chair Warsh may reduce forward guidance transparency, increasing policy uncertainty. Less Fed communication historically widens rate volatility and compresses equity multiples at the margin. Watch for any hints on the pace of cuts, dot-plot revisions, and any Warsh commentary post-release."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "SambaNova AI chip startup valued at $11B in $1B funding round",
+      "analysis": "A fresh $1B raise at an $11B valuation signals private capital continues to aggressively fund AI infrastructure alternatives to Nvidia. This supports the broader AI capex supercycle thesis and could pressure NVDA's moat narrative while lifting picks-and-shovels plays. Watch SMCI, DELL, and cloud hyperscaler capex guidance for read-through demand signals."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "AVGO",
+      "company": "Broadcom",
+      "direction": "LONG",
+      "thesis": "Apple's $30B chipmaking commitment provides multi-year revenue visibility and validates Broadcom's custom ASIC moat in AI infrastructure. Fisher growth framework supports owning best-in-class suppliers with durable customer lock-in at a reasonable growth-adjusted multiple."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "Iran ceasefire collapse and WTI surging 5% in a single session create a direct earnings catalyst for integrated oil majors with Permian leverage. Dalio's macro framework favors commodity producers during geopolitical supply shocks with real asset tailwinds."
+    },
+    {
+      "ticker": "SOXS",
+      "company": "Direxion Semi Bear 3X",
+      "direction": "SHORT (HEDGE)",
+      "thesis": "Nasdaq fell 1.16% and tech sentiment is rattled by CoreWeave weakness; a 3x inverse semi ETF provides tactical hedge against further AI/tech multiple compression. Marks' risk management principle: protect capital when VIX spikes 12% intraday and geopolitical tail risk is unpriced."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's session was dominated by one word: geopolitics. President Trump declared the U.S.-Iran ceasefire \"over,\" sending oil prices surging over 5% while global equity markets sold off broadly — think of it as the market repricing risk across the board when a major uncertainty suddenly gets much bigger. The Nasdaq bore the brunt of the selling (-1.16%) while the Hang Seng was the only major index to rise (+2.99%), signaling that China is beginning to trade on its own story rather than following the global mood.\nLO MÁS IMPORTANTE:\n• Iran ceasefire collapse — oil spiking 5% means higher energy costs for everything, from airline tickets to groceries, reigniting inflation fears just when the Fed wanted to cut rates.\n• Apple's $30B Broadcom chip deal — this is the largest American manufacturing commitment Apple has ever made, and it tells you that the \"make chips in America\" trend has real money behind it, not just political speeches.\n• Fed minutes release today — if new Fed Chair Warsh signals he wants to communicate less with markets, investors lose the \"map\" they've used for years to navigate interest rate decisions, and that uncertainty alone can push stocks lower.\nCONCEPTO DEL DÍA:\nToday's concept is the **Geopolitical Risk Premium** — this is the extra return investors demand for holding assets when war, political instability, or sanctions create unpredictable outcomes. Think of it like buying a house on a street where a neighbor might build a factory: you'd want to pay less for that house because of the uncertainty, and you'd demand a higher return to compensate for the risk. Today, that premium spiked in oil and bond markets the moment Trump's ceasefire announcement hit the wires.\nPARA MAÑANA:\nWatch two things closely in the next 24-48 hours: first, how oil prices behave at the $78-80 Brent level — if they push through $80, expect a second wave of inflation repricing that hits bonds, growth stocks, and consumer spending expectations simultaneously. Second, read the Fed minutes carefully for any sign that the central bank is becoming less communicative, because a quieter Fed combined with a louder Middle East is exactly the combination that historically produces the most volatile market weeks.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7503.85009765625,
+      "pct_change": -0.4455109678215951
+    },
+    "Nasdaq": {
+      "price": 25818.689453125,
+      "pct_change": -1.1579527912072003
+    },
+    "10Y Treasury": {
+      "price": 4.5289998054504395,
+      "pct_change": 0.9810405936723445
+    },
+    "DXY": {
+      "price": 101.11599731445312,
+      "pct_change": -0.02373153583167718
+    },
+    "Gold": {
+      "price": 4064.0,
+      "pct_change": -1.961252708321996
+    },
+    "Bitcoin": {
+      "price": 62130.859375,
+      "pct_change": -1.8429434021554871
+    }
+  }
+}
