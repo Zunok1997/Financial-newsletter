@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-09",
+  "today_theme": "• RATES SHOCK: 10Y yield +0.88% is today's dominant macro disruptor.\n• REAL ASSETS: Gold, silver, copper surging — inflation/geopolitical repricing underway.\n• CONSUMER CRACKS: PepsiCo miss confirms mid-market spending contraction accelerating.\n• KEY LEVEL: 10Y yield 4.60% — breach triggers equity multiple compression cascade.\n• RISK EVENT: Iran/U.S. tensions unresolved — weekend gap risk in oil and defense names.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Gold & Silver Surge as Safe-Haven Demand Accelerates",
+      "analysis": "Precious metals are rallying sharply — gold +0.92% to $4,108 and silver +1.79% to $59.20 — amid Iran geopolitical uncertainty and elevated 10Y yields, suggesting institutional rotation into hard assets. This signals growing macro stress hedging even as equities hold near all-time highs, a classic Dalio \"all-weather\" defensive posture. Watch whether gold breaks and holds above $4,150 as confirmation of a new leg higher."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Copper Jumps +2.54% Signaling Industrial Demand Resilience",
+      "analysis": "Copper's sharp move to $6.21 reflects renewed confidence in global manufacturing and infrastructure spending, potentially front-running a commodity supercycle leg. Historically copper leads equity cyclicals and EM outperformance by 4-6 weeks. Watch Chinese PMI data and BHP/FCX price action for confirmation of sustained demand."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "10Y Treasury Yield Spikes +0.88% to 4.569%",
+      "analysis": "A near-1% single-day move in the 10Y is a significant repricing event, compressing equity multiples and signaling either inflation re-acceleration fears or bond supply indigestion. Growth and long-duration tech stocks face immediate valuation headwinds as the risk-free rate climbs. Watch the 4.60% level — a sustained break likely triggers equity sector rotation away from Nasdaq."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "PepsiCo Earnings Miss Flags North American Consumer Stress",
+      "analysis": "PepsiCo's miss on weaker North American volumes confirms what discount retailers have been warning: the mid-to-lower income consumer is retrenching meaningfully. This has broad read-through implications for staples, restaurants, and consumer discretionary — sectors that assumed resilient spending. Watch Coca-Cola, Mondelez, and McDonald's earnings for corroboration of a broader consumer slowdown."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Trump-Iran Tensions Remain Unresolved After U.S. Strikes",
+      "analysis": "Trump's admission that war may or may not be \"back on\" with Iran introduces a binary geopolitical risk premium into energy markets, explaining part of the WTI/Brent bid today. Oil at $74/$78 is not yet pricing full conflict risk, but options skew is likely widening. Watch Strait of Hormuz shipping data and OPEC+ statements for escalation signals."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "T",
+      "company": "AT&T",
+      "direction": "LONG",
+      "thesis": "AT&T gains direct market share from a bankrupt rival's collapse, immediately expanding its subscriber base without incremental capex — a classic Lynch \"cockroach\" consumer franchise inflection. Entry on any morning dip below $28.50 with a 12-month target on 8x forward EBITDA."
+    },
+    {
+      "ticker": "GDX",
+      "company": "VanEck Gold Miners ETF",
+      "direction": "LONG",
+      "thesis": "Jefferies and Barclays both backing major gold miners as gold holds above $4,100 — operating leverage means miners amplify gold's move 2-3x. Soros reflexivity in play: rising gold price improves miner balance sheets, attracting more capital, further lifting prices."
+    },
+    {
+      "ticker": "FCX",
+      "company": "Freeport-McMoRan",
+      "direction": "LONG",
+      "thesis": "Copper's +2.54% surge today aligns with Freeport's operational leverage to copper prices, and Fisher's focus on companies with dominant positions in scarce materials. A sustained copper move toward $6.50 justifies a 20%+ move in FCX shares."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market sent a complex but important message: while stock indexes look mostly calm on the surface, underneath there is significant stress building. Bond yields jumped sharply (the 10-year Treasury rose nearly 1% in one day), gold and commodities surged, and a major consumer company — PepsiCo — missed earnings because Americans are spending less. This is a market quietly preparing for something bigger.\nLO MÁS IMPORTANTE:\n• 10-Year Treasury yield spiked to 4.57% — higher bond yields make stocks more expensive relative to \"safe\" returns, which can trigger selloffs in growth stocks.\n• PepsiCo missed earnings on weak North American sales — this is a warning sign that everyday consumers are under real financial pressure, which affects the whole economy.\n• Gold hit $4,108 and copper surged +2.54% — when both precious AND industrial metals rally together, it usually means investors are pricing in inflation, uncertainty, or both simultaneously.\nCONCEPTO DEL DÍA:\n**Yield and Valuation** — When bond yields rise, it's like raising the \"minimum acceptable return\" bar for all investments. If a safe government bond now pays 4.57%, why would you accept the same return from a risky stock? You wouldn't — so investors demand stocks be cheaper, which pushes prices down. Think of it like this: if your savings account suddenly offered 4.5% interest, you'd think twice before putting money in something riskier for only a slightly better return.\nPARA MAÑANA:\nWatch whether the 10-year Treasury yield breaks above 4.60% — that specific level could trigger a broader stock market selloff, especially in tech. Also monitor any new developments in U.S.-Iran relations over the weekend, as geopolitical surprises often move oil markets significantly when regular trading is closed.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7482.7099609375,
+      "pct_change": -0.2817238676629868
+    },
+    "Nasdaq": {
+      "price": 25870.650390625,
+      "pct_change": 0.20125319526514865
+    },
+    "10Y Treasury": {
+      "price": 4.568999767303467,
+      "pct_change": 0.8831963694255244
+    },
+    "DXY": {
+      "price": 100.99199676513672,
+      "pct_change": -0.057403547619274124
+    },
+    "Gold": {
+      "price": 4108.39990234375,
+      "pct_change": 0.9211722444565642
+    },
+    "Bitcoin": {
+      "price": 62738.71875,
+      "pct_change": 0.7728289084303811
+    }
+  }
+}
