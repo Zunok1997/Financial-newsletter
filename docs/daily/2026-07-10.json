@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-10",
+  "today_theme": "• AI MEMORY SUPERCYCLE: SK Hynix debut validates HBM demand as structural, not cyclical.\n• KEY LEVEL: S&P 7,500 — critical support; breach would shift sentiment fast.\n• FED DIVIDE: Dovish dissent in minutes is the macro catalyst driving today's bid.\n• GOLD WARNING: Gold red on weak dollar — crowded positioning unwinding watch.\n• WEEKEND RISK: No major data, but Fed speakers Monday could reset rate expectations.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Fed Minutes Expose Rate Divide — Dovish Faction Gains Visibility",
+      "analysis": "Fed minutes revealed a significant internal split on the rate outlook, suggesting the hawkish consensus is fracturing. Markets interpreted dissenting dovish voices as increasing the probability of a 2026 cut, boosting equities and compressing short-end yields. Watch the next CPI print and Fed speaker commentary for confirmation of a policy pivot signal."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "SK Hynix U.S. Listing Supercharges AI Chip Narrative",
+      "analysis": "The trillion-dollar South Korean memory giant debuting on Nasdaq amplifies investor appetite for AI semiconductor infrastructure plays. Its sevenfold rally signals institutional conviction in HBM memory demand, directly benefiting NVDA, AMD, and the broader chip ecosystem. Watch first-day volume and price action as a sentiment barometer for the AI hardware cycle."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Delta CEO Signals Higher Airfare Is Structural, Not Cyclical",
+      "analysis": "Delta's Q2 beat and CEO's assertion that elevated fares will persist into 2026 suggests airline pricing power has repriced permanently post-pandemic. This is a Lynch-style \"story stock\" moment — consumer behavior change embedded in a mature industry. Watch DAL guidance revisions and whether UAL/AAL confirm the trend when they report."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Gold Retreats Despite Dollar Weakness — Momentum Crack Emerging",
+      "analysis": "Gold falling 0.35% while DXY slips 0.10% breaks the classic inverse correlation, a technical warning sign for bulls. At $4,116, gold is historically extended and profit-taking pressure may accelerate if real yields stabilize. Watch the 10Y real yield and whether gold holds the $4,050 support zone next week."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Dangote Refinery Expansion Could Reshape Global Oil Flows",
+      "analysis": "A potential expansion to become the world's largest refinery would structurally shift African crude demand dynamics and reduce Brent premium. Near-term impact is limited, but the geopolitical signal for OPEC+ and European refiners is material. Watch Brent/WTI spread behavior and Nigerian crude export data for early signs of supply rerouting."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "DAL",
+      "company": "Delta Air Lines",
+      "direction": "LONG",
+      "thesis": "Delta's CEO confirmed structural fare elevation and reiterated 2026 profit targets, making this a classic Lynch consumer-trend play with earnings momentum. Strong Q2 results with positive forward guidance justify paying a modest premium to recent range."
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "direction": "LONG",
+      "thesis": "SK Hynix's U.S. listing and HBM memory demand narrative directly validates NVDA's AI accelerator ecosystem; this is a Fisher-style growth compounder with durable competitive moat. Nasdaq's +1.30% outperformance signals institutional rotation back into high-beta tech."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust (as proxy for short via puts)",
+      "direction": "SHORT",
+      "thesis": "Gold breaking inverse DXY correlation while printing a red day on dollar weakness is a Soros-style reflexivity warning — positioning is crowded and the thesis is cracking. Marks' concept of cycle peaks applies: gold at $4,116 embeds maximum optimism."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy fue un día positivo para los mercados, con el Nasdaq liderando las ganancias (+1.30%) impulsado por el entusiasmo en el sector de semiconductores y la inteligencia artificial. El tema central fue una combinación de señales dovish (menos restrictivas) de la Fed y el debut de SK Hynix en Estados Unidos, que validó la narrativa del superciclo de memoria para IA. El oro cayó de forma inusual a pesar de un dólar débil, una señal de alerta técnica que los inversores deben monitorear.\nLO MÁS IMPORTANTE:\n• Minutos de la Fed muestran división interna — esto importa porque un grupo de miembros quiere bajar tasas antes, lo que sería muy positivo para acciones y bonos.\n• SK Hynix debuta en Nasdaq — confirma que la demanda de chips de memoria para IA es real y estructural, no solo especulación.\n• Delta confirma que las tarifas aéreas altas llegaron para quedarse — esto revela que el consumidor americano sigue gastando, lo cual es una señal de salud económica.\nCONCEPTO DEL DÍA:\n**Correlación inversa** es cuando dos activos normalmente se mueven en direcciones opuestas — como el oro y el dólar. Cuando el dólar baja, el oro típicamente sube porque se vuelve más barato para compradores extranjeros. Hoy esa relación se rompió: el dólar bajó pero el oro también bajó, como si dos amigos que siempre discuten de repente estuvieran de acuerdo. Cuando una correlación histórica se rompe, es una señal de alerta que algo inusual está pasando en el mercado.\nPARA MAÑANA:\nEl fin de semana no tiene datos económicos mayores, pero el lunes los mercados estarán muy atentos a cualquier declaración de miembros de la Fed que pueda confirmar o contradecir la lectura dovish de hoy — un solo comentario hawkish (restrictivo) podría revertir el rally de bonos y presionar las acciones de tecnología.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7543.64013671875,
+      "pct_change": 0.8142795337428278
+    },
+    "Nasdaq": {
+      "price": 26206.890625,
+      "pct_change": 1.2996976469398953
+    },
+    "10Y Treasury": {
+      "price": 4.539000034332275,
+      "pct_change": -0.6565930072020261
+    },
+    "DXY": {
+      "price": 100.84300231933594,
+      "pct_change": -0.09609680971289775
+    },
+    "Gold": {
+      "price": 4116.0,
+      "pct_change": -0.3534619016867371
+    },
+    "Bitcoin": {
+      "price": 64349.12890625,
+      "pct_change": 1.8292813340251606
+    }
+  }
+}
