@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-13",
+  "today_theme": "• HORMUZ ESCALATION: U.S.-Iran strikes risk choking 20% of global oil supply\n• KEY LEVEL: 10Y Treasury 4.65% — breach would reprice equity multiples sharply lower\n• AI CAPEX ARMS RACE: Meta $50B + TSMC beat confirm infrastructure supercycle intact\n• VOLATILITY DIVERGENCE: VIX +8.5% while stocks green — hedgers know something bulls ignore\n• RISK EVENT: Watch for overnight Hormuz shipping reports and Iran escalation response within 24–48h",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "U.S.-Iran Military Strikes Escalate, Strait of Hormuz at Risk",
+      "analysis": "The U.S. and Iran exchanged direct military strikes, with Iran hitting American bases across the Gulf region in retaliation, raising the specter of full Hormuz closure. A blocked strait would choke ~20% of global oil supply, sending energy prices sharply higher while pressuring risk assets and supply chains worldwide. Watch crude oil futures, tanker stocks, and defense sector reactions as the situation develops overnight."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "TSMC Posts Stronger-Than-Expected June Sales",
+      "analysis": "Taiwan Semiconductor reported June revenues well above consensus, signaling robust AI chip demand remains intact despite broader semiconductor volatility. This validates capital spending cycles at Nvidia, AMD, and hyperscalers, providing a floor for tech valuations. Watch TSMC ADR (TSM), SOX index reaction, and any guidance commentary about H2 2026 capacity utilization."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Meta's Louisiana Data Center to Hit $50B, 5GW Supercluster",
+      "analysis": "Meta is committing $50 billion to a single hyperscale AI facility, the largest announced data center investment in history, signaling unwavering conviction in AI infrastructure demand. This is a massive tailwind for power utilities, electrical equipment makers, copper suppliers, and AI hardware vendors. Watch Eaton, Vertiv, Quanta Services, and copper futures for derivative plays."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "WTI Crude Surges 3.4% on Hormuz Disruption Fears",
+      "analysis": "Oil's sharp single-day move reflects genuine supply-risk premium re-entering energy markets after months of relative calm. Sustained crude above $75–80 risks reigniting inflation expectations, pressuring the Fed to hold rates higher for longer and compressing equity multiples. Watch 10Y Treasury yields, breakeven inflation rates, and Fed-funds futures repricing."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "VIX Spikes 8.52% Intraday While Spot Market Holds Green",
+      "analysis": "The VIX surging to 16.31 while equities remain modestly positive signals hedging demand is rising even as bulls retain near-term control — a classic divergence warning. This suggests institutional players are buying downside protection into geopolitical uncertainty rather than outright selling positions. Watch whether VIX closes above 17 (near-term caution zone) and VIX term structure inversion between spot and 3M (18.57)."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "TSM",
+      "company": "Taiwan Semiconductor Mfg",
+      "direction": "LONG",
+      "thesis": "TSMC's beat on June sales confirms AI-driven wafer demand is accelerating into H2 2026, making current valuation attractive relative to growth. Fisher growth framework supports holding best-in-class semiconductor franchise with irreplaceable manufacturing moat."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "Hormuz escalation creates a legitimate supply-shock bid for integrated energy majors with diversified production and refining assets. Dalio's all-weather framework favors hard-asset producers during geopolitical inflationary shocks."
+    },
+    {
+      "ticker": "VRT",
+      "company": "Vertiv Holdings",
+      "direction": "LONG",
+      "thesis": "Meta's $50B data center announcement is a direct demand signal for Vertiv's power management and thermal cooling systems used in hyperscale facilities. Lynch's \"invest in what you know\" applied to unavoidable AI infrastructure picks — Vertiv has no credible substitute at scale."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market delivered a split personality: U.S. stocks crept higher (+0.29–0.42%) powered by AI optimism from TSMC's strong sales and Meta's historic $50 billion data center commitment, while simultaneously, a geopolitical storm was brewing as the U.S. and Iran exchanged direct military strikes threatening to block the Strait of Hormuz — the world's most important oil chokepoint. The result was crude oil jumping over 3%, the VIX spiking 8.5%, and 10-year Treasury yields rising, creating a warning signal that markets may be underpricing the geopolitical risk hiding underneath the calm surface.\nLO MÁS IMPORTANTE:\n• U.S.-Iran military exchange — if the Strait of Hormuz is disrupted, oil could spike $10–20/barrel overnight, reigniting inflation and forcing the Fed to keep rates high longer, which hurts stocks and bonds simultaneously\n• TSMC June sales beat — this confirms the AI chip demand cycle is real and accelerating, providing fundamental justification for elevated tech valuations heading into H2 2026 earnings season\n• Meta's $50 billion data center — the largest single infrastructure commitment in corporate history signals that AI is not a bubble story but a multi-decade capital investment theme, benefiting power, copper, and networking companies for years\nCONCEPTO DEL DÍA:\nToday's concept is the **VIX Divergence** — when the stock market goes up but the VIX (the \"fear gauge\") also rises sharply, it means professional investors are quietly buying insurance (put options) even while prices climb. Think of it like a neighborhood where home prices are rising, but homeowners are suddenly buying more fire insurance — they're optimistic on value but worried about a specific risk they can see coming. Today's 8.5% VIX spike while stocks gained is a classic signal that sophisticated money is hedging, not celebrating.\nPARA MAÑANA:\nThe most critical watch in the next 24–48 hours is any news about Hormuz shipping disruption — even a single large tanker incident or Iranian mine deployment would send oil above $85 and trigger a significant equity selloff that today's calm prices are not prepared for. Also watch for any Fed official commentary on how the oil spike affects their inflation outlook, as that is the transmission mechanism from geopolitical crisis to your portfolio.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7575.39013671875,
+      "pct_change": 0.4208843399813908
+    },
+    "Nasdaq": {
+      "price": 26281.609375,
+      "pct_change": 0.28511108421508896
+    },
+    "10Y Treasury": {
+      "price": 4.568999767303467,
+      "pct_change": 0.6609326447296363
+    },
+    "DXY": {
+      "price": 100.88400268554688,
+      "pct_change": -0.08517236220317749
+    },
+    "Gold": {
+      "price": 4064.5,
+      "pct_change": -0.9648911262877002
+    },
+    "Bitcoin": {
+      "price": 62891.5,
+      "pct_change": -1.3593835696672438
+    }
+  }
+}
