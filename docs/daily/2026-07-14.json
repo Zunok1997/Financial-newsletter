@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-14",
+  "today_theme": "• REFLATION SHOCK: Oil, gold, copper surging simultaneously — classic commodity breakout signal.\n• YIELD WALL: 10Y at 4.61%, 30Y at 5.10% — tech multiples face structural headwinds.\n• HORMUZ RISK: Geopolitical toll proposal could reprice global shipping and inflation overnight.\n• KEY LEVEL: S&P 7,500 — lose it decisively and 7,350 is next technical magnet.\n• RISK EVENT: Watch Thursday CPI data and any State Department Hormuz clarification.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Oil Surge: WTI +3.58%, Brent +4.72% — Energy Sector Breakout Imminent",
+      "analysis": "Crude oil posted its largest single-day gain in weeks, with Brent approaching $90, likely driven by Hormuz toll tensions and supply disruption fears. Energy equities (XOM, CVX, SLB) stand to benefit materially as margins expand with spot prices. Watch the $90 Brent level and any OPEC+ commentary or Strait of Hormuz escalation."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Tech Selloff Accelerates: Nasdaq -1.55% Leads Broad Decline",
+      "analysis": "Growth and tech stocks led the market lower as rising 10Y yields (4.61%) compressed valuations on long-duration assets. Higher rates reduce the present value of future earnings, hitting high-multiple tech names hardest. Watch whether Nasdaq holds the 25,500 support zone and monitor Fed speaker commentary for yield trajectory clues."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "10Y Treasury Yield Climbs to 4.609% — Pressure on Equities Mounts",
+      "analysis": "The 10Y yield rose +0.88% to 4.609% while the 30Y hit 5.098%, signaling bond market stress and potentially anticipating sticky inflation data. Rising yields compete directly with equity risk premiums, making stocks comparatively less attractive. Watch Friday's CPI revision expectations and whether the 10Y breaks above 4.70% resistance."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold at $4,026 — Safe Haven Demand Reinforces Macro Uncertainty Hedge",
+      "analysis": "Gold continues its multi-month breakout above $4,000, confirming persistent demand amid geopolitical risk, dollar softness, and rate uncertainty. This level historically attracts momentum buyers while signaling institutional hedging activity. Watch DXY behavior — further dollar weakness below 101.00 could propel gold toward $4,100."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Hormuz Toll Proposal Roils Global Shipping — Geopolitical Risk Premium Rises",
+      "analysis": "The Trump administration's proposal to charge tolls on Hormuz passage has triggered industry backlash, with Hapag-Lloyd calling it fundamentally illegal under maritime law. If implemented, shipping costs could spike, feeding goods inflation and disrupting global supply chains. Watch for State Department clarification, tanker stock reaction (FRO, DHT), and crude spread widening between Brent and WTI."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "Brent crude at $87+ with geopolitical Hormuz risk premium embedded supports a direct earnings beat catalyst for Q2; Lynch-style earnings acceleration play with tangible asset backing. Energy margins expanding in real-time; pullback to entry offers favorable risk-adjusted setup."
+    },
+    {
+      "ticker": "QQQ",
+      "company": "Invesco Nasdaq 100 ETF",
+      "direction": "SHORT",
+      "thesis": "Nasdaq -1.55% with 10Y yields rising signals multiple compression cycle is not over; Soros reflexivity framework — momentum begets momentum as rate fears feedback into tech selling. Short the bounce if QQQ reclaims 487 intraday with no volume conviction."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares",
+      "direction": "HEDGE",
+      "thesis": "Gold above $4,000 spot with DXY softening and geopolitical risk rising makes GLD the textbook Dalio all-weather hedge for this environment. Portfolio protection against both equity drawdown and inflation resurgence; low correlation to risk assets at current macro juncture."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy los mercados tuvieron un día difícil, liderado por una caída del Nasdaq del 1.55% mientras las tasas de interés del bono a 10 años subieron al 4.61% y el bono a 30 años tocó el 5.10%. Al mismo tiempo, las materias primas explotaron al alza — el petróleo, el oro, la plata y el cobre todos subieron fuertemente — señalando que el mercado está procesando una mezcla de riesgo geopolítico real (tensión en el Estrecho de Ormuz) y presiones inflacionarias renovadas.\nLO MÁS IMPORTANTE:\n• El petróleo Brent subió casi 5% a $87 — esto importa porque encarece la energía, alimenta la inflación, y presiona a la Reserva Federal a mantener tasas altas por más tiempo.\n• Las tasas del Tesoro a 30 años llegaron al 5.10% — esto importa porque hace que los bonos compitan directamente con las acciones, quitándoles atractivo a las empresas de tecnología con valuaciones altas.\n• La propuesta de cobrar peaje en el Estrecho de Ormuz — esto importa porque si avanza, podría elevar los costos de envío global y crear una nueva fuente de inflación que ningún banco central puede controlar fácilmente.\nCONCEPTO DEL DÍA:\n**Prima de riesgo geopolítico** es el precio extra que los mercados cobran — en petróleo, oro, o tasas de seguros — cuando hay incertidumbre política o militar que amenaza el flujo de bienes. Piénsalo como el seguro que pagas cuando manejas en una zona peligrosa: no es que el auto valga más, sino que el riesgo del camino te hace pagar extra. Hoy ese \"seguro\" se reflejó en el petróleo subiendo casi 5% por las tensiones en Ormuz.\nPARA MAÑANA:\nMantén los ojos en el nivel de $90 en el Brent y en cualquier declaración del Departamento de Estado sobre el plan de peaje en Ormuz; además, el jueves se publica el dato de CPI que podría confirmar o desmentir si esta inflación de materias primas ya está llegando a los consumidores.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7515.33984375,
+      "pct_change": -0.7927023147980143
+    },
+    "Nasdaq": {
+      "price": 25873.1796875,
+      "pct_change": -1.5540512822951886
+    },
+    "10Y Treasury": {
+      "price": 4.609000205993652,
+      "pct_change": 0.8754747368655046
+    },
+    "DXY": {
+      "price": 101.1259994506836,
+      "pct_change": -0.15205305141133255
+    },
+    "Gold": {
+      "price": 4026.699951171875,
+      "pct_change": 0.7430560713503878
+    },
+    "Bitcoin": {
+      "price": 62688.7890625,
+      "pct_change": 0.7224844452296665
+    }
+  }
+}
