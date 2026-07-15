@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-15",
+  "today_theme": "• GEOPOLITICAL RISK PREMIUM: Iran strikes inject energy & defense bid into markets today.\n• AI INFLATION PARADOX: AI capex spending is now generating inflationary pressure — watch 10Y.\n• KEY LEVEL TO WATCH: 30Y Treasury at 5.10% — breach higher breaks equity valuation assumptions.\n• M&A CATALYST: PayPal $53B deal reawakens fintech sector re-rating opportunity.\n• ASIA DIVERGENCE: Nikkei +2.24% vs DAX -0.65% — regional geopolitical exposure gap widening.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "ASML Q2 Beat & Raised Forecast Signals AI Capex Cycle Remains Intact",
+      "analysis": "ASML reported stronger-than-expected Q2 earnings and raised full-year guidance, reinforcing that semiconductor equipment demand tied to AI infrastructure buildout is accelerating. This is a leading indicator for the broader chip supply chain — NVDA, AMAT, LRCX — and supports risk-on sentiment in tech. Watch for follow-through in European semiconductor names and whether ASML's bookings commentary signals 2027 EUV demand visibility."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "PayPal $53B Takeover Offer From Stripe & Advent Sparks M&A Premium Enthusiasm",
+      "analysis": "Stripe and Advent International reportedly offered $60.50/share for PayPal, a meaningful premium that validates fintech consolidation as higher-for-longer rates compress standalone growth multiples. The deal would reshape digital payments competitive dynamics and could trigger re-rating across undervalued fintech peers like Block and Adyen. Watch for PayPal board response, regulatory antitrust scrutiny, and whether Stripe's private valuation gets reassessed."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "U.S. Launches Fresh Strikes on Iran — Middle East Escalation Risk Rises Sharply",
+      "analysis": "Fresh U.S. military strikes on Iran mark a dangerous escalation that threatens Strait of Hormuz oil transit, affecting roughly 20% of global crude supply. Brent is already pushing $85.60 and further escalation could spike energy prices, reignite inflation, and force the Fed into a more hawkish pause. Watch Hormuz transit news, crude options skew, and defense sector flows as key real-time barometers."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Nikkei Surges 2.24% — Asian Risk Appetite Returning on Weak Yen & AI Tailwinds",
+      "analysis": "The Nikkei's 2.24% rally reflects a combination of yen weakness (USD/JPY 162.35), strong AI-linked export demand, and global risk appetite recovering post-VIX compression. Japanese exporters and semiconductor-adjacent firms benefit disproportionately in this environment. Watch USD/JPY for any BOJ intervention signals above 163 and whether Hang Seng's 1.93% gain reflects genuine China stimulus follow-through."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Massive AI Spending Has Unexpected Inflationary Effect — Fed Complexity Deepens",
+      "analysis": "AI infrastructure capex is reportedly creating unexpected inflationary pressures through power, construction, and specialized labor demand, complicating the Fed's path to cuts. With the 10Y Treasury already at 4.609% and 30Y at 5.098%, any inflation persistence narrative pushes long-end yields higher and compresses equity multiples. Watch July CPI revision expectations, TIPS breakevens, and Fed speaker tone for any pivot in the \"AI = deflationary\" consensus."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "ASML",
+      "company": "ASML Holding N.V.",
+      "direction": "LONG",
+      "thesis": "ASML's Q2 beat and raised guidance confirm it remains the only supplier of EUV lithography machines globally — a textbook Fisher \"scuttlebutt\" moat play. Raised forecast in a demand-uncertain environment signals backlog durability; AI node transitions to 2nm require accelerating EUV throughput."
+    },
+    {
+      "ticker": "PYPL",
+      "company": "PayPal Holdings Inc.",
+      "direction": "LONG",
+      "thesis": "At $60.50 takeout offer the risk/reward is asymmetric — even a failed deal leaves PayPal re-rated as a strategic asset in the consolidating fintech space. Graham margin-of-safety lens: trading near tangible book with $5B+ FCF, any deal premium confirms deep value. Watch spread compression as deal probability gets priced."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil Corp.",
+      "direction": "LONG",
+      "thesis": "Iran escalation and Brent at $85+ creates a direct energy earnings tailwind; Exxon's integrated model and Permian leverage makes it the highest-quality expression of an oil spike. Dalio's \"all-weather\" framework supports adding energy as an inflation hedge when geopolitical risk premium rises."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market is being pulled in two powerful directions at once: AI optimism is surging after ASML's strong earnings beat confirmed that the semiconductor investment cycle is very much alive, while geopolitical tension is rising sharply as the U.S. launches new strikes on Iran, pushing oil prices higher and making investors nervous about broader Middle East escalation. The VIX falling to 16.36 tells us that markets are not panicking yet, but the combination of rising oil, elevated bond yields (30-year Treasury at 5.10%), and a surprise finding that AI spending itself may be causing inflation creates a more complicated picture than the simple \"AI = good, everything rallies\" story of recent months.\nLO MÁS IMPORTANTE:\n• ASML earnings beat — this is the \"canary in the coal mine\" for all AI-related investments; when the company that makes the machines that make the chips says business is booming, it validates the entire AI investment thesis for another quarter.\n• Iran escalation / U.S. strikes — geopolitical conflicts that involve major oil-producing regions put a floor under energy prices and a ceiling on rate-cut optimism, because expensive oil keeps inflation sticky and gives the Fed less room to lower interest rates.\n• PayPal $53B takeover offer — this is a reminder that sometimes the best opportunity hides in plain sight; PayPal was one of the most unloved large-cap stocks, and a potential $60.50 buyout offer shows that \"boring and beaten-down\" sometimes means \"undervalued and strategic.\"\nCONCEPTO DEL DÍA:\n**Geopolitical Risk Premium** is the extra price that investors demand — or pay — for assets when wars, conflicts, or political instability could disrupt supply chains, energy flows, or global trade. Think of it like car insurance: you might not expect an accident, but you pay more when you're driving in a storm. Today, that \"storm\" is U.S.-Iran tensions, and the \"insurance premium\" shows up as higher oil prices, a stronger gold price, and rising defense stock values — all happening simultaneously as the market hedges against a scenario where the conflict spreads.\nPARA MAÑANA:\nIn the next 24-48 hours, the most critical thing to watch is whether Iran responds to U.S. strikes in a way that threatens Strait of Hormuz oil traffic — if that happens, Brent crude above $90 becomes a real possibility and will force a rapid repricing of inflation expectations across bonds, stocks, and currencies. Additionally, watch for any major U.S. earnings reports and Fed speaker commentary on whether AI-driven inflation changes their rate-cut timeline, as that could be the catalyst that finally breaks the market's calm VIX reading.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": NaN,
+      "pct_change": NaN
+    },
+    "Nasdaq": {
+      "price": NaN,
+      "pct_change": NaN
+    },
+    "10Y Treasury": {
+      "price": 4.609000205993652,
+      "pct_change": 0.8754747368655046
+    },
+    "DXY": {
+      "price": 101.00399780273438,
+      "pct_change": -0.2725128158462406
+    },
+    "Gold": {
+      "price": 4034.199951171875,
+      "pct_change": -0.6623857043045963
+    },
+    "Bitcoin": {
+      "price": 64618.921875,
+      "pct_change": -0.5191065000918589
+    }
+  }
+}
