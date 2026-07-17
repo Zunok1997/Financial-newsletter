@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-17",
+  "today_theme": "• GEOPOLITICAL PREMIUM: Middle East truce collapse drives oil, gold, defense bid.\n• KEY LEVEL WATCH: S&P 500 7,500 and Bitcoin $60K — both critical weekend supports.\n• YEN CRISIS SIGNAL: USD/JPY 162.33 approaching BoJ intervention threshold urgently.\n• TRANSPARENCY RISK: Netflix metric reduction signals broader earnings quality concern.\n• RISK EVENT: Weekend Iran escalation headlines could gap markets sharply Monday open.",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Iran-U.S. Conflict Escalates Beyond Truce Boundaries",
+      "analysis": "The fragile ceasefire signed last month is unraveling as Iran reports civilian infrastructure strikes and expands military activity into Syria and Bahrain, broadening the geopolitical flashpoint. This raises energy supply disruption risks, safe-haven demand, and potential for broader Middle East destabilization impacting shipping lanes and oil flows. Watch crude prices, gold, defense stocks, and whether the U.S. State Department issues formal escalation warnings over the weekend."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Netflix Earnings Disappoint on Forward Guidance",
+      "analysis": "Netflix shares fell after its earnings forecast underwhelmed expectations and the company announced reduced transparency on engagement metrics, reducing \"What We Watched\" report frequency. Reduced disclosure typically signals management concern about underlying data quality or weakening content performance, which is a red flag for investors who rely on engagement as a leading indicator. Watch whether other streaming peers (Disney+, Amazon Prime) see sympathy selling and if analysts downgrade the broader consumer discretionary sector."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Nikkei 225 Drops 4.03% in Severe Single-Day Selloff",
+      "analysis": "Japan's benchmark index suffered one of its sharpest daily declines recently, likely driven by USD/JPY at 162.33 creating policy tension and potential BoJ intervention fears. A weakening yen past 160 historically triggers Japanese exporters' hedging unwinds and foreign institutional rebalancing out of Japanese equities. Watch BoJ commentary, any emergency rate signals, and whether the Hang Seng's -1.78% decline signals broader Asia-Pacific contagion."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "VIX Spikes 7.95% to 18.06 Amid Broad Risk-Off Tone",
+      "analysis": "The VIX jumping nearly 8% in a single session signals professional traders are aggressively buying downside protection heading into the weekend, particularly with geopolitical risk unresolved. A VIX at 18.06 is not yet in fear territory (20+ threshold) but the velocity of the move suggests momentum toward that level is building. Watch whether VIX closes above 20 Monday as a key trigger for institutional de-risking and systematic selling programs."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Gold Approaches $4,000 Psychological Resistance",
+      "analysis": "Gold at $3,995.80 is within striking distance of the highly watched $4,000 level, supported by geopolitical tensions, a softer DXY trend, and elevated 30Y yields suggesting inflation concerns persist. A clean break above $4,000 would be a historic milestone that could accelerate momentum buying and ETF inflows, while a rejection would confirm near-term technical exhaustion. Watch Friday's close relative to $4,000 and real yield movements in TIPS as the primary fundamental driver."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust",
+      "direction": "LONG",
+      "thesis": "Gold approaching $4,000 with geopolitical escalation and real yield compression provides a classic Dalio risk-parity safe-haven entry; a breakout above $4,000 targets a measured move toward $415."
+    },
+    {
+      "ticker": "NFLX",
+      "company": "Netflix Inc.",
+      "direction": "SHORT",
+      "thesis": "Disappointing forward guidance combined with reduced engagement transparency is a classic Fisher warning sign of deteriorating competitive moat; sentiment reversal from growth darling to show-me story warrants a tactical short."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil Corp.",
+      "direction": "LONG",
+      "thesis": "Rising WTI (+1.18%) and Brent (+1.76%) with Middle East escalation supports integrated oil majors; Lynch's growth-at-reasonable-price lens favors Exxon's cash flow generation and dividend resilience in supply-shock scenarios."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday was a classic \"risk-off Friday\" — the kind of day where traders reduce exposure before the weekend because the world feels uncertain. Markets fell across the board, the Nikkei in Japan crashed 4%, oil spiked due to Middle East tensions, and gold nearly touched the historic $4,000 level, all while Netflix disappointed investors with weak guidance.\nLO MÁS IMPORTANTE:\n• Iran-U.S. conflict escalation — geopolitical crises can cause sudden oil price spikes and market gaps when you least expect them, especially over weekends when markets are closed.\n• Netflix earnings disappointment + reduced transparency — when a company starts hiding data it previously shared freely, that is often a warning sign that the underlying business is slowing down.\n• USD/JPY at 162.33 (yen at extreme weakness) — Japan's currency is at a level where its central bank may forcibly intervene, which could cause sudden chaotic moves across global markets.\nCONCEPTO DEL DÍA:\n**Bear Steepener**: Today the yield curve \"steepened\" because long-term interest rates (30Y at 5.10%) rose faster than short-term rates (3M at 3.70%). Think of it like a seesaw tilting toward the long end — this happens when investors fear future inflation or government borrowing, not immediate recession. It's actually bad news for bonds and can squeeze bank profit margins over time.\nPARA MAÑANA:\nOver the weekend, watch for any new headlines from the Middle East — specifically whether Iran escalates further toward Gulf oil infrastructure — because a surprise development could cause crude oil to gap sharply higher and global markets to open with significant losses on Monday. Also monitor any Bank of Japan statements about the yen at 162, as an intervention announcement could create rapid, disorderly moves in currency and equity markets simultaneously.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7533.77001953125,
+      "pct_change": -0.5101405539945609
+    },
+    "Nasdaq": {
+      "price": 25881.94921875,
+      "pct_change": -1.4742771032471302
+    },
+    "10Y Treasury": {
+      "price": 4.568999767303467,
+      "pct_change": 0.5280459979461906
+    },
+    "DXY": {
+      "price": 100.85399627685547,
+      "pct_change": 0.12309432720111206
+    },
+    "Gold": {
+      "price": 3995.800048828125,
+      "pct_change": 0.25592008535610805
+    },
+    "Bitcoin": {
+      "price": 63140.37890625,
+      "pct_change": -1.0172592182170104
+    }
+  }
+}
