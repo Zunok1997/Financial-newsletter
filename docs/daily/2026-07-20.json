@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-20",
+  "today_theme": "• CARRY TRADE FRAGILITY: JPY at 162.40 is the market's most dangerous loaded spring\n• KEY LEVEL: S&P 7,400 — break below opens path to 7,200 support zone\n• AI INFRASTRUCTURE: $9.8B Hut 8 deal confirms capex supercycle is accelerating not slowing\n• RISK EVENT TODAY: Iran strike night 10 — any Hormuz closure news moves oil violently\n• RISK EVENT TOMORROW: BOJ commentary watch — intervention language could shock carry trades globally",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Nikkei Plunges 4% as USD/JPY Holds Above 162",
+      "analysis": "The Nikkei 225 dropped sharply -4.03%, reflecting mounting stress from an ultra-weak yen at 162.40 and potential BOJ policy anxiety. This export/carry-trade dislocation is spreading risk-off sentiment into Monday's global session, pressuring US equity futures. Watch for BOJ commentary and whether JPY breaks 163, which could trigger broader EM contagion."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Amazon Closes Major Facility, Laying Off ~500 Workers",
+      "analysis": "Amazon continues its post-pandemic logistics footprint rationalization, closing another fulfillment center in a trend signaling consumer demand softening and cost-cutting mode. This adds to a pattern of labor market cooling in the tech-logistics sector that could weigh on consumer discretionary readings. Watch upcoming retail sales data and Amazon's next earnings call for guidance on capital allocation."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Hut 8 Signs $9.8B AI Data Center Lease, Commercializes Texas Campus",
+      "analysis": "Hut 8's massive AI infrastructure commitment signals explosive private capital flowing into AI compute capacity, validating the secular AI infrastructure buildout theme. This is directionally bullish for data center REITs, power utilities, and AI hardware suppliers like NVDA and SMCI. Watch whether this catalyzes further institutional investment announcements in the AI infrastructure space this week."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "U.S. Conducts Ninth Night of Strikes on Iran, Oil Volatile",
+      "analysis": "Ongoing U.S. military strikes on Iranian targets create geopolitical risk premium in energy markets, with WTI and Brent showing divergence suggesting supply route uncertainty. Iran's signal of potential diplomacy briefly eased oil prices, but persistent military escalation keeps tail risk elevated. Watch Strait of Hormuz shipping disruption reports and any OPEC+ emergency response."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Major Auto Dealer Cuts 40% of Locations, Issues Serious Warning",
+      "analysis": "A major dealer slashing nearly half its footprint is a significant demand-destruction signal in the auto sector, reflecting high financing costs, softer consumer credit, and EV transition uncertainty. This is a leading indicator of broader consumer credit stress and could foreshadow weakness in auto loans, which are already showing rising delinquencies. Watch CarMax, AutoNation, and consumer credit data for confirmation of the deterioration trend."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "HUT",
+      "company": "Hut 8 Mining",
+      "direction": "LONG",
+      "thesis": "The $9.8B AI data center lease is a transformational pivot that dramatically re-rates Hut 8 from a Bitcoin miner to an AI infrastructure company, unlocking a significantly higher valuation multiple. This is a classic Lynch \"story stock\" inflection point where the market hasn't yet fully priced the business model transition."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust",
+      "direction": "LONG",
+      "thesis": "Gold at $4,027 continues its breakout amid dollar softness, geopolitical escalation with Iran, and real yield compression narrative; Dalio's all-weather framework strongly favors gold allocation when geopolitical risk and debt concerns are simultaneously elevated. The VIX 3M rising to 20.54 vs spot 18.37 signals forward uncertainty, supporting the safe-haven bid."
+    },
+    {
+      "ticker": "NKE",
+      "company": "Nike Inc.",
+      "direction": "SHORT",
+      "thesis": "Nike faces a perfect storm of consumer spending fatigue, auto dealer demand warnings generalizing to discretionary spending, and dollar resilience pressuring international margins; the Nikkei crash also signals weakness in Nike's crucial Asia-Pacific market. Marks' \"cycle awareness\" framework suggests consumer discretionary is in a late-cycle deterioration phase with more downside ahead."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMonday, July 20, 2026 delivered a risk-off session where US stocks fell across the board (Nasdaq -1.40%, S&P -1.01%), bonds rallied (10Y yield -0.61%), and gold pushed above $4,027 — a classic \"growth scare\" signal where investors are questioning whether the economy is slowing faster than the Fed can respond. The dominant macro theme today is the collision of three forces at once: geopolitical escalation in Iran, a Japanese market crash driven by the extreme yen weakness at 162, and mounting evidence of consumer stress in autos and retail that suggests the high-rate environment is finally cracking spending.\nLO MÁS IMPORTANTE:\n• Nikkei -4.03% while USD/JPY sits at 162.40 — this is the global market's most dangerous pressure point because if the Bank of Japan suddenly intervenes to strengthen the yen, it could unwind a massive global \"carry trade\" (borrowing cheap yen to buy US assets), causing a violent selloff across stocks worldwide\n• Hut 8's $9.8B AI data center lease — this matters because it confirms that the AI infrastructure spending boom is real, large, and accelerating, which is bullish for data center companies, power utilities, and AI chip makers even on a down market day\n• Auto dealer cutting 40% of locations + Amazon closing facilities — these two stories together paint a picture of a consumer under stress from high borrowing costs, which is a warning sign that spending-driven economic growth may be losing steam faster than official data shows\nCONCEPTO DEL DÍA:\n**The VIX Term Structure** — today's VIX is 18.37 (current fear level, relatively calm) but the VIX 3-Month is 20.54 (future fear level, higher). Think of it like weather forecasting: today is mild, but professional meteorologists are predicting a storm in the next 90 days. When the future VIX is higher than the current VIX (called \"contango\"), it means sophisticated options traders are paying extra money to insure their portfolios against future turbulence — they see risks on the horizon that the day-to-day market price doesn't yet fully reflect. This is a yellow flag, not a red siren, but smart investors notice it.\nPARA MAÑANA:\nThe single most important thing to watch in the next 24-48 hours is any Bank of Japan statement or intervention signal regarding the yen — if BOJ officials use the word \"concern\" about currency weakness or hint at rate hikes, it could trigger a sharp yen strengthening that disrupts carry trades globally and sends shockwaves through US equities, particularly tech. Also monitor whether overnight US-Iran military developments escalate beyond the current strike pattern, as a Strait of Hormuz disruption scenario would immediately spike oil 15-20% and change the entire macro conversation.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7457.68994140625,
+      "pct_change": -1.0098540030789749
+    },
+    "Nasdaq": {
+      "price": 25520.240234375,
+      "pct_change": -1.3975337843293596
+    },
+    "10Y Treasury": {
+      "price": 4.540999889373779,
+      "pct_change": -0.6128229230839395
+    },
+    "DXY": {
+      "price": 100.7699966430664,
+      "pct_change": 0.019847784681296526
+    },
+    "Gold": {
+      "price": 4027.699951171875,
+      "pct_change": 0.373813147818824
+    },
+    "Bitcoin": {
+      "price": 64270.109375,
+      "pct_change": -0.6503170188286275
+    }
+  }
+}
