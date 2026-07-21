@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-21",
+  "today_theme": "• COMMODITY SUPERCYCLE: Gold, silver, copper, crude all surging simultaneously — rare signal.\n• CRITICAL LEVEL: 10Y Treasury yield 4.60% — break higher accelerates equity derating.\n• DIMON WARNING: Smart money flashing caution; sentiment vs. fundamentals tension rising.\n• RISK EVENT: Middle East ceasefire talks next 48h — fail = Brent $95+ scenario opens.\n• EARNINGS WATCH: GM beat + guidance raise sets tone for industrial sector this week.",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Gold surges to $4,068 (+1.42%) alongside silver (+4.25%) and copper (+3.56%) signaling broad commodity strength",
+      "analysis": "A simultaneous rally across precious and industrial metals suggests both inflation hedging demand and real economic activity acceleration; this combination historically precedes equity sector rotation into materials and energy names. The signal is amplified by Brent crude breaking above $90, reinforcing a commodity supercycle narrative. Watch whether miners (GDX, FCX) and energy names confirm with volume-backed breakouts this week."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Jamie Dimon warns markets underestimate risks and refuses to buy stocks or Treasuries at current valuations",
+      "analysis": "The JPMorgan CEO's public stance is a rare and pointed warning from the most systemically important banker in the world, carrying significant credibility weight given his access to credit flow data. With the 10Y at 4.598% and 30Y at 5.118%, his Treasury skepticism implies he sees duration risk as underpriced alongside equity risk premium compression. Watch for institutional portfolio rebalancing signals and credit spread widening as the smart money begins de-risking."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "U.S. strikes Iran while Houthis threaten Saudi shipping lanes as mediators push 10-day ceasefire",
+      "analysis": "Escalating Middle East conflict directly threatens approximately 20% of global seaborne oil supply through the Strait of Hormuz and Red Sea corridors. Brent's +1% move today is likely just the opening bid if shipping disruptions materialize at scale. Watch Brent $92 as the critical breakout level and monitor tanker insurance spreads and shipping ETFs (BOAT) for early stress signals."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Nikkei surges 3.26% to 66,232 as chip stocks revive globally, USD/JPY at 162.69",
+      "analysis": "Japanese equities are benefiting from a weak yen tailwind and semiconductor sector recovery simultaneously, creating a powerful double catalyst for export-heavy Nikkei constituents. The chip revival signal from Tokyo typically leads US semiconductor names by 6-12 hours, suggesting SOXX/NVDA momentum continuation. Watch whether the Bank of Japan intervenes verbally on the yen at 163 — that level has historically triggered jawboning."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "VIX falls 5.25% to 17.67 but VIX 3M rises 5.33% to 20.54, creating an unusual term structure inversion signal",
+      "analysis": "When near-term volatility collapses while forward volatility rises, the market is pricing complacency today but anxiety about future events — a classic setup before known risk events like earnings season peaks or geopolitical escalations. This contango-to-backwardation shift in the VIX curve is a favorite indicator of institutional hedgers building tail protection. Watch for VIX spot to mean-revert toward the 3M level if any catalyst from the geopolitical front materializes."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares",
+      "direction": "LONG",
+      "thesis": "Gold at $4,068 with simultaneous commodity rally, Middle East escalation, and Dimon warning creates a perfect trifecta of demand drivers across safe haven, inflation hedge, and geopolitical risk premium channels. Dalio's all-weather framework explicitly overweights gold during stagflationary regimes which the 10Y/30Y spread and rising oil prices increasingly resemble."
+    },
+    {
+      "ticker": "FCX",
+      "company": "Freeport-McMoRan",
+      "direction": "LONG",
+      "thesis": "Copper's 3.56% single-day surge to $6.52/lb reflects genuine industrial demand acceleration likely driven by AI infrastructure buildout and energy transition capex, making FCX the highest-beta pure-play on copper fundamentals. Lynch's growth-at-reasonable-price framework favors FCX here as earnings leverage to copper prices is approximately 3:1 on a percentage basis."
+    },
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "direction": "LONG",
+      "thesis": "Nikkei chip rally of 3.26% and Nasdaq futures leadership signal semiconductor cycle continuation, and NVDA remains the singular infrastructure pick-and-shovel play on AI compute demand that Fisher's growth investing framework would identify as a franchise-quality compounder. Blackwell GPU demand backlog extending into 2027 provides multi-quarter revenue visibility that justifies premium valuation in a growth-scarce environment."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market is telling two different stories at once: on the surface, stocks are roughly flat with the Nasdaq holding up well on chip strength, but underneath, there are serious warning signs building — rising Treasury yields, a commodity supercycle firing on all cylinders, Middle East military escalation, and the most prominent banker in the world refusing to buy anything at current prices. The VIX showing near-term calm but forward anxiety (3M VIX rising while spot falls) is the market's own way of saying \"we're okay today, but we're nervous about what's coming.\" This is a market in the late stages of a bull run where the easy money has been made.\nLO MÁS IMPORTANTE:\n• Jamie Dimon refused to buy stocks or Treasuries — when the person with the best view of the entire financial system says prices are too high, that's worth taking seriously as a risk management signal.\n• Gold, silver, copper, and crude all rose simultaneously today — this rare event historically signals either genuine economic acceleration or investors scrambling to protect against inflation and geopolitical chaos, and right now it looks like both.\n• The 30-year Treasury yield hit 5.118% — this is the government's long-term borrowing cost, and when it rises this fast, it makes stocks comparatively less attractive and can trigger selling in expensive growth names.\nCONCEPTO DEL DÍA:\n**Bear Steepening** — Today's bond market showed what analysts call a \"bear steepening,\" where long-term interest rates rise faster than short-term rates, making the yield curve steeper but in a painful way. Think of it like a seesaw where the far end (30-year bonds) is getting heavier — it means investors demand more compensation to lend money for longer periods, usually because they're worried about inflation or government debt levels. When this happens aggressively, it tends to squeeze the valuation of expensive growth stocks because the math of discounting future profits gets less favorable.\nPARA MAÑANA:\nWatch for any update on the 10-day ceasefire negotiations between the US and Iran — a breakdown would immediately spike oil prices above $95 Brent and shock equity markets, while a deal could cause a sharp commodity selloff and equity relief rally. Also monitor early pre-market earnings reactions and any Fed speaker comments on the yield rise, as a 4.60%+ 10Y print will demand a response from policymakers that could set the tone for the rest of the week.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7443.27978515625,
+      "pct_change": -0.19322546744659602
+    },
+    "Nasdaq": {
+      "price": 25508.0703125,
+      "pct_change": -0.047687332733676535
+    },
+    "10Y Treasury": {
+      "price": 4.5980000495910645,
+      "pct_change": 1.255233684340514
+    },
+    "DXY": {
+      "price": 100.94599914550781,
+      "pct_change": -0.04356740191347546
+    },
+    "Gold": {
+      "price": 4067.39990234375,
+      "pct_change": 1.4238299583670928
+    },
+    "Bitcoin": {
+      "price": 66152.4375,
+      "pct_change": 1.4140882563011536
+    }
+  }
+}
