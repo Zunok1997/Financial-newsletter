@@ -1,0 +1,59 @@
+{
+  "date": "2026-07-22",
+  "today_theme": "• STAGFLATION GHOST: Oil surge + BofA warning = 1970s redux risk rising fast\n• KEY LEVEL: S&P 500 7,500 — round-number support; break below changes tone entirely\n• GOLD SIGNAL: $4,125 gold is the market's real verdict on Fed credibility right now\n• RISK EVENT: Iran escalation watch — any military action sends oil to $95+ overnight\n• EARNINGS WATCH: Alphabet results imminent — will define Nasdaq trajectory for next week",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "AT&T Wireless Subscriber Beat Drives Bundle Momentum",
+      "analysis": "AT&T surpassed analyst targets for wireless subscriber additions, signaling that bundled service offerings are gaining traction with consumers. This supports a re-rating of telecom stocks as defensive growth plays with predictable cash flows. Watch for contagion into Verizon and T-Mobile as bundle pricing wars could pressure margins even as volumes rise."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Bank of America CEO Warns Inflation Will Back Fed Into a Corner",
+      "analysis": "BofA's CEO is flagging that persistent inflation will limit the Fed's ability to cut rates, reinforcing a higher-for-longer narrative at a time when equity valuations are stretched. This adds credibility to the bond market's pricing of 4.63% on the 10Y, a level historically inconsistent with current S&P 500 multiples. Watch the July CPI print and Fed speakers for any pivot in tone."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Oil Jumps 4% as Iran Peace Talks Collapse, Middle East Risk Rises",
+      "analysis": "Secretary Rubio's statement that Iran is \"not serious\" about peace talks drove a sharp spike in crude, with WTI climbing to $87.20. Elevated oil is a stagflationary input — it squeezes consumer spending and corporate margins while feeding headline inflation. Watch Brent-WTI spread divergence (currently anomalous at $2.76 inversion) and any Israeli or U.S. military posturing as escalation risk."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Trump's Push for U.S. AI Chips Hits TSMC Margins",
+      "analysis": "TSMC's $200B U.S. manufacturing commitment, driven by political pressure, is structurally dilutive to margins given the higher cost base of American fab operations versus Taiwan. This creates a long-term risk to the AI chip supply chain's cost efficiency, potentially slowing the capex-driven AI trade. Watch TSMC's next earnings call for U.S. vs. Taiwan margin breakdowns and customer pricing pass-throughs."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "SEC Settles FOIA Lawsuit With Coinbase Over Lost Messages",
+      "analysis": "The SEC's settlement with Coinbase over missing communications is a minor procedural win for crypto advocates but does not resolve the broader regulatory overhang on digital assets. Bitcoin's modest -0.76% move today suggests the market is not reading this as a meaningful deregulatory signal. Watch for any formal SEC rulemaking or Congressional crypto legislation as the real catalyst."
+    }
+  ],
+  "trade_ideas": [],
+  "daily_conclusion": "RESUMEN:\nToday's markets delivered broad gains on the surface — S&P up 0.89%, Nasdaq up 1.29% — but the undercurrent is increasingly tense. Oil surging on Middle East escalation, gold breaking out above $4,124, and the Bank of America CEO publicly warning about an inflation trap for the Fed all point to a market that is rallying while quietly pricing in serious macro risks. Think of it as a party where the music is still playing but someone just quietly called the fire department.\nLO MÁS IMPORTANTE:\n• BofA CEO's inflation warning — it confirms the Fed may be stuck, meaning rate cuts that markets want may not come, which is bad for stock valuations at current levels\n• Oil jumping 4% on Iran talks collapse — energy prices feed into everything: gas, food, shipping, and corporate costs, making inflation stickier and the Fed's job harder\n• Gold at all-time highs near $4,125 — when gold rallies this strongly, it's the market's way of saying \"we don't fully trust central banks or fiat currency right now,\" which is a caution flag\nCONCEPTO DEL DÍA:\nToday's concept is the **Yield Curve and Its Warning Signal**. The yield curve compares short-term interest rates (3M T-Bill at 3.73%) to long-term rates (30Y Treasury at 5.13%) — when long rates are much higher than short rates, it often signals that bond investors expect persistent inflation and aren't confident the Fed can control it. Think of it like a doctor taking your temperature at two points — if both are running hot but the long-term reading is hotter, the illness isn't going away anytime soon.\nPARA MAÑANA:\nWatch for any Alphabet earnings release and guidance on AI monetization — this single report could either validate or seriously challenge the entire Nasdaq AI rally. Also monitor oil prices and any new statements from U.S. or Israeli officials on Iran, as a further escalation could push WTI above $90 and reignite inflation fears heading into next week's Fed meeting calendar.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7509.2001953125,
+      "pct_change": 0.8856366018608045
+    },
+    "Nasdaq": {
+      "price": 25837.2109375,
+      "pct_change": 1.2903391788076874
+    },
+    "10Y Treasury": {
+      "price": 4.627999782562256,
+      "pct_change": 0.6524517757206095
+    },
+    "DXY": {
+      "price": 101.15499877929688,
+      "pct_change": -0.02470994841223312
+    },
+    "Gold": {
+      "price": 4124.2998046875,
+      "pct_change": 1.306764897819076
+    },
+    "Bitcoin": {
+      "price": 65998.71875,
+      "pct_change": -0.7614544743732156
+    }
+  }
+}
