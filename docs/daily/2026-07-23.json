@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-23",
+  "today_theme": "• STAGFLATION RISK: Oil at $90 + rising yields = Fed's worst nightmare\n• KEY LEVEL: 10Y Treasury 4.70%—a break higher reprices all equity multiples\n• AI CAPEX PARADOX: Spending surge bullish for semis, bearish for platform margins\n• GEOPOLITICAL PREMIUM: Houthi tanker attacks signal sustained Middle East supply risk\n• EARNINGS RISK EVENT: META and MSFT report next—AI spend narratives will either confirm or break current sector rotation",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Alphabet & Tesla AI Spending Crushes Earnings Expectations",
+      "analysis": "Both megacap tech firms reported blowout revenues but warned of accelerating capex tied to AI infrastructure buildout, spooking investors focused on near-term margins. Markets interpreted the spend surge as a signal that AI monetization timelines are longer than priced, triggering a Nasdaq selloff of -0.57%. Watch Q3 guidance revisions and whether other Mag-7 names follow suit in upcoming earnings prints."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Houthi Drone Strikes on Saudi Oil Tankers Escalate Middle East Risk",
+      "analysis": "Yemen's Houthis claimed successful drone-and-missile attacks on two Saudi tankers, adding a geopolitical premium to crude while Rubio confirmed Iran remains unwilling to negotiate. WTI surged +4.04% to $90.34, a 5-week high, stoking inflation concerns at a time when the Fed is watching energy closely. Monitor Strait of Hormuz traffic disruptions and any retaliatory Saudi or U.S. military posturing over the next 48 hours."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Chipmakers Lead Equity Bounce Amid Broad Weakness",
+      "analysis": "Semiconductor stocks outperformed on the session despite broader index declines, suggesting AI hardware demand narratives remain intact even as software/platform names falter. The divergence supports selective accumulation in semis as a derivative AI play with clearer near-term revenue visibility. Watch NVDA, AVGO, and AMD for follow-through confirmation and any supply chain commentary from upcoming earnings."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "VIX Spike +5.65% With 3M VIX at 20.54 Signals Growing Uncertainty",
+      "analysis": "A single-day VIX jump of nearly 6% alongside a 10Y yield rising to 4.657% and a 30Y at 5.147% reflects a market pricing in stagflationary risk from oil and sticky rates. The term structure of volatility (spot 17.58 vs. 3M 20.54) signals traders are hedging for more turbulence ahead rather than treating today as a one-day event. Watch whether VIX sustains above 18 on Friday—a close above that level would confirm a regime shift toward defensive positioning."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Gold Drops -1.20% Despite Oil Surge and Geopolitical Tension",
+      "analysis": "Gold's decline while oil rallies and geopolitical risk rises is counterintuitive and may reflect profit-taking after gold's extended run above $4,000, or rotation into energy-linked assets. The DXY holding steady at 101.20 provides no strong directional tailwind for gold at present. Watch the $4,050 technical support level and whether gold recouples with oil-driven inflation fears in coming sessions."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corporation",
+      "direction": "LONG",
+      "thesis": "Chipmakers leading today's session confirms NVDA remains the primary beneficiary of AI capex stated by Alphabet and Tesla—spending that flows directly into GPU demand. Fisher growth framework supports holding a premium-valued compounder when its end-market accelerates; rising AI infrastructure spend is a direct revenue catalyst."
+    },
+    {
+      "ticker": "GOOGL",
+      "company": "Alphabet Inc.",
+      "direction": "SHORT",
+      "thesis": "Massive capex guidance with margin compression signals the market will reprice Alphabet's near-term earnings power downward; Soros reflexivity framework suggests negative sentiment can become self-reinforcing as institutional holders rebalance. The stock broke below key support on volume today, and analyst estimate cuts likely follow earnings revisions."
+    },
+    {
+      "ticker": "XOM",
+      "company": "Exxon Mobil Corporation",
+      "direction": "LONG",
+      "thesis": "WTI at $90.34 with Houthi attacks creating sustained supply risk makes integrated majors like XOM a direct beneficiary; Buffett's conviction holding in energy names is validated by today's geopolitical catalyst. Dalio's all-weather framework supports energy exposure when inflationary commodity shocks coincide with rising yields."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy los mercados vivieron una sesión compleja marcada por dos grandes historias: el precio del petróleo disparándose más de 4% por ataques de drones en el Mar Rojo, y las grandes tecnológicas como Alphabet y Tesla decepcionando a Wall Street con planes de gasto masivo en inteligencia artificial que comprimen sus márgenes. El resultado fue un mercado dividido: las acciones de chips subieron (buenas noticias para quienes fabrican el hardware de IA), pero el Nasdaq bajó porque los inversores temen que el gasto en IA tarde más de lo esperado en traducirse en ganancias reales.\nLO MÁS IMPORTANTE:\n• Petróleo WTI sube a $90.34 (+4%) por ataques hutíes a petroleros saudíes — esto amenaza con relanzar la inflación justo cuando la Fed necesita que baje para poder recortar tasas de interés.\n• Alphabet y Tesla advierten de gasto enorme en IA que comprime márgenes — el mercado castigó a ambas acciones porque gastar más hoy significa menos ganancias hoy, aunque prometa más crecimiento mañana.\n• El VIX subió casi 6% en un solo día, y su versión a 3 meses está aún más alta — esta estructura de señales sugiere que los inversores profesionales están comprando protección anticipando más turbulencia en las próximas semanas.\nCONCEPTO DEL DÍA:\n**La Curva de Volatilidad (VIX Spot vs. VIX 3M):** El VIX mide el miedo del mercado hoy (17.58), pero el VIX a 3 meses (20.54) mide el miedo que sienten los inversores sobre las próximas semanas. Cuando el VIX futuro está MÁS ALTO que el actual, es como cuando el pronóstico del tiempo dice que hoy está nublado pero la próxima semana habrá tormenta—los inversores se están preparando para tiempos más difíciles aunque hoy no parezca tan malo.\nPARA MAÑANA:\nLos ojos del mercado estarán puestos en META y Microsoft, que reportan resultados pronto—si también anuncian gastos masivos en IA, el Nasdaq podría continuar su corrección, pero si muestran disciplina en el gasto, podría darse un rebote. Además, cualquier escalada adicional en el Mar Rojo o comentarios de funcionarios de la Fed sobre el impacto del petróleo en la inflación moverá mercados significativamente.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7498.9599609375,
+      "pct_change": -0.13636917526039996
+    },
+    "Nasdaq": {
+      "price": 25690.900390625,
+      "pct_change": -0.5662784084122857
+    },
+    "10Y Treasury": {
+      "price": 4.6570000648498535,
+      "pct_change": 0.6266266994408085
+    },
+    "DXY": {
+      "price": 101.19999694824219,
+      "pct_change": 0.0593212961793736
+    },
+    "Gold": {
+      "price": 4097.0,
+      "pct_change": -1.2033061689178346
+    },
+    "Bitcoin": {
+      "price": 65704.40625,
+      "pct_change": -0.5996760156304848
+    }
+  }
+}
