@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-24",
+  "today_theme": "• TARIFF RECKONING: Trump's 60-partner tariff sweep is the dominant macro risk driver today\n• KEY LEVEL: S&P 500 7,350 — loss of this level opens path to 7,100 correction territory\n• EARNINGS BIFURCATION: Intel soars, Tesla sinks — stock-picking alpha is replacing beta trades\n• OIL COLLAPSE: Brent's 8.58% crash resets energy sector earnings models across the board\n• RISK EVENT: Alphabet earnings after close today — will define Nasdaq direction into next week",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Intel Blowout Earnings Signal AI Semiconductor Demand Remains Robust",
+      "analysis": "Intel reported its fastest revenue growth in nearly 15 years, driven by AI-related chip demand, sending the stock sharply higher. This validates that the AI infrastructure buildout cycle is intact and could lift the broader semiconductor sector. Watch for AMD, NVDA, and AVGO reactions as peer-read confirmation or divergence."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Trump Sweeping Tariffs on 60 Trade Partners Reignite Global Trade War Risk",
+      "analysis": "The Trump administration is reimposing broad tariffs on 60 countries as the temporary truce window closes, raising stagflationary concerns — higher input costs with slowing growth. Markets hate tariff uncertainty because it compresses margins and disrupts supply chains simultaneously. Watch corporate earnings guidance revisions, USD moves, and retaliatory measures from the EU and China."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Tesla Earnings Miss Raises Questions About EV Demand Trajectory",
+      "analysis": "Tesla missed earnings estimates despite solid unit sales, and Musk struck a cautious tone on robotaxi timelines, disappointing investors betting on the autonomy premium. The miss pressures the Nasdaq, where Tesla remains a heavy-weight sentiment driver. Watch whether the stock bounces on robotaxi narrative or breaks key technical support on volume."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Brent Crude Crashes 8.58% as Expected Oil Spike Fails to Materialize",
+      "analysis": "Brent's near-9% single-session collapse signals the geopolitical risk premium that had been embedded in oil prices is rapidly unwinding. While lower oil reduces inflation pressure, the velocity of the drop suggests demand destruction fears or a surprise supply surge. Watch WTI for a test of $85 and energy equity earnings revisions."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Gold Holds $4,061 as Real Yields Rise — Safe Haven Demand vs. Rate Pressure",
+      "analysis": "Gold is maintaining record territory above $4,000 despite rising 10-year yields at 4.703%, which historically suppresses gold prices. This divergence suggests structural safe-haven demand driven by tariff uncertainty, dollar skepticism, and geopolitical hedging remains dominant. Watch real yield trajectory and DXY for breakout signals that could resolve this tension."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "INTC",
+      "company": "Intel Corporation",
+      "direction": "LONG",
+      "thesis": "Intel's blowout earnings and fastest revenue growth in 15 years driven by AI data center demand confirms a fundamental re-rating catalyst; the stock trades at a discount to peers despite improving margins. Lynch's growth-at-reasonable-price framework supports accumulation on earnings confirmation with positive guidance momentum."
+    },
+    {
+      "ticker": "TSLA",
+      "company": "Tesla Inc.",
+      "direction": "SHORT",
+      "thesis": "Tesla missed earnings and Musk's robotaxi caution removes the near-term autonomy premium that was baked into the elevated valuation; without a new catalyst, multiple compression is the path of least resistance. Soros's reflexivity applies — the narrative driving the premium is now reversing, accelerating selling pressure."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares ETF",
+      "direction": "LONG",
+      "thesis": "Gold above $4,000 spot with structural demand from tariff uncertainty, de-dollarization trends, and central bank buying provides a strong fundamental floor even as nominal yields rise. Dalio's all-weather framework treats gold as a core hedge when policy uncertainty and debt levels are simultaneously elevated."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market is telling a tale of two economies — the AI technology boom is alive and well (Intel just proved it), but the broader macro picture is getting cloudier fast. Tariffs are back, oil is crashing, and Tesla disappointed, pulling the Nasdaq down over 2% while investors try to figure out which story to believe. The VIX at 18.85 says the market is nervous but not panicking — it's a \"wait and see\" day with big decisions coming.\nLO MÁS IMPORTANTE:\n• Intel's blowout earnings — it confirms the AI spending cycle is real and ongoing, giving hope to the entire tech sector\n• Trump's tariffs on 60 countries — this is the biggest macro risk because it raises costs for everything and could slow the economy just when it needs help\n• Brent crude crashing 8.58% — this is actually good news for inflation and consumers, but the speed of the drop signals someone knows something about demand weakening\nCONCEPTO DEL DÍA:\nToday's concept is **stagflation risk** — a situation where prices stay high (inflation) at the same time the economy slows down (stagnation), which is the worst of both worlds for investors. Think of it like being stuck in traffic while your gas tank is draining — you're not getting anywhere AND you're losing fuel. Tariffs create stagflation because they raise prices for consumers while simultaneously hurting business profits and economic growth.\nPARA MAÑANA:\nAlphabet's earnings after today's close are the most important event of the next 24 hours — a strong Google Cloud result could reverse today's Nasdaq selloff entirely, while a miss would accelerate it. Over the weekend, watch for any official tariff announcements with specific country lists and rates, as Monday's open will react sharply to how broad and aggressive the final tariff schedule turns out to be.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7408.2998046875,
+      "pct_change": -1.2089697334330867
+    },
+    "Nasdaq": {
+      "price": 25137.689453125,
+      "pct_change": -2.153334173145115
+    },
+    "10Y Treasury": {
+      "price": 4.703000068664551,
+      "pct_change": 0.9877604289056491
+    },
+    "DXY": {
+      "price": 101.36299896240234,
+      "pct_change": -0.06605673131405733
+    },
+    "Gold": {
+      "price": 4061.699951171875,
+      "pct_change": 0.37314914128457327
+    },
+    "Bitcoin": {
+      "price": 64896.98828125,
+      "pct_change": -0.2272651931312739
+    }
+  }
+}
