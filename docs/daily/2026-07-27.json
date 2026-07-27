@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-27",
+  "today_theme": "• TARIFF SHOCK: Trump's 60-nation tariff blitz reshapes global trade overnight\n• OIL REGIME SHIFT: Iran ceasefire crashes crude 7%+ — energy sector repricing begins\n• METALS BREAKOUT: Gold $4,100+, silver $59+ — hard assets confirming macro stress\n• KEY LEVEL: S&P 7,400 — holding this determines bull vs. distribution phase\n• RISK EVENT: Earnings week + EU retaliation response = binary volatility trigger by Wednesday",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Oil Crashes 7%+ as U.S.-Iran Peace Talks Create Supply Relief",
+      "analysis": "WTI fell nearly 7% and Brent over 7.8% as a pause in U.S.-Iran hostilities raised expectations of Iranian crude returning to global markets. This removes a major geopolitical risk premium from energy prices, pressuring energy sector earnings and inflation expectations simultaneously. Watch: whether the ceasefire holds and OPEC+ responds with production adjustments to defend price floors."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Trump Launches Fresh Tariff Blitz on 60 Trading Partners Including EU",
+      "analysis": "Friday's new tariff wave hits 60 countries in a broader and more aggressive round than prior actions, introducing significant supply chain and cost-inflation risks for multinationals. Equity markets are pricing this unevenly — Dow outperforms while Nasdaq lags, suggesting large-cap defensives absorbing shock better than growth. Watch: EU retaliation measures, earnings guidance revisions from import-heavy sectors, and WTO dispute filings."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold Surges Past $4,100 and Silver Jumps 1.56% Amid Dollar Weakness",
+      "analysis": "Precious metals are rallying in tandem with a softening DXY (101.27, -0.20%), signaling real-money demand for hard assets amid tariff and geopolitical uncertainty. The gold/silver ratio tightening suggests silver is catching up — historically a late-cycle confirmation of a metals bull move. Watch: Fed commentary on inflation trajectory and whether gold sustains above $4,100 as a new floor."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "European Equities Surge — DAX +1.65%, CAC +0.85% — Outpacing U.S.",
+      "analysis": "European indices are sharply outperforming U.S. markets, likely driven by EUR strength (+0.19%), oil price relief for import-heavy economies, and potential tariff negotiation optimism. This divergence may attract capital rotation from overvalued U.S. tech into European value and industrial names. Watch: EU-U.S. trade negotiation headlines and ECB speakers for any policy signaling."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Retail Distress: 63-Year-Old Chain Issues Chapter 11 Warning After 80 Store Closures",
+      "analysis": "A major legacy retailer signaling bankruptcy after 80 closures underscores persistent consumer spending stress in brick-and-mortar segments. This adds to a pattern of discretionary retail deterioration that Lynch and Graham would flag as a structural — not cyclical — decline. Watch: commercial real estate exposure via mall REITs, consumer confidence data, and credit spreads in high-yield retail bonds."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares ETF",
+      "direction": "LONG",
+      "thesis": "Gold has broken decisively above $4,100 with dollar weakness and tariff uncertainty providing dual tailwinds for hard-asset demand. Dalio's all-weather framework favors gold in stagflationary environments — exactly what tariff-driven inflation plus slowing growth implies."
+    },
+    {
+      "ticker": "XLE",
+      "company": "Energy Select Sector SPDR",
+      "direction": "SHORT",
+      "thesis": "WTI crude crashing 6.8% and Brent 7.8% on Iran deal optimism destroys near-term energy sector earnings expectations, and Marks' cycle theory warns energy is mid-cycle down. Supply overhang risk rises if Iranian barrels re-enter the market while demand concerns persist."
+    },
+    {
+      "ticker": "ASML",
+      "company": "ASML Holding NV",
+      "direction": "LONG",
+      "thesis": "Europe outperforming sharply and EUR strength make ASML — the monopolist in EUV lithography — a Fisher-quality compounder with secular chip demand regardless of tariff noise. China chip restrictions create near-term headline risk but long-term pricing power for ASML's irreplaceable technology position."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's markets are being pulled in opposite directions by two massive forces: oil crashing over 7% on Iran peace hopes (which is good for inflation) and Trump launching a new tariff wave on 60 countries (which is bad for trade and corporate costs). The result is a fractured market — the Dow holds up while the Nasdaq slides, gold breaks $4,100, and European stocks outperform, painting a picture of investors rotating away from growth and toward hard assets and value.\nLO MÁS IMPORTANTE:\n• Oil's 7% single-day crash — this directly reduces energy company profits while also lowering gasoline prices for consumers, a split impact that reshapes which sectors win and lose this week\n• Trump's new tariffs on 60 countries — unlike past rounds, this hits almost everyone including Europe, meaning corporate supply chains built to avoid China tariffs are now also at risk, threatening earnings guidance across hundreds of companies\n• Gold breaking above $4,100 — when gold, silver, AND copper all rise together while stocks are uncertain, it's the market's way of saying \"we don't trust paper assets right now,\" which is a yellow flag investors should respect\nCONCEPTO DEL DÍA:\n**Reflexivity** (George Soros): This is the idea that markets don't just reflect reality — they *change* reality. Today's example: peace talks cause oil to drop → lower oil reduces Iran's oil revenue and financial power → Iran becomes more motivated to reach a deal → which further validates the oil drop. It's a self-reinforcing loop. Think of it like a rumor in high school that becomes true because everyone acts as if it's already true.\nPARA MAÑANA:\nWatch for the first major earnings reports this week — any company that mentions tariff cost increases in its guidance will move markets sharply, and EU officials are expected to respond formally to Trump's tariff announcement, which could trigger a sharp reversal in today's European outperformance if retaliation escalates.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7411.97998046875,
+      "pct_change": 0.04967638835190524
+    },
+    "Nasdaq": {
+      "price": 24975.8203125,
+      "pct_change": -0.6439300673470496
+    },
+    "10Y Treasury": {
+      "price": 4.678999900817871,
+      "pct_change": -0.5103161279241635
+    },
+    "DXY": {
+      "price": 101.2699966430664,
+      "pct_change": -0.19710710084815827
+    },
+    "Gold": {
+      "price": 4103.89990234375,
+      "pct_change": 0.8924133104534031
+    },
+    "Bitcoin": {
+      "price": 65248.609375,
+      "pct_change": -0.14032902382400983
+    }
+  }
+}
