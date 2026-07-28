@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-28",
+  "today_theme": "• AI RECKONING: Chip rout plus Fitch warning signals AI valuation reset begins now\n• KEY LEVEL: Nasdaq 24,500 — loss of this support accelerates tech derating\n• DEFENSIVE PIVOT: KO beat validates rotation into dividend, consumer staples names\n• JAPAN SHOCK: Nikkei -3.95% may create US futures gap risk at tomorrow's open\n• RISK EVENT: Trump-Zelenskyy meeting outcome could reprice energy and defense overnight",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Chip Rout Snowballs Amid AI Market Correction Warnings",
+      "analysis": "Semiconductor stocks are experiencing a cascading selldown as momentum reverses on stretched AI valuations, with Fitch simultaneously flagging AI-sector credit risk as a systemic global concern. This dual pressure — equity derating plus credit deterioration — suggests the AI trade is entering a structural repricing phase, not merely a tactical pullback. Watch SOX index levels, NVDA/AMD earnings guidance, and high-yield credit spreads in tech for confirmation of trend continuation."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Amazon Winds Down Most Flagship AI Models in Strategy Overhaul",
+      "analysis": "Amazon's retreat from its own AI model development signals either a capital discipline pivot or a strategic admission of competitive failure against OpenAI/Google, both of which are market-negative for AWS AI revenue expectations. The news compounds sector-wide sentiment damage from the chip rout, raising questions about hyperscaler AI capex ROI. Watch AMZN next earnings revision cycles and whether Microsoft/Google distance themselves further in AI product leadership."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Nikkei 225 Drops 3.95% — Sharpest Single-Day Decline in Recent Sessions",
+      "analysis": "Japan's equity market is selling off sharply, likely driven by yen dynamics (USD/JPY at 163.93 remains elevated but volatility fears are rising) and contagion from global tech weakness, particularly chip-exposed names. A Nikkei decline of this magnitude typically signals risk-off repositioning across Asia-Pacific, which can spill into US futures the following session. Watch BOJ policy signals, USD/JPY 165 resistance, and whether Hang Seng's modest green contradicts or lags the Japanese move."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Coca-Cola Tops Earnings Estimates and Hikes Full-Year Outlook",
+      "analysis": "KO's strong beat and raised guidance confirms that consumer staples with pricing power remain resilient even as macro uncertainty mounts, validating a rotation into defensive dividend names. The stock's 19% YTD gain already outpacing the S&P 500 suggests institutional money has been rotating defensively for months. Watch whether this catalyzes broader staples sector inflows and whether PepsiCo/Mondelez revise guidance similarly."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Trump-Zelenskyy Meeting as Ukraine-Iran War Narratives Collide",
+      "analysis": "Geopolitical complexity is escalating as the US manages simultaneous military postures in two theaters, creating unpredictable risk premium in energy, defense, and safe-haven assets. Oil's 2%+ decline today despite the geopolitical backdrop suggests the market is not yet pricing a supply shock, but that could reverse rapidly on any escalation. Watch crude inventories, defense sector flows (LMT, RTX, NOC), and any ceasefire or escalation signals from the Trump-Zelenskyy meeting outcome."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "NVDA",
+      "company": "NVIDIA Corp",
+      "direction": "SHORT",
+      "thesis": "The AI chip rout is snowballing with Fitch credit warnings and Amazon's AI retreat removing two key demand narratives; NVDA's valuation remains extreme relative to a deteriorating near-term catalyst stack. A break below the 50-day MA would confirm trend reversal and accelerate institutional derisking."
+    },
+    {
+      "ticker": "KO",
+      "company": "Coca-Cola Co",
+      "direction": "LONG",
+      "thesis": "KO beat estimates, raised full-year outlook, and has demonstrated pricing power in an inflationary environment — a classic Buffett-style compounder with durable brand moat and growing dividends. Defensive rotation is already underway with KO up 19% YTD; earnings momentum should sustain further re-rating."
+    },
+    {
+      "ticker": "SOXS",
+      "company": "Direxion Semi Bear 3x",
+      "direction": "HEDGE",
+      "thesis": "As a portfolio hedge, SOXS provides leveraged inverse exposure to semiconductor names during a confirmed chip rout, with both technical and fundamental tailwinds from AI repricing and Amazon's AI model wind-down. Size conservatively given 3x decay; this is a tactical hedge, not a core position."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nHoy los mercados mostraron una clara división: los índices defensivos como el Dow Jones subieron ligeramente, mientras que el Nasdaq cayó casi 1% por el desplome en acciones de chips y tecnología de inteligencia artificial. El tema dominante del día fue el principio de un ajuste serio en las valoraciones del sector de IA, respaldado por advertencias de Fitch, la retirada estratégica de Amazon en IA, y una caída brutal del 3.95% en el Nikkei japonés.\nLO MÁS IMPORTANTE:\n• Desplome de chips y advertencia de Fitch sobre IA — los mercados de crédito están comenzando a cuestionar si la burbuja de IA es sostenible, lo cual históricamente precede correcciones de acciones más profundas\n• Coca-Cola supera estimaciones y sube su guía anual — demuestra que empresas con marcas fuertes y poder de fijación de precios siguen siendo refugios seguros cuando la tecnología cae\n• Nikkei cae 3.95% — una caída tan grande en Japón puede afectar los futuros de Wall Street mañana por la mañana, por lo que es importante estar atentos al abrir el mercado\nCONCEPTO DEL DÍA:\n**Rotación defensiva** es cuando los inversores sacan dinero de sectores riesgosos (como tecnología) y lo mueven hacia sectores más estables (como consumo básico, salud, o utilities). Es como durante una tormenta: dejas de conducir en autopista y buscas caminos secundarios más seguros. Hoy KO subiendo mientras NVDA caía es un ejemplo perfecto de rotación defensiva en acción.\nPARA MAÑANA:\nPresta especial atención a los futuros del S&P 500 y Nasdaq antes de la apertura, ya que el impacto del Nikkei podría crear volatilidad en la apertura americana; también sigue de cerca cualquier declaración que salga de la reunión Trump-Zelenskyy, que podría mover petróleo, oro y acciones de defensa de forma significativa.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7413.18017578125,
+      "pct_change": 0.0161926410441289
+    },
+    "Nasdaq": {
+      "price": 24932.080078125,
+      "pct_change": -0.8179326719084741
+    },
+    "10Y Treasury": {
+      "price": 4.640999794006348,
+      "pct_change": -0.8121416460145932
+    },
+    "DXY": {
+      "price": 101.60199737548828,
+      "pct_change": 0.13008391957940058
+    },
+    "Gold": {
+      "price": 4024.5,
+      "pct_change": -1.2271444348999876
+    },
+    "Bitcoin": {
+      "price": 63415.55859375,
+      "pct_change": -0.4854301086935334
+    }
+  }
+}
