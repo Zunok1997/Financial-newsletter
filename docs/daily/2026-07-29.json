@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-29",
+  "today_theme": "• GEOPOLITICAL SHOCK: Iran missile attack reprices Middle East risk premium instantly\n• KEY LEVEL: Brent $90 — breach signals sustained energy inflation regime\n• ROTATION SIGNAL: Dow outperforms Nasdaq — value/energy replacing growth leadership\n• RISK EVENT: Watch for U.S. military response in next 24-48h — escalation determines everything\n• YIELD WATCH: 10Y Treasury 4.50% — break below confirms flight-to-quality overpowers inflation fears",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Iran Launches Ballistic Missile Attack on U.S. Forces in Middle East",
+      "analysis": "Iran fired ballistic missiles at U.S. military positions, with CENTCOM confirming all were intercepted, marking a major escalation in regional tensions. Markets face immediate geopolitical risk premium repricing across oil, gold, and defense sectors while equity risk appetite deteriorates. Watch for sustained oil price elevation above $90 Brent, potential U.S. military response, and safe-haven flows into gold and Treasuries."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "WTI Crude Surges +4.91% / Brent +5.15% on Iran News",
+      "analysis": "Oil's sharp single-session spike reflects immediate supply-disruption fears tied to Iran-U.S. confrontation in the Persian Gulf corridor. Energy sector equities (XOM, CVX, OXY) stand to benefit from sustained elevated crude while inflation-sensitive sectors face renewed pressure. Watch for whether Brent can hold above $88 and whether OPEC+ signals any production response."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "U.S. Corporate Profit Growth Accelerating (\"Mushrooms\")",
+      "analysis": "Morning Bid commentary signals Q2 earnings season is delivering outsized profit beats, supporting the S&P 500's elevated valuation at 7,428. Strong earnings underpin Buffett's earnings-power framework, justifying current multiples if growth sustains through Q3. Watch forward guidance language for margin compression warnings tied to energy costs and labor."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Toyota Doubles Down on EVs While Rivals Retreat",
+      "analysis": "Toyota's strategic commitment to electrification while competitors pare back signals confidence in long-term EV demand and potential market-share capture. This divergence creates a Fisher-style growth opportunity as Toyota's manufacturing scale and hybrid expertise provide durable competitive advantage. Watch Toyota ADR (TM) price action and any government subsidy announcements in Japan/EU."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Ukraine Drones Strike Russian Retailer Wildberries, Escalating Economic Warfare",
+      "analysis": "Ukraine's expansion of drone strikes to civilian economic infrastructure signals a new phase of the conflict targeting Russia's domestic consumption economy. This widens the war's economic surface area, increasing uncertainty around European energy security and commodity supply chains. Watch for Russian retaliatory escalation targeting Ukrainian infrastructure and any resulting EUR/USD or European equity volatility."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "Iran missile attack and +4.91% WTI spike create immediate earnings tailwind for integrated majors with upstream leverage; Exxon's Permian + Guyana production insulates against geopolitical supply shocks. Dalio's risk-parity framework supports energy as an inflation hedge when geopolitical tail risk spikes simultaneously with oil."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares",
+      "direction": "LONG",
+      "thesis": "Gold at $4,086 is breaking to new highs driven by dual tailwinds of Iran geopolitical risk and declining real yields as 10Y Treasury falls -0.80% today. Soros reflexivity logic applies: rising gold attracts momentum flows that further validate the narrative, accelerating the move."
+    },
+    {
+      "ticker": "LMT",
+      "company": "Lockheed Martin",
+      "direction": "LONG",
+      "thesis": "Iran's missile attack will accelerate U.S. and allied defense procurement, directly benefiting Lockheed's missile defense (THAAD, PAC-3) and strike systems backlog. Lynch's \"invest in what you know\" meets Fisher's growth framework — Lockheed's order book will expand materially in a sustained Middle East escalation cycle."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's markets were dominated by a single, unexpected event: Iran launched ballistic missiles at U.S. military forces in the Middle East — all intercepted, but the world changed anyway. Oil surged nearly 5%, gold hit new highs, and the stock market split in two: \"boring but safe\" companies (Dow +1%) held up while tech growth stocks (Nasdaq -0.22%) pulled back. This is what a geopolitical shock looks like when it hits a market that wasn't prepared for it.\nLO MÁS IMPORTANTE:\n• Iran's missile attack on U.S. forces — this is the most significant geopolitical event in years and every market on earth will be repricing risk around it for days.\n• Oil surged +5% toward $88 Brent — energy costs affect every business and consumer, and sustained high oil prices reignite inflation fears just as the Fed was getting comfortable.\n• U.S. corporate profits are beating estimates strongly — this is the market's safety net; strong earnings are the reason stocks haven't sold off more dramatically today despite the chaos.\nCONCEPTO DEL DÍA:\nToday's concept is **\"Geopolitical Risk Premium.\"** When a war-related event happens, investors demand extra compensation for holding risky assets — they want to be paid more to take on uncertainty. Think of it like this: if you were renting out your house in a neighborhood that just had a major incident, you'd charge more rent to justify the risk. Today, oil traders instantly charged more for crude (the rent), gold buyers paid up for safety, and stock investors rotated away from risky tech into stable defense and energy companies.\nPARA MAÑANA:\nThe single most important variable for the next 24-48 hours is whether the United States responds militarily to Iran's attack — if it does, oil could spike toward $95-100 and equity markets could drop 2-4% rapidly, making your hedges (gold, defense stocks, inverse ETFs) extremely valuable. Also watch for the Fed's any commentary and more Q2 earnings reports, which remain the market's best defense against a full panic selloff.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7428.77978515625,
+      "pct_change": 0.2104307328987321
+    },
+    "Nasdaq": {
+      "price": 24876.91015625,
+      "pct_change": -0.22128086265616156
+    },
+    "10Y Treasury": {
+      "price": 4.604000091552734,
+      "pct_change": -0.7972355978424479
+    },
+    "DXY": {
+      "price": 101.4209976196289,
+      "pct_change": 0.04044226407744867
+    },
+    "Gold": {
+      "price": 4086.199951171875,
+      "pct_change": 1.2362783177687109
+    },
+    "Bitcoin": {
+      "price": 64442.37109375,
+      "pct_change": 0.8939965943511093
+    }
+  }
+}
