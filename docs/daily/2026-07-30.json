@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-30",
+  "today_theme": "• MACRO REGIME: AI monetization reckoning splits tech — infrastructure wins, applications bleed\n• KEY LEVEL: S&P 500 7,250 — critical support; break opens path to 7,050\n• GEOPOLITICAL RISK: Iran retaliation threat is the single highest-impact overnight binary event\n• YIELD WATCH: 30Y Treasury 5.14% — if it breaks 5.25%, equity selloff accelerates materially\n• SAFE HAVEN ROTATION: Gold $4,138 confirms dollar-negative, hard-asset-positive macro regime shift",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "U.S. Strikes Iran Trigger Geopolitical Escalation Risk",
+      "analysis": "The U.S. conducted a heavy wave of strikes against Iran, prompting the IRGC to threaten direct retaliation \"today,\" sharply elevating Middle East conflict risk. Markets are pricing safe-haven flows into gold (+2.56%) and away from risk assets, while oil remains surprisingly muted suggesting supply disruption fears are not yet fully priced. Watch for Iranian retaliatory strikes on U.S. bases or Gulf shipping lanes, which could spike Brent above $95 and trigger a VIX surge above 25."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Meta Tanks 9% on Revenue Miss and FCF Collapse",
+      "analysis": "Meta reported revenue below guidance while free cash flow plunged, signaling that AI capex spending is outpacing monetization timelines and compressing margins significantly. This splits the mega-cap AI trade dangerously — if the largest digital advertiser is struggling to convert AI investment into revenue, the entire FAANG premium faces re-rating risk. Watch Meta's next guidance revision and whether advertising spend data from Google/Alphabet confirms a broader digital ad market slowdown."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Microsoft Surges 9% on Azure and Copilot Strength",
+      "analysis": "Microsoft posted blowout Azure cloud growth and strong Copilot enterprise adoption, validating the thesis that infrastructure-layer AI monetization is arriving faster than application-layer. This bifurcation between MSFT and META creates a powerful sector rotation signal within tech — cloud/infrastructure wins while social/advertising AI lags. Watch whether AWS (Amazon) and Google Cloud confirm the Azure trend when they report, which could re-anchor the Nasdaq's leadership composition."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "SK Hynix Record Profit Misses Forecasts, Shares Slump 10%",
+      "analysis": "Despite posting record earnings driven by HBM AI chip demand, SK Hynix missed consensus forecasts, triggering a 10% share drop and raising questions about whether AI semiconductor expectations have become dangerously elevated. This is a classic \"sell the news\" event in a sector where valuations had already priced in perfection, and it could pressure Nvidia, Micron, and AMD by association. Watch HBM3E pricing trends and whether TSMC's upcoming commentary confirms or contradicts the demand narrative."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Yield Curve Steepening Accelerates as 30Y Hits 5.14%",
+      "analysis": "The 30-year Treasury yield rising 0.92% in a single session to 5.14% signals that bond markets are pricing in persistent fiscal deficits, inflation re-acceleration risk from geopolitical energy shocks, or both simultaneously. This steepening pressures equity valuations through a higher discount rate, particularly for long-duration growth stocks already under pressure from the MSFT/META earnings split. Watch the 10Y/30Y spread and whether the Fed's July minutes (due soon) push back against market fears of delayed rate cuts."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "MSFT",
+      "company": "Microsoft Corp",
+      "direction": "LONG",
+      "thesis": "Azure cloud beat and Copilot enterprise monetization confirm Microsoft as the clearest AI infrastructure winner with durable competitive moats; valuation re-rates higher as FCF growth accelerates. Fisher-style quality compounder with expanding addressable market in enterprise AI — this is a multi-year earnings revision cycle just beginning."
+    },
+    {
+      "ticker": "META",
+      "company": "Meta Platforms",
+      "direction": "SHORT",
+      "thesis": "Revenue miss combined with FCF plunge signals AI spending is destroying near-term shareholder value while monetization timelines slip — multiple compression is the logical outcome. Soros reflexivity framework applies: negative sentiment accelerates advertiser scrutiny, analyst downgrades create self-reinforcing selling pressure."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Trust (via GLD)",
+      "direction": "HEDGE",
+      "thesis": "Gold at $4,138 with geopolitical escalation (Iran strikes) and real yield pressure from steepening curve creates a near-perfect storm for gold continuation; Dalio's all-weather principle demands hard asset exposure when geopolitical tail risk is elevated. This is portfolio insurance that also has positive carry in the current environment."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market was driven by two massive forces pulling in opposite directions: inside tech, Microsoft soared while Meta crashed, showing that not all AI investments are created equal. Outside of tech, the situation was darker — the U.S. struck Iran and Iran threatened same-day retaliation, pushing gold to record highs and sending long-term interest rates sharply higher, which puts pressure on stock prices broadly.\nLO MÁS IMPORTANTE:\n• Iran threatens immediate retaliation after U.S. strikes — this is the most dangerous overnight event; a military escalation could spike oil prices and crash global markets when Asia opens.\n• Microsoft +9% vs. Meta -9% — this split tells us the AI boom rewards companies selling the \"picks and shovels\" (cloud infrastructure) and punishes those still searching for AI revenue (social media apps).\n• 30-year Treasury yield hits 5.14% — when the government's long-term borrowing cost rises this fast, it acts like gravity on stock prices, especially for growth companies, because future profits are worth less today.\nCONCEPTO DEL DÍA:\nToday's key concept is the **Yield Curve Bear Steepener** — this happens when long-term interest rates rise FASTER than short-term rates, widening the gap between them. Think of it like a seesaw tilting: the short end (3-month T-bill at 3.66%) stays relatively low while the long end (30-year at 5.14%) shoots up. This is the most dangerous configuration for stocks because it signals that bond investors fear future inflation or fiscal problems, demanding higher compensation to lend money for 30 years — and that higher \"price of money\" directly competes with stock returns.\nPARA MAÑANA:\nThe single most critical watch item for the next 24-48 hours is whether Iran follows through on its retaliation threat — any military action against U.S. bases, Gulf shipping, or Saudi oil infrastructure will immediately reprice oil $10+ higher and trigger a VIX spike above 25. Additionally, watch for Alphabet's earnings report, which will either confirm Microsoft's cloud AI growth story or spread Meta's fear across the entire big tech sector.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7316.14990234375,
+      "pct_change": -1.516128975010814
+    },
+    "Nasdaq": {
+      "price": 24442.939453125,
+      "pct_change": -1.7444718833619717
+    },
+    "10Y Treasury": {
+      "price": 4.622000217437744,
+      "pct_change": 0.3909671052795111
+    },
+    "DXY": {
+      "price": 100.64700317382812,
+      "pct_change": -0.15178558858884816
+    },
+    "Gold": {
+      "price": 4138.0,
+      "pct_change": 2.560290729875008
+    },
+    "Bitcoin": {
+      "price": 64456.23046875,
+      "pct_change": 0.8575781741513747
+    }
+  }
+}
