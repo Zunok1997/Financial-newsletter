@@ -1,0 +1,78 @@
+{
+  "date": "2026-07-31",
+  "today_theme": "• AI MONETIZATION BIFURCATION: Markets brutally separating AI promisers from AI earners today\n• KEY LEVEL TO WATCH: USD/JPY 158 — break triggers global carry trade unwind risk\n• IRAN WAR PREMIUM: Energy inflation is now an embedded macro risk, not a transient spike\n• FED PIVOT CREDIBILITY: Long-end yields rising despite dovish signal — bond market skeptical\n• WEEKEND RISK EVENT: Iran war escalation headlines over the weekend could gap open energy Monday",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Amazon Earnings Surge 12% on AI Monetization Wins",
+      "analysis": "Amazon reported blowout results with AWS and advertising revenues beating expectations, driven by AI infrastructure demand; the stock surged 12% pre-market, lifting the Nasdaq 2.78% and validating the thesis that hyperscalers are the primary AI beneficiaries. Market implication is a rotation into cloud/AI infrastructure names and away from hardware-adjacent plays, as investors reward revenue realization over promise. Watch AWS growth rate guidance for Q3, capital expenditure commentary, and whether the rally broadens into adjacent software names or remains concentrated."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Apple Drops 7% on Earnings Disappointment",
+      "analysis": "Apple missed on Services revenue and provided cautious iPhone guidance amid ongoing China demand softness and AI monetization lag; the 7% decline is significant for a mega-cap and creates a drag on cap-weighted indices despite the broader rally. The divergence between Amazon and Apple signals investors are now aggressively distinguishing between AI monetizers and AI promisers within Big Tech. Watch whether AAPL finds support near the 200-day moving average, analyst downgrades over the weekend, and whether institutional rebalancing accelerates the selloff into next week."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Fed Rate Decision Sparks Relief Rally Across Equities",
+      "analysis": "The Fed's rate decision — interpreted by markets as dovish or at minimum on-hold — reduced near-term tightening fears, with the VIX falling 1.76% to 16.79 and equities posting broad gains. Lower short-end rate anxiety benefits growth stocks disproportionately, explaining the Nasdaq's outperformance at +2.78% versus the Dow's +1.19%. Watch the Fed minutes and any dissenter commentary for signals on September meeting positioning, as any hawkish re-interpretation could reverse today's gains quickly."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Iran War Drives Oil Surge — Exxon and Chevron Profits Soar",
+      "analysis": "An active Iran war is pushing WTI to $84.20 and Brent to $89.55, with Exxon and Chevron reporting surging Q2 profits as a direct result; this is a stagflationary signal — energy inflation puts upward pressure on CPI and complicates the Fed's easing path. Higher energy costs act as a tax on consumers and corporations with high logistics exposure, threatening margin compression across industrials, airlines, and retail. Watch for any escalation in the Strait of Hormuz, OPEC+ response, and whether the 10Y yield's 4.663% level holds as energy inflation expectations get re-priced."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "AI ETF Divergence and Behavioral Anomalies Signal Rotation Risk",
+      "analysis": "News reports highlight strange ETF behavior in AI-focused funds even as underlying winners like Amazon surge — this suggests mechanical rebalancing, index reconstitution effects, or leveraged ETF decay are distorting price signals. The divergence between individual AI winners and AI-themed ETFs creates both risk and opportunity depending on positioning. Watch QQQM, BOTZ, and ROBT flows next week for confirmation of whether this is transient rebalancing or a deeper rotation out of thematic vehicles."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "AMZN",
+      "company": "Amazon.com",
+      "direction": "LONG",
+      "thesis": "Amazon's 12% earnings surge confirms AWS AI monetization is accelerating, with advertising and cloud margins expanding simultaneously — a Lynch \"fast grower\" with visible earnings trajectory. Entry on the gap-open pullback intraday offers better risk/reward than chasing the pre-market spike; target aligns with measured move from breakout base."
+    },
+    {
+      "ticker": "AAPL",
+      "company": "Apple Inc.",
+      "direction": "SHORT",
+      "thesis": "Apple's 7% earnings drop reveals a widening AI monetization gap versus peers, with China exposure remaining a structural headwind and Services deceleration undermining the premium multiple — a Marks \"risk asymmetry\" short. The break below key technical support on heavy volume suggests institutional distribution is underway, not retail panic; stop above the pre-earnings closing level limits risk."
+    },
+    {
+      "ticker": "XOM",
+      "company": "ExxonMobil",
+      "direction": "LONG",
+      "thesis": "The Iran war is a structural oil price catalyst, not a transient spike — Exxon's surging profits confirm operating leverage at current crude prices, and the Graham net asset value of proven reserves is substantially undervalued at $84 WTI. Dividend yield and buyback yield combined exceed 6%, providing a margin of safety while geopolitical premium in oil persists."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday was one of the most instructive sessions of 2026 — the market delivered a masterclass in separating winners from losers in the AI economy, with Amazon soaring 12% while Apple dropped 7% on the same day, all against a backdrop of a Fed rate decision that gave stocks a green light to rally broadly. The deeper story, however, is more complex: bond markets are pushing long-term yields higher (30Y at 5.21%), oil prices are surging because of an active Iran war, and Bitcoin is falling even as stocks celebrate — all signals that not everything in this rally is as clean as the headline numbers suggest.\nLO MÁS IMPORTANTE:\n• Amazon +12% vs Apple -7% — this tells you the market has moved from \"AI hype\" to \"AI proof,\" and companies that cannot show real revenue from AI are now being penalized, not just overlooked\n• Iran war pushes oil to $84-$90 — an active geopolitical conflict is now an embedded inflation driver, which is why bond yields keep rising even when the Fed is trying to pause rate hikes\n• USD/JPY drops 1.98% to 160 — the Japanese yen strengthening sharply is a warning signal for global markets because a lot of investors borrowed cheap yen to buy risky assets, and if the yen keeps rising, they may be forced to sell those assets quickly\nCONCEPTO DEL DÍA:\nToday's Amazon vs. Apple divergence is a perfect illustration of \"earnings quality discrimination\" — the idea that in mature bull markets, investors stop buying sectors or themes and start demanding proof of profit. Think of it like a restaurant: early in its life, people go because it's new and exciting (the \"AI hype\" phase); later, people only return if the food is actually good (the \"AI monetization\" phase). We are firmly in the second phase now, and companies that cannot put AI dollars on their income statement are going to be punished even if their underlying business is strong.\nPARA MAÑANA:\nOver the weekend, watch for any Iran war escalation news that could gap up oil prices on Monday morning, and monitor whether Apple receives analyst downgrades or price target cuts that could extend the selling into next week; the key macro question entering August is whether the bond market's skepticism about the Fed's inflation fight — visible in the 5.21% 30Y yield — begins to spread into equity valuations and challenge today's broad rally.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7437.6298828125,
+      "pct_change": 1.6604359135647773
+    },
+    "Nasdaq": {
+      "price": 25122.1796875,
+      "pct_change": 2.7788811393883317
+    },
+    "10Y Treasury": {
+      "price": 4.663000106811523,
+      "pct_change": 0.8870594427731989
+    },
+    "DXY": {
+      "price": 100.19100189208984,
+      "pct_change": 0.18098165382780698
+    },
+    "Gold": {
+      "price": 4111.39990234375,
+      "pct_change": 0.2755982639048089
+    },
+    "Bitcoin": {
+      "price": 63873.53125,
+      "pct_change": -1.3159880767756575
+    }
+  }
+}
