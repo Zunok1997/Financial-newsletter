@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-03",
+  "today_theme": "• MACRO DIVERGENCE: Bonds sell off while stocks rally — unsustainable tension building\n• KEY LEVEL: 10Y yield at 4.745% — breach of 4.80% breaks the equity bull case\n• YEN SHOCK: USD/JPY -2.11% may signal BoJ intervention or regime change in FX\n• OIL RESET: Geopolitical risk premium exits crude — energy sector reprices lower\n• RISK EVENT: Watch Fed speakers Tuesday for yield spike response and tone shift",
+  "catalysts": [
+    {
+      "rating": "BEARISH",
+      "headline": "Oil Crashes 6%+ as Middle East Geopolitical Risk Premium Evaporates",
+      "analysis": "Trump's diplomatic intervention signaled easing tensions in the Middle East, prompting traders to unwind geopolitical risk premiums built into crude prices. A 6-7% single-day drop in WTI and Brent is significant and hits energy sector earnings expectations hard. Watch for follow-through selling below WTI $78 and any reversal in diplomatic progress that could rapidly reprice risk back in."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold Surges to $4,103 Amid USD Weakness and Yen Volatility",
+      "analysis": "Gold breaking above $4,100 signals persistent safe-haven demand even as equities climb, pointing to underlying macro anxiety about the yield curve and currency volatility. The USD/JPY plunge of 2.11% suggests possible yen intervention or capital repatriation flows, weakening the dollar and boosting gold. Watch $4,120 as the next resistance; a break higher confirms a new leg in the secular bull run."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "10Y Treasury Yield Spikes 1.76% to 4.745% — Bond Market Stress Signal",
+      "analysis": "The sharp rise in the 10-year yield while equities rally signals a bond market that is increasingly pricing in fiscal risk or sticky inflation rather than growth optimism. A 30-year yield at 5.275% deepens the inverted real-rate concern and raises the cost of capital for long-duration growth stocks. Watch the 4.80% level on the 10Y — a breach would materially challenge stretched equity valuations at S&P 7,489."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "AstraZeneca Slides on Perplexing Bristol Myers Merger Speculation",
+      "analysis": "The Financial Times reported months of merger discussions between AstraZeneca and Bristol Myers Squibb, a combination analysts find strategically confusing given both companies' distinct pipeline priorities. Market reaction was negative for AZN, suggesting investors fear dilution, strategic distraction, or a premium overpay rather than synergy value. Watch for official confirmation, denial, or competing bid rumors — any clarity will trigger a sharp repricing in both names."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Buffett's Continued Endorsement of S&P 500 ETF Reinforces Passive Equity Case",
+      "analysis": "Buffett's repeated pointing to low-cost S&P 500 index ETFs as the core investment vehicle for most investors provides a sentiment anchor for passive equity flows. This narrative, amplified today, reinforces retail and institutional conviction in staying long equities despite yield headwinds. Watch for Berkshire's own portfolio moves as the real signal — Buffett's words are bullish but his cash levels remain the key tell."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "SPY",
+      "company": "SPDR S&P 500 ETF",
+      "direction": "LONG",
+      "thesis": "S&P momentum is intact with VIX neutral at 15.94 and broad index participation confirmed by DAX and CAC gains; Buffett's passive ETF narrative provides additional retail flow tailwind. Entry on any intraday dip toward 7,440 improves R/R materially — hold with tight discipline above the 7,320 structural support."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares",
+      "direction": "LONG",
+      "thesis": "Gold at $4,103 spot is breaking into new highs driven by yen volatility, rising long-end yields signaling fiscal fear, and USD softness — a classic Dalio \"paradigm shift\" environment favoring real assets. The convergence of macro stress signals makes this a high-conviction hedge position within a balanced portfolio."
+    },
+    {
+      "ticker": "USO",
+      "company": "United States Oil Fund",
+      "direction": "SHORT",
+      "thesis": "WTI's 6.19% single-day collapse as geopolitical risk premium exits is a Soros-style reflexivity unwind — the narrative that held oil elevated is broken and momentum players will amplify the downside. A sustained diplomatic de-escalation in the Middle East removes the key bullish catalyst; watch for a test of the $70-72 WTI zone."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nMonday, August 3, 2026 delivered a confusing but important day for markets — stocks climbed, gold hit new highs, oil crashed, and bond yields spiked all at the same time. The biggest story under the surface is that bonds and stocks are disagreeing: the stock market is acting like everything is fine, but the bond market is quietly raising a red flag by pushing long-term interest rates higher. When these two markets disagree, it usually means a resolution is coming — and it's not always the stock market that wins.\nLO MÁS IMPORTANTE:\n• Oil crashed 6%+ on Middle East diplomacy — energy stocks face earnings cuts and the inflation picture just got less scary, giving the Fed more flexibility\n• 10-Year Treasury yield jumped to 4.745% — this is the \"price of money\" for the whole economy, and when it rises this fast, it makes stocks relatively less attractive and loans more expensive for everyone\n• USD/JPY fell 2.11% in one day — this yen move is unusual and could signal that Japan's central bank intervened, which would unwind a massive global trade called the \"carry trade\" and create ripple effects across markets\nCONCEPTO DEL DÍA:\nToday's concept is the **\"Geopolitical Risk Premium\"** — this is extra money that traders add to the price of oil, gold, or other assets when they're worried about wars or political crises disrupting supply. Think of it like paying extra for travel insurance before a trip to a risky destination. When Trump's diplomatic news reduced the perceived danger in the Middle East, traders immediately removed that \"insurance premium\" from oil prices — which is why crude fell so sharply without any change in actual supply or demand.\nPARA MAÑANA:\nWatch for any Fed official speeches on Tuesday that respond to the 10-year yield spike — if policymakers sound alarmed, markets could reprice quickly. Also monitor whether the USD/JPY stabilizes above 155 or continues falling, as a sustained yen rally would signal the unwinding of global carry trades, which is the hidden financial plumbing that keeps many risk assets inflated.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7489.72021484375,
+      "pct_change": 0.7003619815987983
+    },
+    "Nasdaq": {
+      "price": 25373.849609375,
+      "pct_change": 1.0017837823213365
+    },
+    "10Y Treasury": {
+      "price": 4.744999885559082,
+      "pct_change": 1.7585197698746908
+    },
+    "DXY": {
+      "price": 99.84400177001953,
+      "pct_change": 0.044086890697689
+    },
+    "Gold": {
+      "price": 4103.89990234375,
+      "pct_change": 1.3533823162144076
+    },
+    "Bitcoin": {
+      "price": 62634.671875,
+      "pct_change": -1.334753355281812
+    }
+  }
+}
