@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-04",
+  "today_theme": "• EARNINGS BIFURCATION: AI winners vs. consumer losers — the defining late-cycle trade\n• KEY LEVEL: 10Y yield at 4.75% — equity multiple compression threshold if breached sustainably\n• GOLD SIGNAL: $4,100+ gold with copper rally = markets pricing structural systemic risk\n• RISK EVENT: Fed speakers and any OPEC+ commentary on today's crude crash magnitude\n• SECTOR ROTATION: From consumer discretionary/staples into AI infrastructure and hard assets now",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Palantir Surges 16% on \"Otherworldly\" Commercial AI Revenue Beat",
+      "analysis": "Palantir reported explosive U.S. commercial revenue growth, with CEO Alex Karp signaling enterprises are choosing sovereign AI infrastructure over dependency on major language model providers. This validates the enterprise AI adoption thesis and could re-rate AI infrastructure peers across the sector. Watch AIP contract wins, rule-of-40 metrics, and whether institutional positioning shifts toward AI-platform names over pure LLM plays."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Merck Crushes Estimates on Keytruda Dominance",
+      "analysis": "Merck's Q2 results exceeded Wall Street forecasts driven by Keytruda oncology franchise strength, reinforcing the durability of best-in-class biologics in a rate-pressured environment. Defensive healthcare with strong cash flows becomes incrementally attractive as the yield curve steepens. Watch Keytruda's IND pipeline, biosimilar timeline risk post-2028, and whether MRK guides higher for FY2026."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "McDonald's Revenue Miss Signals Consumer Fatigue at Mass-Market Level",
+      "analysis": "McDonald's missed revenue estimates as lower-income consumers continue to pull back on discretionary spending even at value-oriented fast food, a classically late-cycle consumer signal. A stock down 11% YTD with a $191B market cap suggests the market is repricing the growth premium embedded in defensive consumer names. Watch same-store sales trends, traffic vs. ticket data, and whether management accelerates value promotions to recapture volume."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Oil Slides Sharply — WTI -4.4%, Brent -6%",
+      "analysis": "A significant crude selloff suggests markets are pricing weakening global demand and/or rising OPEC+ supply expectations, compressing margins for energy producers and refiners. Combined with a rising 10Y yield (+1.76%) and a strong dollar, this macro mix signals risk-off undertones beneath equity surface calm. Watch EIA inventory data, OPEC+ communiqués, and whether energy sector equities decouple from the commodity drawdown."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold at $4,110 and Silver +2.56% Reflect Systemic Hedge Demand",
+      "analysis": "Precious metals surging simultaneously with copper (+3.22%) signals both safe-haven buying and industrial demand optimism — an unusual but powerful combination. With the 30Y Treasury yielding 5.275% and real rates elevated, gold's strength suggests geopolitical or currency credibility concerns beyond the simple rates framework. Watch DXY stability, central bank gold reserve data, and whether silver's industrial component (solar, EVs) is driving the outperformance."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "PLTR",
+      "company": "Palantir Technologies",
+      "direction": "LONG",
+      "thesis": "Palantir's \"otherworldly\" U.S. commercial AIP revenue confirms a durable enterprise AI moat; the reflexive narrative shift from speculative to fundamental AI compounder supports multiple expansion. Soros-style reflexivity applies — positive earnings surprise triggers institutional FOMO buying that itself becomes a price driver."
+    },
+    {
+      "ticker": "MRK",
+      "company": "Merck & Co.",
+      "direction": "LONG",
+      "thesis": "Keytruda's sustained dominance provides Graham-style margin of safety in a large-cap pharma at a reasonable multiple with a durable earnings moat. Defensive earnings in a steepening yield curve environment make MRK a quality anchor against macro volatility."
+    },
+    {
+      "ticker": "MCD",
+      "company": "McDonald's",
+      "direction": "SHORT",
+      "thesis": "Revenue miss amid consumer trade-down fatigue even at value price points signals structural headwinds not yet fully priced despite 11% YTD decline. Lynch's \"invest in what you know\" applied inversely — mass-market consumer traffic data is visibly deteriorating at ground level."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nToday's market is telling two stories at once: one of excitement around artificial intelligence (Palantir's stunning quarter) and one of concern about the everyday consumer (McDonald's missing its numbers). Underneath it all, bond yields are rising sharply, gold is breaking records above $4,100, and oil is crashing — a combination that signals investors are nervous about the big picture even as some stocks celebrate.\nLO MÁS IMPORTANTE:\n• Palantir +16% on AI commercial revenue beat — confirms that enterprise AI spending is real and growing, not just hype, which matters for the entire technology sector's valuation story.\n• 30Y Treasury yield at 5.275% — when long-term government borrowing costs rise this high, it squeezes company valuations and makes stocks in general more expensive relative to \"safe\" bonds.\n• Oil crashing -4.4% to -6% — a sharp oil drop of this size in one day signals that markets are worried about weaker global economic demand, which is a warning sign worth watching carefully.\nCONCEPTO DEL DÍA:\n**Late-Cycle Bifurcation** means we are in a phase of the economic cycle where winners and losers are splitting apart dramatically — think of it like a race where the front runners (AI companies, gold, quality businesses) are pulling far ahead while the back of the pack (consumer-facing companies, long-term bonds) is slowing down. It's like a restaurant where the VIP section is packed and thriving while the regular dining room is emptying out — both are in the same building, but having very different nights. Recognizing which \"section\" your investments are in is the most important skill in this environment.\nPARA MAÑANA:\nWatch whether the 10-year Treasury yield holds above 4.75% — if it stays there or climbs further, expect pressure on high-valuation tech stocks despite today's Palantir euphoria. Also monitor any OPEC+ response to today's oil crash and whether additional consumer-brand earnings (restaurants, retail) confirm McDonald's miss as a sector trend rather than an isolated event.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": NaN,
+      "pct_change": NaN
+    },
+    "Nasdaq": {
+      "price": NaN,
+      "pct_change": NaN
+    },
+    "10Y Treasury": {
+      "price": 4.744999885559082,
+      "pct_change": 1.7585197698746908
+    },
+    "DXY": {
+      "price": 99.9749984741211,
+      "pct_change": 0.17534610923060387
+    },
+    "Gold": {
+      "price": 4110.7001953125,
+      "pct_change": 1.5213281018146756
+    },
+    "Bitcoin": {
+      "price": 63715.28125,
+      "pct_change": 0.3674762137298762
+    }
+  }
+}
