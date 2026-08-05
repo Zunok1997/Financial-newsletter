@@ -1,0 +1,78 @@
+{
+  "date": "2026-08-05",
+  "today_theme": "• MACRO DRIVER: GLP-1 + Gold = twin engines of Wednesday's narrative\n• KEY LEVEL: Gold $4,200 — holding above validates hard-asset supercycle\n• ROTATION ALERT: Healthcare replacing tech as Wall Street's preferred sector\n• YIELD WATCH: 10Y at 4.63% falling while 30Y holds — steepening is the risk\n• EVENT RISK: Watch any Fed speakers or jobless claims Thursday for rate path clarity",
+  "catalysts": [
+    {
+      "rating": "BULLISH",
+      "headline": "Eli Lilly Crushes Q2, Raises 2026 Revenue Guidance to $85–87B on GLP-1 Surge",
+      "analysis": "Lilly reported blowout results driven by Zepbound and Mounjaro, raising full-year revenue guidance by ~$4B, signaling GLP-1 demand far exceeds prior estimates. This validates the obesity/diabetes drug supercycle thesis and lifts the entire biopharma sector. Watch for margin expansion commentary and pipeline updates on next-generation GLP-1 candidates."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Disney Q3 Earnings Beat on Parks, Cruises, and Streaming Momentum",
+      "analysis": "Disney topped estimates as domestic theme parks and cruise demand held strong despite consumer macro uncertainty, while streaming continued its profitability inflection. The result suggests premium experiential spending remains resilient even as lower-income consumers feel pressure. Watch DIS guidance for FY2027 and any color on international park performance and ad-supported streaming ARPU growth."
+    },
+    {
+      "rating": "BULLISH",
+      "headline": "Gold Surges 2.89% to $4,214 as Precious Metals Rally Broadly",
+      "analysis": "Gold hitting new highs alongside silver (+2.19%) signals a flight-to-safety bid combined with dollar weakness and real-rate uncertainty. With the 10Y yield falling 1.26% simultaneously, real yields are compressing — historically the most powerful tailwind for gold. Watch whether gold sustains above $4,200 and if this triggers momentum-chasing inflows into miners."
+    },
+    {
+      "rating": "BEARISH",
+      "headline": "Inverted Yield Signal: 10Y Falls While 30Y Stays Elevated at 5.19%",
+      "analysis": "The 10Y Treasury falling 1.26% while the 30Y holds near 5.19% suggests short-to-medium term risk-off demand but persistent long-end inflation or fiscal premium fears. This steepening at the back end is a warning that bond vigilantes remain active on U.S. fiscal sustainability concerns. Watch 30Y auction demand and any Fed speakers addressing the long-end term premium."
+    },
+    {
+      "rating": "NEUTRAL",
+      "headline": "Bitcoin Flat at $64K as Peter Schiff Warns of 'Much Bigger Selloff'",
+      "analysis": "Bitcoin is consolidating near $64,000 with minimal directional conviction, while bearish narratives from Schiff contrast with still-elevated gold prices that bulls use to justify crypto's store-of-value case. The divergence between gold (+2.89%) and BTC (-0.08%) today is notable and may reflect institutional preference for hard assets with track records. Watch BTC's ability to hold $62K support and ETF flow data for institutional conviction signals."
+    }
+  ],
+  "trade_ideas": [
+    {
+      "ticker": "LLY",
+      "company": "Eli Lilly",
+      "direction": "LONG",
+      "thesis": "GLP-1 demand is in a multi-year supercycle and Lilly's raised guidance de-risks the near-term earnings path while competitive moats remain wide. Fisher growth framework fully intact — best-in-class franchise with expanding TAM in obesity, diabetes, and now Alzheimer's."
+    },
+    {
+      "ticker": "DIS",
+      "company": "Walt Disney",
+      "direction": "LONG",
+      "thesis": "Disney's beat confirms the experiential premium consumer thesis is holding and streaming is now a profit driver rather than a cash drain, giving the stock a cleaner multi-segment growth story. Lynch's \"invest in what you know\" applies here — parks, cruises, and streaming are all accelerating simultaneously."
+    },
+    {
+      "ticker": "GLD",
+      "company": "SPDR Gold Shares (via miners proxy: GDX)",
+      "direction": "LONG",
+      "thesis": "Gold at $4,214 with compressing real yields and a softening dollar creates the ideal macro environment for gold miners who have massive operating leverage to spot prices. Dalio's all-weather framework calls for hard asset allocation precisely when fiscal deficits are structural and currency credibility is questioned."
+    }
+  ],
+  "daily_conclusion": "RESUMEN:\nWednesday, August 5, 2026 was a broadly bullish session driven by two powerful earnings beats — Eli Lilly's GLP-1 blowout and Disney's parks-and-streaming double win — pushing the S&P up nearly 1.8% and Nasdaq past 2.5%. Beneath the surface, the real story was gold surging to $4,214, bond yields falling, and Wall Street beginning a meaningful rotation from high-multiple tech into healthcare, suggesting the market's leadership is quietly but meaningfully changing.\nLO MÁS IMPORTANTE:\n• Eli Lilly raised 2026 guidance by $4B — this confirms GLP-1 obesity drugs are the most important pharmaceutical story of the decade, and the ripple effects touch dozens of industries\n• Gold hit $4,214 while the 10Y yield fell — when gold rises AND bonds rally together, the market is sending a cautious signal about long-term confidence in paper currencies and fiscal stability\n• Wall Street is rotating from tech to healthcare — this is a behavioral shift by professional investors that can last weeks or months and create both winners (XLV) and losers (NVDA, high-multiple tech)\nCONCEPTO DEL DÍA:\n**Yield Curve Steepening** — today, the 10-year Treasury yield fell while the 30-year stayed high near 5.19%, making the curve \"steeper\" at the long end. Think of it like a mortgage: if short-term rates drop but 30-year mortgage rates stay high, it means the market believes inflation or government debt risk will be a problem for a long time, even if today feels calmer. It's a warning sign hidden inside an otherwise bullish day.\nPARA MAÑANA:\nWatch Thursday's U.S. jobless claims data closely — any surprise spike in unemployment could flip today's optimism into a risk-off selloff, while a clean number would confirm the soft-landing narrative and push markets higher. Also monitor whether gold can hold above the critical $4,200 level and whether Lilly's stock continues to lead the healthcare sector higher on follow-through buying.",
+  "market_snapshot": {
+    "S&P 500": {
+      "price": 7736.52001953125,
+      "pct_change": 1.789619360979541
+    },
+    "Nasdaq": {
+      "price": 26584.990234375,
+      "pct_change": 2.5896906047874735
+    },
+    "10Y Treasury": {
+      "price": 4.626999855041504,
+      "pct_change": -1.2590699294024557
+    },
+    "DXY": {
+      "price": 99.83899688720703,
+      "pct_change": -0.05105866728705939
+    },
+    "Gold": {
+      "price": 4213.89990234375,
+      "pct_change": 2.89349032635821
+    },
+    "Bitcoin": {
+      "price": 64003.12890625,
+      "pct_change": -0.08246574467000407
+    }
+  }
+}
